@@ -5,6 +5,8 @@ subitems:
     url: /comms-introduction
   - title: Understanding your audience
     url: /comms-audience
+  - title: ELIXIR's Comms Ecosystem
+    url: /comms-ecosystem
 status: under development
 module_icon: /assets/img/icons/icon-module-communication.svg
 

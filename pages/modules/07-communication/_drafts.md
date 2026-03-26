@@ -1,56 +1,4 @@
----
-title: Understanding your audience
-description: 
-page_id: comms-audience
-type: Communication
-status: in development
-learning_outcomes:
-
----
-
-
-{% include module-metadata.html %}
-
-## Who are your stakeholders
-
-A successful communication strategy starts with knowing your audience. In a research infrastructure like ELIXIR, your stakeholders are diverse: policymakers, funders, researchers from other disciplines, industry partners and sometimes the general public. Each group has different interests, levels of expertise and preferred ways of receiving information. For example:
-
-* Policymakers want concise, actionable summaries that highlight societal or economic impact.
-* Funders are interested in results, value for money, and long-term benefits.
-* Researchers may want technical details, data access or collaboration opportunities.
-
-Each Node will also have a different priority matrix for each of these stakeholders. Consider building a priority matrix to decide where to focus your efforts for maximum impact. 
-
-{% include callout.html type="note" content="Your priority matrix may evolve as your Node, project, or service evolves. These are not meant to be monolithic stones, but a guiding tool that should evolve as your project does. " %}
-
-### Example
-
-ELIXIR-UK used the following priority matrix (A) for 2023-2024. However, since the new funding grant began in 2025, the priority matrix shifted (B) toward more national-level intervention, thanks to additional funding and capacity to support researchers and technical professionals in the UK.
-
-### Exercise
-Think of a recent project or result from your Node. Build a priority matrix for that particular case.
-Now, for each group in the priority matrix, write one sentence that would catch their attention.
-
-## Choosing the right communication channels {#choosing-the-right-communication-channels}
-
-Not all communication channels are created equally. The best channel depends on your audience, message and resources. Some channels are quick and easy (such as social media), while others require more effort but have a lasting impact (such as policy briefs or scientific publications).
-
-**Channel comparison table:**
-
-| Channel               | Effort          | Impact           | Best for                                                  |
-| --------------------  | --------------- | ---------------- | --------------------------------------------------------- |
-| **Social media**      | Low             | Medium           | Quick updates, events, opportunities, and personal touch  |
-| **Newsleetter/email** | Low             | Medium           | Targetted updates, events, opportunities                  |
-| **Policy brief**      | High            | High             | Policymakers, funders                                     |
-| **Newsletter**        | Medium          | Medium           | A mix of internal and external stakeholders               |
-| **Scientific paper**  | High            | High (long-term) | Reaching other researchers                                |
-| **Website**           | Medium          | High             | All audiences (as long as the content is well structured) |
-
-
-### Exercise
-Imagine one of your Node members has just finished a project deliverable that will be relevant for potential new users.
-**Choose three channels that you would prioritise?**
-
+* [Writing in the sciences – free course by Stanford University](https://www.coursera.org/learn/sciwrite)
 <details>
   <summary>Click to see solution</summary>
 <ol>
@@ -90,7 +38,13 @@ Nodes have utilised ELEAD as a success case when justifying local investment in 
 
 
 
-## Existing resources
-* [Watch the CONVERGE video on communications tips for different audiences](https://www.youtube.com/watch?v=th88pw_w52U)
 
 
+
+CAse study
+ELIXIR-UK used the following priority matrix (A) for 2023-2024. However, since the new funding grant began in 2025, the priority matrix shifted (B) toward more national-level intervention, thanks to additional funding and capacity to support researchers and technical professionals in the UK.
+
+
+Downloadables
+[📥 Download the Priority Matrix template — Google Doc]
+[📥 Download the Persona Builder template — Google Doc]

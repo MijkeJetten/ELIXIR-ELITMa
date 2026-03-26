@@ -2,7 +2,7 @@
 Front matter supported:
 - status
 - status_badge (Bootstrap: success|warning|info|secondary|danger)
-- description
+- summary
 - learning_outcomes (simple list of strings)
 {%- endcomment -%}
 
@@ -47,11 +47,11 @@ Front matter supported:
         </div>
 
         <div class="col-md-8">
-          <div class="small text-muted">Description</div>
-          {%- if page.description -%}
-            <p class="mb-0">{{ page.description }}</p>
+          <div class="small text-muted">summary</div>
+          {%- if page.summary -%}
+            <p class="mb-0">{{ page.summary }}</p>
           {%- else -%}
-            <span class="text-muted">No description provided.</span>
+            <span class="text-muted">No summary provided.</span>
           {%- endif -%}
         </div>
 

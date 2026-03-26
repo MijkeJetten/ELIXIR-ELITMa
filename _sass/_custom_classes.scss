@@ -77,6 +77,24 @@ header .navbar {
   }
 }
 
+/*-----------Button style----------*/
+.button {
+  background-color: $accent-color;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  border-radius: 6px;
+  
+}
+
+.button:hover {
+  background-color: $secondary;
+  color: white;
+}
 
 // Icon sizing
 
