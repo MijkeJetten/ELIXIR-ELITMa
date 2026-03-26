@@ -297,3 +297,19 @@ header .navbar {
   object-fit: contain;
   display: block;
 }
+
+// Remove bullet and add spacing for task list checkboxes
+ul.task-list {
+  list-style: none;
+  padding-left: 0;
+
+  li.task-list-item {
+    padding-left: 0;
+    margin-bottom: 0.5rem;
+
+    input[type="checkbox"] {
+      margin-right: 0.5rem;
+      accent-color: $primary;  
+    }
+  }
+}

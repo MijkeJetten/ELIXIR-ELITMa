@@ -8,6 +8,7 @@ audience: [Node Coordinators, Project Managers, Communications Officers]
 time: 15 minutes
 status: ready
 summary: Communication is already happening in your Node – the question is whether it's working. This section helps you understand the difference between internal and external communication, why both matter in a distributed infrastructure like ELIXIR, and how to take stock of where your Node currently stands.
+task_list: true
 learning_outcomes:
     - Distinguish between internal and external communication and identify which applies to a given situation in your Node
     - Recognise communication as a shared responsibility across all roles, not just dedicated comms staff
@@ -49,15 +50,15 @@ This isn't rare. It's the default when communication is treated as something tha
 
 ## Quick exercise: your communication audit
 
-Reflect on a current or recent project. Answer honestly:
+Reflect on a current or recent project.
 
-* Do all active members know where to find the latest updates?
-* Have I identified which outputs are worth communicating beyond the project team?
-* Is there a clear process for sharing successes and lessons learned?
-* Are our members aware of current objectives?
-* Are the channels I'm using actually working?
+- [ ]  Do all active members know where to find the latest updates?
+- [ ] Have I identified which outputs are worth communicating beyond the project team?
+- [ ] Is there a clear process for sharing successes and lessons learned?
+- [ ] Are our members aware of current objectives?
+- [ ] Are the channels I'm using actually working?
 
-**If you answered no to two or more, this module is for you — and so is the rest of this course.**
+{% include callout.html type="warning" content="If you didn't clik to two or more, this module is for you – keep going." %}
 
 
 ## Existing resources
@@ -67,3 +68,17 @@ Communicating research and, in particular, inside Research Infrastructures, is c
 If you want to delve deeper, there are numerous resources you can use to communicate more clearly. Here are a few key ones to highlight:
 * [Communication Toolkit for Research Infrastructures](https://ri-vis.eu/network/rivis/news/launch-of-communication-toolkit-for-research-infrastructures/)
 * [Communication Toolkit for European Projects](https://eic.ec.europa.eu/communication-toolkit_en)
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.task-list-item input[type="checkbox"]').forEach(function (cb, i) {
+      var key = 'task-' + window.location.pathname + '-' + i;
+      cb.removeAttribute('disabled');
+      cb.checked = localStorage.getItem(key) === 'true';
+      cb.addEventListener('change', function () {
+        localStorage.setItem(key, cb.checked);
+      });
+    });
+  });
+</script>
