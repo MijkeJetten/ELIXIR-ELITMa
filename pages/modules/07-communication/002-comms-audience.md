@@ -3,6 +3,7 @@ title: Understanding your audience
 description: Saying the right thing to the wrong audience is as ineffective as saying nothing at all. Learn how to tailor your messages. 
 summary: Not everyone needs to hear the same thing — and saying the right thing to the wrong audience is as ineffective as saying nothing at all. This module helps you identify who your key stakeholders are, prioritise where to focus your effort, and choose the channels most likely to reach them.
 audience: [Communications Officers, Project Managers, Node Coordinators]
+time: 15 minutes
 page_id: comms-audience
 type: Communication
 status: in development

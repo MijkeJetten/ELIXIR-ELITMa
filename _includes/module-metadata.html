@@ -71,7 +71,6 @@ Front matter supported:
     <!-- Learning outcomes tab -->
     <div class="tab-pane" id="module-meta-outcomes" role="tabpanel">
       {%- if page.learning_outcomes -%}
-        <p class="mb-3">After completing this module, participants are capable of:</p>
         <ol class="mb-0">
           {%- for outcome in page.learning_outcomes -%}
             <li class="mb-2">{{ outcome }}</li>

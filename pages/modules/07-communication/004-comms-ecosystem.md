@@ -5,6 +5,7 @@ summary: ELIXIR has a range of communication channels and platforms, but knowing
 audience: [Node Coordinators, Researchers, New ELIXIR Staff]
 page_id: comms-ecosystem
 type: Communication
+time: 15 minutes
 status: under development
 learning_outcomes:
   - Identify the main communication channels available within ELIXIR and their intended purpose
