@@ -2,8 +2,10 @@
 Front matter supported:
 - status
 - status_badge (Bootstrap: success|warning|info|secondary|danger)
-- description
-- learning_outcomes (simple list of strings)
+- time
+- audience (list of strings)
+- learning_outcomes (list of strings)
+Icons: Font Awesome (fa-solid). Bootstrap Icons not loaded in this theme.
 {%- endcomment -%}
 
 <div class="module-metadata my-4">
@@ -33,27 +35,36 @@ Front matter supported:
 
     <!-- General tab -->
     <div class="tab-pane show active" id="module-meta-general" role="tabpanel">
-      <div class="row g-4">
+      <div class="d-flex flex-wrap gap-4 py-2">
 
-        <div class="col-md-4">
-          <div class="small text-muted">Status</div>
-          {%- if page.status -%}
-            <span class="badge bg-{{ page.status_badge | default: 'secondary' }}">
-              {{ page.status }}
-            </span>
-          {%- else -%}
-            <span class="text-muted">Not specified.</span>
-          {%- endif -%}
+        {%- if page.status -%}
+        <div class="border-start ps-3">
+          <div class="small text-muted text-uppercase module-meta-label">
+            <i class="fa-solid fa-circle-check me-1"></i>Status
+          </div>
+          <span class="badge bg-{{ page.status_badge | default: 'secondary' }}">
+            {{ page.status }}
+          </span>
         </div>
+        {%- endif -%}
 
-        <div class="col-md-8">
-          <div class="small text-muted">Description</div>
-          {%- if page.description -%}
-            <p class="mb-0">{{ page.description }}</p>
-          {%- else -%}
-            <span class="text-muted">No description provided.</span>
-          {%- endif -%}
+        {%- if page.time -%}
+        <div class="border-start ps-3">
+          <div class="small text-muted text-uppercase module-meta-label">
+            <i class="fa-solid fa-clock me-1"></i>Time to complete
+          </div>
+          <span>{{ page.time }}</span>
         </div>
+        {%- endif -%}
+
+        {%- if page.audience -%}
+        <div class="border-start ps-3">
+          <div class="small text-muted text-uppercase module-meta-label">
+            <i class="fa-solid fa-users me-1"></i>Primary audience
+          </div>
+          <span>{{ page.audience | join: ", " }}</span>
+        </div>
+        {%- endif -%}
 
       </div>
     </div>
@@ -61,20 +72,13 @@ Front matter supported:
     <!-- Learning outcomes tab -->
     <div class="tab-pane" id="module-meta-outcomes" role="tabpanel">
       {%- if page.learning_outcomes -%}
-        <p class="mb-3">
-          After completing this module, participants are capable of:
-        </p>
-
         <ol class="mb-0">
           {%- for outcome in page.learning_outcomes -%}
             <li class="mb-2">{{ outcome }}</li>
           {%- endfor -%}
         </ol>
-
       {%- else -%}
-        <span class="text-muted">
-          There are no learning outcomes defined for this module.
-        </span>
+        <span class="text-muted">There are no learning outcomes defined for this module.</span>
       {%- endif -%}
     </div>
 

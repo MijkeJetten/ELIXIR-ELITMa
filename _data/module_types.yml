@@ -1,0 +1,117 @@
+- title: ELIXIR introduction and governance
+  description: Introduces European and global research infrastructures, including regulatory bodies like ESFRI
+  icon: /images/icons/icon-module-governance.svg
+  type: Governance
+  id: mod_gov
+  description:
+  url: modules/governance
+  status: to do
+  order: 1
+
+- title: Node data management strategy
+  description: An introduction to RDM principles and FAIR data practices
+  icon: /images/icons/icon-module-data-management.svg
+  id: mod_dm
+  type: Data management
+  leads:
+  url: modules/data-management
+  status: in development
+  time: 3 hours
+  status_badge:
+  order: 2
+
+- title: Strategic management
+  description: Lightweight tools and frameworks for monitoring and tracking strategic objectives using quantitative and qualitative indicators
+  icon: /images/icons/icon-module-strategic-management.svg
+  id: mod_sm
+  type: Strategic Management
+  leads:
+  url: modules/strategic-management
+  status: to do
+  time: 
+  status_badge:
+  order: 3
+
+- title: Leading teams in ELIXIR
+  description: Aimed at ELIXIR Node staff and internal project leaders, this module develops leadership and team management skills.
+  icon: /images/icons/icon-module-leading-teams.svg
+  id: mod_teams
+  type: Leading teams
+  leads:
+  url: modules/leading-teams
+  status: to do
+  time: 
+  status_badge:
+  order: 4
+
+- title: Legal and ethical issues
+  description: Equipping participants with practical tools and strategies to navigate ethical, legal and social issues.
+  icon: /images/icons/icon-module-elsi.svg
+  id: mod_elsi
+  leads:
+  type: ELSI
+  url: modules/elsi
+  status: to do
+  time: 
+  status_badge:
+  order: 5
+
+- title: Communication
+  icon: /images/icons/icon-module-communication.svg
+  description: Practical tools for communicating your Node's work
+  url: /modules/communication
+  id: mod_comm
+  leads:
+  type: Communication
+  status: in development
+  status_badge: 
+  time: 2 hours
+  order: 6
+
+- title: Financial management
+  description: Theoretical and practical financial management techniques for ELIXIR Nodes
+  icon: /images/icons/icon-module-finance.svg
+  id: mod_fm
+  type: Finance
+  leads:
+  url: modules/finance
+  status: to do
+  time: 
+  status_badge:
+  order: 7
+
+- title: Project management
+  description: Promotes project management best practices and provides a flexible, open-access tool adaptable for each Node's requirements
+  icon: /images/icons/icon-module-pm.svg
+  id: mod_pm
+  leads:
+  type: Project Management
+  url: modules/project-management
+  status: to do
+  time: 
+  status_badge:
+  order: 8
+
+- title: Impact
+  description: Impact First delivered as part of the SPARKLE staff exchange in 2024, further development will occur as part of the PeoplePulse project.
+  icon: /images/icons/icon-module-impact.svg
+  id: mod_impact
+  type: Project management
+  leads:
+  url: modules/impact
+  status: to do
+  time: 
+  status_badge:
+  order: 9
+
+- title: Carbon footprint
+  description: The first course is under development in collaboration with ELIXIR-STEERS and SPARKLE staff exchange projects,
+  icon: /images/icons/icon-module-cf.svg
+  id: mod_cf
+  leads:
+  type: Carbon footprint
+  url: modules/carbon-footprint
+  status: in development
+  time: 
+  status_badge:
+  order: 10

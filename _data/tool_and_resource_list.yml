@@ -1,0 +1,13 @@
+- id: ri-comms-toolkit
+  name: Communication Toolkit for Research Infrastructures
+  url: https://ri-vis.eu/network/rivis/news/launch-of-communication-toolkit-for-research-infrastructures/
+  description: 
+  category: external_resource
+  module: mod_comm
+
+- id: ec-comms-tolkit
+  name: Communication Toolkit for European Projects
+  url: https://eic.ec.europa.eu/communication-toolkit_en
+  description: 
+  category: external_resource
+  module: mod_comm

@@ -77,6 +77,46 @@ header .navbar {
   }
 }
 
+/*-----------Button style----------*/
+.btn-download {
+  @extend .btn;
+
+  background-color: $primary;
+  border: none;
+  color: $white;
+
+  border-radius: $btn-border-radius-sm;
+  font-weight: 600;
+  font-size: 0.875rem;
+  padding: 12px 28px;
+  text-decoration: $link-decoration;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 15px rgba($primary, 0.3);
+  
+  &:hover {
+    background-color: $secondary;
+    color: $white;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba($primary, 0.5);
+  }
+  
+  &:active {
+    transform: translateY(0);
+  }
+  
+  .fas {
+    transition: transform 0.2s ease;
+  }
+  
+  &:hover .fas {
+    transform: translateY(-1px);
+  }
+}
+
+
 
 // Icon sizing
 
@@ -102,8 +142,12 @@ header .navbar {
             box-shadow: $box-shadow;
         }
     }
+    
 }
 
+.navigation-tiles .card-body {
+  padding: 1.5rem;
+}
 /*------Home-------*/
 .landingpage {
   h2 {
@@ -174,3 +218,126 @@ header .navbar {
 .h-icon-6 { height: 6em; }
 .h-icon-5 { height: 5em; }
 .h-icon-4 { height: 4em; }
+
+
+/*------Module metadata box------*/
+.module-metadata {
+
+  .nav-tabs {
+    border-bottom: 1px solid $grey-light;
+
+    .nav-link {
+      color: $primary;
+      font-weight: 600;
+      background-color: transparent;
+      border: 1px solid transparent;
+      border-radius: $border-radius $border-radius 0 0;
+
+      &:hover {
+        color: $secondary;
+        border-color: $grey-light $grey-light transparent;
+      }
+
+      &.active {
+        color: $primary;
+        font-weight: 700;
+        background-color: $accent-color-light;
+        border-color: $grey-light $grey-light $white;
+        border-top: 3px solid $accent-color;
+      }
+    }
+  }
+
+  .tab-content {
+    background-color: $accent-color-light;
+    border: 1px solid $grey-light;
+    border-top: none;
+    border-radius: 0 0 $border-radius $border-radius;
+  }
+
+  .module-meta-label {
+    font-family: $font-family-sans-serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.25rem;
+
+    i {
+      color: $secondary;
+     opacity: 0.6;
+    }
+  }
+
+  .border-start {
+    border-color: $grey-light !important;
+  }
+
+}
+
+/*------Module card chips------*/
+.module-chip {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  background-color: $white;
+  border: 1px solid $grey-light;
+  color: $primary;
+  white-space: nowrap;
+
+  &--time i {
+    color: $accent-color;
+  }
+
+  &--time {
+    color: $accent-color;
+  }
+
+  &--audience i {
+    color: $secondary;
+  }
+
+  &--audience {
+    color: $primary;
+  }
+}
+
+.module-chip-more {
+  display: inline-flex;
+  align-items: center;
+  align-self: center;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: $secondary;
+  padding: 0 0.1rem;
+}
+
+.module-type-icon {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  display: block;
+}
+
+// Remove bullet and add spacing for task list checkboxes
+ul.task-list {
+  list-style: none;
+  padding-left: 0;
+
+  li.task-list-item {
+    padding-left: 0;
+    margin-bottom: 0.5rem;
+
+    input[type="checkbox"] {
+      margin-right: 0.5rem;
+      accent-color: $primary;  
+    }
+  }
+}
+
+
+// Remove huge table margin
+.mb-5 {
+  margin-bottom: 0.5rem !important;
+}

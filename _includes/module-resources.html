@@ -1,0 +1,108 @@
+{% comment %}
+Usage: {% include module-resources.html module_id="mod_comm" %}
+Displays all resources for a given module, grouped by category.
+{% endcomment %}
+
+{% assign all_tools = site.data.tool_and_resource_list
+   | where: "module", include.module_id
+   | sort_natural: "name" %}
+
+{% assign templates = all_tools | where: "category", "template" %}
+{% assign internal = all_tools | where: "category", "internal_resource" %}
+{% assign external = all_tools | where: "category", "external_resource" %}
+
+{% if templates.size > 0 %}
+<h2>Templates</h2>
+<div class="table-responsive mt-3 mb-4">
+  <table class="tooltable table display">
+    <thead>
+      <tr>
+        <th style="width: 15%">Category</th>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+    {%- for tool in templates %}
+      <tr>
+        <td style="width: 15%">
+          <span class="badge bg-info text-dark">Template</span>
+        </td>
+        <td>
+          {%- if tool.url %}
+          <a href="{{ tool.url }}">{{ tool.name }}</a>
+          {%- else %}
+          {{ tool.name }}
+          {%- endif %}
+        </td>
+        <td>{{ tool.description | markdownify }}</td>
+      </tr>
+    {%- endfor %}
+    </tbody>
+  </table>
+</div>
+{% endif %}
+
+{% if internal.size > 0 %}
+<h2>Internal resources</h2>
+<div class="table-responsive mt-3 mb-4">
+  <table class="tooltable table display">
+    <thead>
+      <tr>
+        <th style="width: 15%">Category</th>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+    {%- for tool in internal %}
+      <tr>
+        <td style="width: 15%">
+          <span class="badge bg-primary">Internal</span>
+        </td>
+        <td>
+          {%- if tool.url %}
+          <a href="{{ tool.url }}">{{ tool.name }}</a>
+          {%- else %}
+          {{ tool.name }}
+          {%- endif %}
+        </td>
+        <td>{{ tool.description | markdownify }}</td>
+      </tr>
+    {%- endfor %}
+    </tbody>
+  </table>
+</div>
+{% endif %}
+
+{% if external.size > 0 %}
+<h2>External resources</h2>
+<div class="table-responsive mt-3 mb-4">
+  <table class="tooltable table display">
+    <thead>
+      <tr>
+        <th style="width: 15%">Category</th>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+    {%- for tool in external %}
+      <tr>
+        <td style="width: 15%">
+          <span class="badge bg-secondary">External</span>
+        </td>
+        <td>
+          {%- if tool.url %}
+          <a href="{{ tool.url }}">{{ tool.name }}</a>
+          {%- else %}
+          {{ tool.name }}
+          {%- endif %}
+        </td>
+        <td>{{ tool.description | markdownify }}</td>
+      </tr>
+    {%- endfor %}
+    </tbody>
+  </table>
+</div>
+{% endif %}
