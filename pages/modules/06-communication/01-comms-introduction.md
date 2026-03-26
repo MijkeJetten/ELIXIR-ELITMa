@@ -9,11 +9,16 @@ time: 15 minutes
 status: ready
 summary: Communication is already happening in your Node – the question is whether it's working. This section helps you understand the difference between internal and external communication, why both matter in a distributed infrastructure like ELIXIR, and how to take stock of where your Node currently stands.
 task_list: true
-sidebar: true
+sidebar: module-communication
 learning_outcomes:
     - Distinguish between internal and external communication and identify which applies to a given situation in your Node
     - Recognise communication as a shared responsibility across all roles, not just dedicated comms staff
     - Audit your Node's current communication practices against a simple five-point framework
+related_pages:
+  Real_world_example: [comm-ex-matrix]
+ref_to_main_resources:
+  - ec-comms-tolkit
+  - ri-comms-toolkit
 ---
 
 {% include module-metadata.html %}
@@ -40,13 +45,7 @@ Two Work Package leads in a multi-Node project each spent months producing what 
 
 This isn't rare. It's the default when communication is treated as something that happens after the work, rather than alongside it.
 
-{% include callout.html type="note" content="Considering communication strategies before a project begins is the first step towards avoiding duplicated efforts and team misalignment. Considering which outputs will be relevant to people outside the project will also position your work as a success for future funding avenues for your Node and the consortium at large." %}
-
-
-## Examples
-
-* How did a Node communicate an opportunity that reached the entire consortium – BioHackathon Germany comms
-* How a deliverable was turned into an impact/outreach story – ELEAD imapct case study
+{% include callout.html type="tip" content="Considering communication strategies before a project begins is the first step towards avoiding duplicated efforts and team misalignment. Considering which outputs will be relevant to people outside the project will also position your work as a success for future funding avenues for your Node and the consortium at large." %}
 
 
 ## Quick exercise: your communication audit
@@ -62,13 +61,13 @@ Reflect on a current or recent project.
 {% include callout.html type="warning" content="If you didn't tick three or more, this module is definetely for you – keep going." %}
 
 
-## Existing resources
+## What's next
 
-Communicating research and, in particular, inside Research Infrastructures, is complex, but the end communications piece should not reflect that complexity. This short module will help you understand how to take action on some of the easy steps and give you cues for ELIXIR-specific applications. 
+Communicating research and, in particular, inside Research Infrastructures, is complex, but the end communications piece should not reflect that complexity.
 
-If you want to delve deeper, there are numerous resources you can use to communicate more clearly. Here are a few key ones to highlight:
-* [Communication Toolkit for Research Infrastructures](https://ri-vis.eu/network/rivis/news/launch-of-communication-toolkit-for-research-infrastructures/)
-* [Communication Toolkit for European Projects](https://eic.ec.europa.eu/communication-toolkit_en)
+This short module will help you understand how to take action on some of the easy steps and give you cues for ELIXIR-specific applications. 
+
+{% include callout.html type="tip" content="If you want to delve deeper than this module, there are numerous resources you can use to communicate more clearly. Use the tools and resources tables provided at the end of each page." %}
 
 
 <script>

@@ -5,6 +5,7 @@ summary: Not everyone needs to hear the same thing — and saying the right thin
 audience: [Communications Officers, Project Managers, Node Coordinators]
 page_img: /icons/icon-module-communication.svg
 time: 15 minutes
+sidebar: module-communication
 page_id: mod_comm_2
 type: Communication
 status: in development

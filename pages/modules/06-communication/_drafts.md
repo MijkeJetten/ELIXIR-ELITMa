@@ -7,6 +7,11 @@ See the example below.
 </ol>
 </details>
 
+## Examples
+
+* How did a Node communicate an opportunity that reached the entire consortium – BioHackathon Germany comms
+* How a deliverable was turned into an impact/outreach story – ELEAD imapct case study
+
 ### Example
 
 ELEAD (ELIXIR LEadership And Diversity mentoring programme) had to present their key achievements for the ELIXIR Annual Report, which is often read by policymakers, European Commission officials, ELIXIR’s Board, and internal leadership. The initial text contained very detailed information that was highly relevant to those organising the programme. It did a good job of listing the year's achievements and milestones within the limited word count.

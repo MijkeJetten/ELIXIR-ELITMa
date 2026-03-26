@@ -11,11 +11,9 @@
 #    image_url: absolute path to image (default image from github)
 
 Mijke Jetten:
-    git: bedroesb
-    orcid: 0000-0001-9114-2896
-    role: editor
-    affiliation: VIB Data Core / ELIXIR-BE
-    image_url: mijke_jetten.png
+    git: 
+    role: Data Management Lead
+    affiliation: Health-RI / ELIXIR-NL
 Xenia Perez Sitja:
     affiliation: Earlham Institute / ELIXIR-UK
     git: sitjart

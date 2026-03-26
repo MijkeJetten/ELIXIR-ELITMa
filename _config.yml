@@ -50,13 +50,15 @@ defaults:
       path: "pages/modules/data-management"
     values:
       sidebar: module-data-management
-      type_img: /icons/icon-module-data-management.svg
+      type_img: /images/icons/icon-module-data-management.svg
+      type: Data management
   -
     scope:
       path: "pages/modules/communication"
     values:
       sidebar: module-communication
-      type_img: /icons/icon-module-communication.svg
+      type: Communication
+      type_img: /images/icons/icon-module-communication.svg
 
 
 plugins:

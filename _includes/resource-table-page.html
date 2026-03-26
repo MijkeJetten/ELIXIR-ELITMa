@@ -1,0 +1,36 @@
+{%- if page.ref_to_main_resources %}
+{%- assign tool_ids = page.ref_to_main_resources %}
+<h2>Dive deeper</h2>
+<div class="table-responsive mt-4 mb-5">
+    <table class="tooltable table display">
+        <thead>
+            <tr>
+                <th>Category</th>
+                <th>Resource</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            {%- for tool_id in tool_ids | sort %}
+            {%- assign tool = site.data.tool_and_resource_list | where:"id", tool_id | first %}
+            <tr>
+                <td style="width: 10%">
+                    <span class="badge bg-secondary">
+                        {{ tool.category | replace: "_", " " | capitalize }}
+                    </span>
+                </td>
+                </td>
+                <td>
+                    {%- if tool.url %}
+                    <a href="{{ tool.url }}">{{ tool.name }}</a>
+                    {%- else %}
+                    {{ tool.name }}
+                    {%- endif %}
+                </td>
+                <td>{{ tool.description | markdownify }}</td>
+            </tr>
+            {%- endfor %}
+        </tbody>
+    </table>
+</div>
+{%- endif %}

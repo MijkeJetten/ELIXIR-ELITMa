@@ -5,6 +5,7 @@ summary: You don't need to be a professional writer to communicate your Node's w
 audience: [Researchers, Project Managers, Node Coordinators]
 page_img: /icons/icon-module-communication.svg
 page_id: mod_comm_5
+sidebar: module-communication
 type: Communication
 status: ready
 status_badge: success

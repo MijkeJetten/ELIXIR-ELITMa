@@ -5,6 +5,7 @@ summary: ELIXIR has a range of communication channels and platforms, but knowing
 audience: [Node Coordinators, Researchers, New ELIXIR Staff]
 page_img: /icons/icon-module-communication.svg
 page_id: mod_comm_4
+sidebar: module-communication
 type: Communication
 time: 15 minutes
 status: under development
