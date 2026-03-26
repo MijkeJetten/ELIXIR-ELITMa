@@ -78,23 +78,45 @@ header .navbar {
 }
 
 /*-----------Button style----------*/
-.button {
-  background-color: $accent-color;
+.btn-download {
+  @extend .btn;
+
+  background-color: $primary;
   border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin: 4px 2px;
-  border-radius: 6px;
+  color: $white;
+
+  border-radius: $btn-border-radius-sm;
+  font-weight: 600;
+  font-size: 0.875rem;
+  padding: 12px 28px;
+  text-decoration: $link-decoration;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 15px rgba($primary, 0.3);
   
+  &:hover {
+    background-color: $secondary;
+    color: $white;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba($primary, 0.5);
+  }
+  
+  &:active {
+    transform: translateY(0);
+  }
+  
+  .fas {
+    transition: transform 0.2s ease;
+  }
+  
+  &:hover .fas {
+    transform: translateY(-1px);
+  }
 }
 
-.button:hover {
-  background-color: $secondary;
-  color: white;
-}
+
 
 // Icon sizing
 
@@ -312,4 +334,10 @@ ul.task-list {
       accent-color: $primary;  
     }
   }
+}
+
+
+// Remove huge table margin
+.mb-5 {
+  margin-bottom: 0.5rem !important;
 }

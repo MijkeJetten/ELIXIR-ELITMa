@@ -62,27 +62,33 @@ Use this to decide who gets a tailored message, who gets a standard update, and 
 
 {% include callout.html type="note" content="Your priority matrix may evolve as your Node, project or service evolves. These are not meant to be monolithic stones, but a guiding tool that should evolve as your project does. " %}
 
-[📥 Download the Priority Matrix template — Google Doc]
+<a href="" class="btn-download" download>
+  <i class="fas fa-download"></i>Download matrix template
+</a>
+
 
 ## The persona builder
 Once you know your priority stakeholders, the next step is understanding them well enough to communicate effectively. A persona is a brief profile of a stakeholder type – not a real individual, but a representative picture of what they care about, what they already know, and what would make them pay attention.
 {% include callout.html type="note" content="You don't need to build a persona for every stakeholder. Focus on your top two or three priority groups." %}
 
-## How to build a persona
+### How to build a persona
 * Give the persona a role title, not a name (e.g. "National Funder Representative").
 * Describe what they already know about ELIXIR – assume less than you think.
 * Identify what they care about most – this is usually not what you care about most.
 * Note where they get their information – this tells you which channels to use.
 
-## Example persona – National Funder Representative:
-Write one sentence that would catch their attention about your specific output
+### Example persona – National Funder
+
+|----------|------------------------------------------------------------|
 | **Role**                             | Represents national ministry funding ELIXIR membership                           |
 | **What they know about ELIXIR**      | Aware of ELIXIR at a high level; unlikely to know the Node's specific activities |
 | **What they care about**             | Value for national investment, visibility of impact, alignment with national research priorities |
 | **Where they get information**       | Annual reports, board meeting slides, briefing documents, LinkedIn               |
 | **What would catch their attention** | "ELIXIR-[country]'s work this year directly supported [X] researchers in achieving [outcome]"  |
 
-[📥 Download the Persona Builder template — Google Doc]
+<a href="" class="btn-download" download>
+  <i class="fas fa-download"></i>Download persona builder template
+</a>
 
 ### Exercise
 Think of a recent project or result from your Node. Build a priority matrix for that particular case.
