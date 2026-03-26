@@ -3,6 +3,7 @@ title: Collaboration and resource sharing
 description: Whatever communication challenge you're facing, someone in the network has most likely already solved it. Find out more.
 summary: One of the most common mistakes in a distributed network is assuming you have to figure everything out yourself. ELIXIR has a living network of contacts, shared resources and dedicated spaces for peer support. This module shows you how to find and use them.
 audience: [Node Coordinators, Node Leadership positions]
+page_img: /icons/icon-module-communication.svg
 time: 10 minutes
 page_id: comms-collaboration
 type: Communication

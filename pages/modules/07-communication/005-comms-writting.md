@@ -3,7 +3,7 @@ title: Writing for Non-Writers
 description: You don't need to be a professional writer – you need to know what you're trying to say and who you're saying it to. Improve your writing style. 
 summary: You don't need to be a professional writer to communicate your Node's work effectively. You need to know what you're trying to say, who you're saying it to, and how to get out of your own way. The rest is craft – and craft can be learned.
 audience: [Researchers, Project Managers, Node Coordinators]
-
+page_img: /icons/icon-module-communication.svg
 type: Communication
 status: ready
 status_badge: success

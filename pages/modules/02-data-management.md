@@ -1,6 +1,5 @@
 ---
 title: Data Management
-page_img: /icons/icon-module-data-management.svg
 type: Module
 page_id: mod_dm
 permalink: /modules/data-management/

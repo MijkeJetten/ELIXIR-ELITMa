@@ -1,0 +1,10 @@
+Communication:
+  icon: /images/icons/icon-module-communication.svg
+  color: primary
+  leads:
+
+Data Management:
+  icon: /images/icons/icon-module-data-management.svg
+  color: secondary
+  leads:
+  url: 
