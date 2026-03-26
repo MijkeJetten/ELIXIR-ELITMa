@@ -1,5 +1,5 @@
 title: Data Management Module
-url: modules/data-management
+title-url: modules/data-management
 subitems:
   - title: Why a Node data management strategy
     url: /001-dm-intro
