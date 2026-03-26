@@ -1,4 +1,5 @@
 - title: ELIXIR introduction and governance
+  description: Introduces European and global research infrastructures, including regulatory bodies like ESFRI
   icon: /images/icons/icon-module-governance.svg
   type: Governance
   id: mod_gov
@@ -92,7 +93,7 @@
   order: 8
 
 - title: Impact
-  description: 
+  description: Impact First delivered as part of the SPARKLE staff exchange in 2024, further development will occur as part of the PeoplePulse project.
   icon: /images/icons/icon-module-impact.svg
   id: mod_impact
   type: Project management
@@ -104,7 +105,7 @@
   order: 9
 
 - title: Carbon footprint
-  description: 
+  description: The first course is under development in collaboration with ELIXIR-STEERS and SPARKLE staff exchange projects,
   icon: /images/icons/icon-module-cf.svg
   id: mod_cf
   leads:
