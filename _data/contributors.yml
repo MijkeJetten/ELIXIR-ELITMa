@@ -9,7 +9,6 @@
 #    role: the role of the contributor
 #    affiliation: affiliation
 #    image_url: absolute path to image (default image from github)
-
 Mijke Jetten:
     git: MijkeJetten
     role: Lead
