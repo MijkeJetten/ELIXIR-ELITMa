@@ -4,6 +4,8 @@ title: ELITMa – ELIXIR Training Programme in Management
 topnav_title: 
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
+topnav_banner: "ELITMa is currently under development and may change at any point - it is not meant for production use"
+
 description: "ELIXIR Training Programme in Management, supporting the planning and delivery of Node activities such as coordination, training, service provision, infrastructure management, events and communication."
 # Metadata description of the website
 
@@ -27,8 +29,8 @@ theme_variables:
     theme: light
   fonts:
     - https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap
+  back_to_top: true
 
-topnav_banner: 
 # Optional: a banner message to display to users on all pages
 
 defaults:
