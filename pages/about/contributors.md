@@ -1,6 +1,7 @@
 ---
 title: Contributors
 permalink: contributors
+page_img: /icons/icon-idea.svg
 ---
 
 ## Current leads of ELIXIR-ELITMa Modules

@@ -1,5 +1,6 @@
 ---
 title: Events
+page_img: /icons/icon-calendar.svg
 ---
 
 ## Upcoming events
