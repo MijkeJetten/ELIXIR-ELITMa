@@ -74,6 +74,6 @@ A strategy needs input from several perspectives. Together, these roles create a
 
 ## Examples from Nodes
 
-- **Example 1**: Node x created a brief Node data management strategy to clarify who owns which services. This helped new staff settle in quickly
+- **Example 1**: Node x created a brief Node data management strategy to clarify who owns which services. This helped new staff settle in quickly  
 - **Example 2**: Node y used its Node data management strategy to decide which tools to maintain and which partnerships to strengthen
 - **Example 3**: Node z drafted a simple two page Node data management strategy during a retreat. It became a helpful reference during funding discussions
