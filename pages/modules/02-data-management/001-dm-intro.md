@@ -4,8 +4,8 @@ page_id: mod_dm_1
 type: Data Management
 page_img: /icons/icon-module-data-management.svg
 status: in development
-description: Build a shared understanding of why a NDMS matters and what it offers to your Node
-audience: []
+description: Build a shared understanding of why a NDMS matters and what it offers to your Node or institutions
+audience: [Node Coordinators, Data Stewards]
 learning_outcomes:
     - 
 ---
@@ -14,7 +14,7 @@ learning_outcomes:
 
 ## Why a NDMS matters
 
-- ELIXIR Nodes bring together many institutions, services and communities. Each group works with data in different ways. Without a shared direction it becomes difficult to coordinate work or explain how the Node supports its researchers. A NDMS helps create this direction and provides clarity
+- ELIXIR Nodes bring together many institutions, services and communities. Each group works with data in different ways. Without a shared direction it becomes difficult to coordinate work or explain how the Node supports its researchers. A Node data management strategy helps create this direction and provides clarity
   
 - It shows what the Node wants to achieve in data management, how its services fit together and where support is still needed. It reduces duplication, improves communication and helps staff understand their roles
   
@@ -22,11 +22,11 @@ learning_outcomes:
 
 ## What a NDMS is
 
-- A NDMS is a short, practical document. It outlines the main goals of the Node, the data landscape it serves and the principles that guide its work
+- A Node data management strategy is a short, practical document. It outlines the main goals of the Node, the data landscape it serves and the principles that guide its work
 
 - It brings together information that often exists in many places. It does not replace detailed policies, service descriptions or Data Management Plans. Instead, it connects them
 
-- A NDMS shows how the Node supports good data management and FAIR practices. It describes the main services, roles and communities involved
+- A Node data management strategy shows how the Node supports good data management and FAIR practices. It describes the main services, roles and communities involved
 
 - It also gives staff a shared view of the current situation and future direction
 
@@ -38,7 +38,7 @@ learning_outcomes:
 
 - It also helps with budget planning and acquiring funding. A clear strategy shows which topics matter most and where resources are needed. This supports leadership and teams when planning budgets or seeking support
 
-- A NDMS links existing work. Nodes often have policies, maturity assessments, training plans and service descriptions. The strategy brings these together. It helps show how each element contributes to the wider picture
+- A Node data management strategy links existing work. Nodes often have policies, maturity assessments, training plans and service descriptions. The strategy brings these together. It helps show how each element contributes to the wider picture
 
 ## Developing a NDMS
 
@@ -64,12 +64,12 @@ A strategy needs input from several perspectives. Together, these roles create a
 
 ## Exercises 
 
-1. **Three reasons**: List three reasons why your Node would benefit from a NDMS. Share with a partner 
-2. **Risks without a strategy**: Write down three risks that could occur if your Node continues without a NDMS
-3. **What exists already**: Identify documents or practices that may feed into a NDMS. Mark which ones are most useful
+1. **Three reasons**: List three reasons why your Node would benefit from a data management strategy. Share with a partner 
+2. **Risks without a strategy**: Write down three risks that could occur if your Node continues without a data management strategy
+3. **What exists already**: Identify documents or practices that may feed into a Node data management strategy. Mark which ones are most useful
 
 ## Examples from Nodes
 
-- **Example 1**: Node x created a brief NDMS to clarify who owns which services. This helped new staff settle in quickly
-- **Example 2**: Node y used its NDMS to decide which tools to maintain and which partnerships to strengthen
-- **Example 3**: Node z drafted a simple two page NDMS during a retreat. It became a helpful reference during funding discussions
+- **Example 1**: Node x created a brief Node data management strategy to clarify who owns which services. This helped new staff settle in quickly
+- **Example 2**: Node y used its Node data management strategy to decide which tools to maintain and which partnerships to strengthen
+- **Example 3**: Node z drafted a simple two page Node data management strategy during a retreat. It became a helpful reference during funding discussions
