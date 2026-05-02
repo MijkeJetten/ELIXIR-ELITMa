@@ -5,7 +5,7 @@ page_id: mod_dm_2
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
 audience: [Node Coordinators, Data Stewards]
-time: 20 minutes 
+time: 30 minutes 
 status: in development
 summary: This section helps you understand your Node context by mapping key elements such as governance, services and stakeholders. It also guides you in identifying the initial team needed to develop your data management strategy.
 learning_outcomes:
