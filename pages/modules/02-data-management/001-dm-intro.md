@@ -27,11 +27,11 @@ ELIXIR Nodes bring together many institutions, services and communities. Each gr
 
 Funders and national partners often expect this kind of clarity. A Node data management strategy provides it.
 
-> ℹ **Note:** Developing a Node data management strategy is not the responsibility of a single role. It requires input from coordination, data stewardship, technical teams and user-facing support to reflect the full data landscape.
+{% include callout.html type="note" content="Developing a Node data management strategy is not the responsibility of a single role. It requires input from coordination, data stewardship, technical teams and user-facing support to reflect the full data landscape." %}
 
 ## What a NDMS is and does
 
-> ℹ **Note:** A Node data management strategy is not a complex policy document. It is a simple way to bring clarity to how data is managed across the Node or institution.
+{% include callout.html type="note" content="A Node data management strategy is not a complex policy document. It is a simple way to bring clarity to how data is managed across the Node or institution." %}
 
 A Node data management strategy has a few key characteristics:
 - **A short, practical document**: A strategy outlines the main goals of the Node, the data landscape it serves and the principles that guide its work.
@@ -47,17 +47,15 @@ A Node data management strategy links existing work. Nodes often have policies, 
 Before moving on, write this down. It will help you make the next steps more concrete.
 
 1. **Think about what already exists**  
-   Write down 3–5 items related to data management in your Node  
-   (e.g. policies, services, tools, training, agreements)
+   Write down 3–5 items related to data management in your Node (e.g. policies, services, tools, training, agreements).
 
 2. **Group them**  
    Which belong together? Are there overlaps or gaps?
 
 3. **Reflect**  
-   - What feels clear and well connected?  
-   - What feels fragmented or missing?
+   What feels clear and well connected? What feels fragmented or missing?
 
-> ✔ **Tip:** Compare your notes with a colleague. Do you see the same picture, or are there differences in perspective?
+{% include callout.html type="tip" content="Compare your notes with a colleague. Do you see the same picture, or are there differences in perspective?" %}
 
 ## Quick reflection: risks without a strategy
 
@@ -83,22 +81,22 @@ Using your notes, take the first steps towards developing a Node data management
    Sketch a one-page outline of what your strategy could include.  
    What would be in scope, and what can wait?
 
-> ✔ **Tip:** Keep this lightweight. The goal is not to create a complete strategy, but to take a first step.
+{% include callout.html type="tip" content="Keep this lightweight. The goal is not to create a complete strategy, but to take a first step." %}
 
 ## Who to involve
 
 For a basic Node data management strategy, a small but diverse group is usually enough. Consider whether you have the following roles involved:
 
-- ☐ A **Node coordinator** to set direction and ensure alignment with national and ELIXIR priorities  
-- ☐ A **data steward or technical staff member** with knowledge of standards, tools and workflows  
-- ☐ A **support or training staff member** to represent user needs  
-- ☐ A **community representative** to reflect the needs of researchers  
+- [ ] A **Node coordinator** to set direction and ensure alignment with national and ELIXIR priorities  
+- [ ] A **data steward** or **technical staff member** with knowledge of standards, tools and workflows  
+- [ ] A **support** or **training staff member** to represent user needs  
+- [ ] A **community representative** to reflect the needs of researchers  
 
-> ⚠ **Warning:** If only one or two perspectives are represented, important aspects of the data landscape may be missed.
+{% include callout.html type="warning" content="If only one or two perspectives are represented, important aspects of the data landscape may be missed." %}
 
 ## Examples from Nodes
 
-> ℹ **Note:** These examples are placeholders and reflect small, early steps taken by Nodes. They are intended to provide inspiration for now and will be replaced by separate real-world example pages for this module, developed with contributions from ELIXIR Nodes.
+{% include callout.html type="note" content="These examples are placeholders and reflect small, early steps taken by Nodes. They are intended to provide inspiration for now and will be replaced by separate real-world example pages for this module, developed with contributions from ELIXIR Nodes." %}
 
 These are examples of small steps Nodes might have taken:
 
@@ -131,3 +129,17 @@ A Node wrote down who is responsible for which data-related services. This helpe
 > Describe the situation you encountered and what you did to address it. What was the problem, and what did your action help improve?  
 >  
 > Make sure your example relates to one of the topics from this module (the *WHY* of a Node data management strategy), such as coordination, clarity or planning.
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.task-list-item input[type="checkbox"]').forEach(function (cb, i) {
+      var key = 'task-' + window.location.pathname + '-' + i;
+      cb.removeAttribute('disabled');
+      cb.checked = localStorage.getItem(key) === 'true';
+      cb.addEventListener('change', function () {
+        localStorage.setItem(key, cb.checked);
+      });
+    });
+  });
+</script>
