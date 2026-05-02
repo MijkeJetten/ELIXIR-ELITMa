@@ -127,8 +127,6 @@ Fill in the table below.
 
 ## What’s next
 
-## What’s next
-
 You will build on the overview you have created using the GORC model.
 
 In the next section, you will assess these elements using the Data Stewardship Handbook maturity model. This will help you evaluate how well your current setup works and identify concrete next steps for improvement.
