@@ -1,6 +1,6 @@
 ---
 title: What to include in your Node data management strategy
-description: Use your Node context to decide which topics and priorities belong in your data management strategy
+description: Use the Global Open Research Commons (GORC) model to structure your Node and decide which topics and priorities belong in your data management strategy
 page_id: mod_dm_3
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
@@ -10,7 +10,7 @@ status: in development
 summary: This section helps you decide what to include in your Node data management strategy. You will use the Global Open Research Commons model to structure your Node, select relevant areas and define priorities.
 learning_outcomes:
     - Identify the main elements that could be included in a Node data management strategy
-    - Use the Global Open Research Commons model to structure your Node context
+    - Use the Global Open Research Commons (GORC) model to structure your Node context
     - Select priority areas and draft a simple outline for your strategy
 ---
 {% include module-metadata.html %}
