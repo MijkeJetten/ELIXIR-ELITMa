@@ -154,20 +154,15 @@ A Node worked on human capacity. They mapped training activities and available s
 
 ---
 
-### Create your own example
+## Create your own example
 
-{% include callout.html type="important" content="Contributions from Nodes are essential to make this module practical and relevant. Even small examples are valuable." %}
-
-✍ Choose one GORC element you worked on (e.g. governance, interoperability, human capacity).
+> ✍ **For contributors:** Choose one GORC element you worked on (e.g. governance, interoperability, human capacity). Add your Node, name and role, and write a short example (max. 3 paragraphs): what was the situation, what did you do, and what did it help improve. You can describe a small step or first attempt. A full strategy is not required.
 
 **Node:** [Your Node name]  
 **Contributor:** [Name]  
 **Role:** [e.g. Data steward, Node coordinator]
 
-✍ **Your example:**  
-Describe:
-- what was unclear or fragmented  
-- what you mapped or analysed  
-- what this helped improve  
-
-Keep it short (max. 3 paragraphs). Focus on a concrete step or first iteration.
+> ✍ **Your example:**  
+> Describe the situation you encountered and what you did to address it. What was unclear or fragmented, and what did your action help improve?  
+>
+> Make sure your example relates to one of the GORC elements, such as governance, interoperability, human capacity or sustainability.
