@@ -9,7 +9,7 @@
   order: 1
 
 - title: Node data management strategy
-  description: An introduction to RDM principles and FAIR data practices
+  description: Guides the development of data management strategies at Node or institutional level
   icon: /images/icons/icon-module-data-management.svg
   id: mod_dm
   type: Data management
