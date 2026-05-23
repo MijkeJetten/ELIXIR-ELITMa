@@ -5,7 +5,7 @@ page_id: mod_dm_3
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
 audience: [Node Coordinators, Data Stewards]
-time: 60 minutes 
+time: 60 minutes
 status: in development
 sidebar: module-data-management
 description: A set of core elements to consider when shaping the content of your strategy, including goals, priorities and key RDM topics #very brief
