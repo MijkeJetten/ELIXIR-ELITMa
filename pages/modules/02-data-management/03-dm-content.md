@@ -168,4 +168,4 @@ A Node worked on human capacity. They mapped training activities and available s
 > ✍ **Your example:**  
 > Describe the situation you encountered and what you did to address it. What was unclear or fragmented, and what did your action help improve?  
 >
-> Make sure your example relates to one of the GORC elements, such as governance, interoperability, human capacity or sustainability.
+> Make sure your example relates to one of the GORC elements, such as governance, interoperability, human capacity or sustainability. 
