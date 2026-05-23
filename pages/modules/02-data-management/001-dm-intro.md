@@ -6,7 +6,7 @@ page_img: /icons/icon-module-data-management.svg
 type: Data Management
 audience: [Node Coordinators, Data Stewards]
 time: 60 minutes 
-status: in development
+status: ready
 sidebar: module-data-management
 description: Build a shared understanding of why a NDMS matters and what it offers to your Node
 summary: Data management activities already exist across roles and services. The question is whether they form a coherent strategy. This section explores why a coordinated approach matters, how it supports sustainable and FAIR practices, and how to reflect on alignment, priorities and responsibilities.
@@ -71,7 +71,7 @@ Consider your current situation:
 
 Using your notes, take the first steps towards developing a Node data management strategy.
 
-1. **Begin with what already exists**
+1. **Begin with what already exists**  
    Gather documents, notes or agreements related to data or services.  
    Which of these would you include in a first overview?
 
