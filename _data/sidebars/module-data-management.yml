@@ -1,13 +1,13 @@
 title: Data Management Module
 title-url: modules/data-management
 subitems:
-  - title: Why a Node data management strategy
-    url: /001-dm-intro
-  - title: Understanding your Node context
-    url: /002-dm-node-context
-  - title: What to include in a NDMS
-    url: /003-dm-content
-  - title: How to begin developing a NDMS
-    url: /004-dm-begin
-  - title: Planning and sustaining a NDMS
-    url: /005-dm-plan-sustain
+  - title: 01 Why a Node data management strategy
+    url: /01-dm-introduction
+  - title: 02 Understanding your Node context
+    url: /02-dm-node-context
+  - title: 03 What to include
+    url: /03-dm-content
+  - title: 04 How to begin
+    url: /04-dm-begin
+  - title: 05 Planning and sustaining
+    url: /05-dm-plan-sustain
