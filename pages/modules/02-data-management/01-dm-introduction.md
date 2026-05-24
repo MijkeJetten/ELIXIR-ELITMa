@@ -1,7 +1,6 @@
 ---
 title: Why a Node data management strategy
-description: Explore why a coordinated Node data management strategy matters and how it supports sustainable and FAIR practices.
-page_id: mod_dm_1
+description: Build a shared understanding of why a Node data management strategy matters and what it offers to your Node.
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
 audience: [Node Coordinators, Data Stewards]
