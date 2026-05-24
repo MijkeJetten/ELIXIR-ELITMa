@@ -57,13 +57,9 @@ Keep your notes short and practical. The goal is not completeness, but developin
 
 ## Organising your team
 
-Based on your context overview, identify who should be involved in developing your Node data management strategy.
+Once you have a basic understanding of your Node context, the next step is to bring together a small group to develop your strategy. Based on your context overview, identify who should be involved in developing your Node data management strategy.
 
-Once you have a basic understanding of your Node context, the next step is to bring together a small group to develop your strategy.
-
-Start with two or three people. This is enough to begin. You can expand the group later as needed.
-
-A useful group often includes:
+Start with two or three people. This is enough to begin. You can expand the group later as needed. A useful group often includes:
 - Node coordination  
 - Data stewards or data managers  
 - Service or infrastructure leads  
@@ -72,7 +68,7 @@ A useful group often includes:
 
 {% include callout.html type="tip" content="Focus on diversity of perspectives rather than formal roles. You need people who understand how things work in practice." %}
 
-### Quick step: outline your team
+## Quick step: outline your team
 
 List the people who should be involved in developing your Node data management strategy.
 
@@ -85,14 +81,11 @@ Agree early on:
 - How decisions are made  
 - Where you document your work  
 
-As a first step, draft a simple agenda for your initial meeting.  
-Include 2–3 key questions you want to answer together.
+As a first step, draft a simple agenda for your initial meeting. Include 2–3 key questions you want to answer together.
 
 ## What’s next
 
-You will build on the overview and team you have just defined.
-
-In the next section, you will define what to include in your Node data management strategy and how to structure its content.
+You will build on the overview and team you have just defined. In the next section, you will define what to include in your Node data management strategy and how to structure its content.
 
 {% include callout.html type="tip" content="Your context overview does not need to be complete. You can refine it as you continue." %}
 
