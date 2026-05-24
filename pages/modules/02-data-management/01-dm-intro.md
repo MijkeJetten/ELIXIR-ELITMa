@@ -10,7 +10,9 @@ status: ready
 sidebar: module-data-management
 summary: Data management activities already exist across roles and services. The question is whether they form a coherent strategy. This section explores why a coordinated approach matters, how it supports sustainable and FAIR practices, and how to reflect on alignment, priorities and responsibilities.
 related_pages:
-  Real_world_example: [nl-dm, de-dm]
+  Real_world_example: 
+  - nl-dm
+  - de-dm
 learning_outcomes:
     - Explain why a Node data management strategy is needed to support coordination, clarity and planning 
     - Describe what a Node data management strategy includes and how it connects existing work 
