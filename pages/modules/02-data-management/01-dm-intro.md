@@ -13,6 +13,7 @@ related_pages:
   Real_world_example: 
   - nl-dm
   - de-dm
+  - funders-dm.md
 learning_outcomes:
     - Explain why a Node data management strategy is needed to support coordination, clarity and planning 
     - Describe what a Node data management strategy includes and how it connects existing work 
