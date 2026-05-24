@@ -1,6 +1,6 @@
 ---
 title: Understanding your Node context
-description: Understand the environment in which your Node operates and identify the people and elements that shape your data management strategy
+description: Understand your Node context by mapping governance, services and stakeholders involved in data management activities.
 page_id: mod_dm_2
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
@@ -8,7 +8,6 @@ audience: [Node Coordinators, Data Stewards]
 time: 30 minutes 
 status: in development
 sidebar: module-data-management
-description: Understand the environment in which your Node operates and organise the team that will guide the development of your data management strategy
 summary: This section helps you understand your Node context by mapping key elements such as governance, services and stakeholders. It also guides you in identifying the initial team needed to develop your data management strategy.
 learning_outcomes:
     - Describe the key elements that shape your Node context for data management
