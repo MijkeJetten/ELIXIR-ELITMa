@@ -32,44 +32,28 @@ Start by building a simple overview of your Node context. You do not need great 
 
 Use these questions to guide your first overview.
 
-| Area | Questions to guide you |
-|------|----------------------|
-| Governance | Who makes decisions on data management? Where are these discussed or approved? |
-| Data landscape | What research domains and data types are present? What workflows are common? |
-| Services | What RDM services and tools exist? Who uses them and who maintains them? |
-| Policies and standards | Which guidelines or standards apply? |
-| Training and support | What support is available for researchers? Where are the gaps? |
-| Sustainability | How are services funded and staffed? What is stable or uncertain? |
+| Area | Questions to guide you | Example |
+|------|----------------------|------|
+| Governance | Who makes decisions on data management? Where are these discussed or approved? | Decisions made by Node coordinator and steering group |
+| Data landscape | What research domains and data types are present? What workflows are common? | Life sciences and clinical data |
+| Services | What RDM services and tools exist? Who uses them and who maintains them? | Repository, training programme, helpdesk |
+| Policies and standards | Which guidelines or standards apply? | FAIR principles, national guidelines |
+| Training and support | What support is available for researchers? Where are the gaps? | Workshops and limited one-on-one support |
+| Sustainability | How are services funded and staffed? What is stable or uncertain? | Project-based funding, limited staff continuity |
 
-## Exercise: map your Node context
+## First reflection
 
-Create a simple overview of your Node using the areas above.
+Using the areas above, make a rough overview of your current Node context.
 
-Fill in the table below with short notes. Keep it concise. You can refine it later.
+As a starting point, reflect on:
+- what already seems well organised?
+- where do activities overlap?
+- what feels fragmented or unclear?
+- where are important gaps?
 
-| Area | Notes |
-|------|------|
-| Governance |  |
-| Data landscape |  |
-| Services |  |
-| Policies and standards |  |
-| Training and support |  |
-| Sustainability |  |
+Keep your notes short and practical. The goal is not completeness, but developing a shared understanding of your current situation.
 
-{% include callout.html type="tip" content="You do not need complete information. A rough overview is enough to support your next steps." %}
-
-### Example – a simple Node context overview
-
-This is an example of what a simple overview might look like:
-
-| Area | Notes |
-|------|------|
-| Governance | Decisions made by Node coordinator and steering group |
-| Data landscape | Life sciences and clinical data |
-| Services | Repository, training programme, helpdesk |
-| Policies and standards | FAIR principles, national guidelines |
-| Training and support | Workshops and limited one-on-one support |
-| Sustainability | Project-based funding, limited staff continuity |
+{% include callout.html type="tip" content="Compare your observations with someone else in your Node. Different perspectives often reveal hidden assumptions, overlaps or missing connections." %}
 
 ## Organising your team
 
