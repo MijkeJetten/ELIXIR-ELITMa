@@ -46,10 +46,10 @@ Use these questions to guide your first overview.
 Using the areas above, make a rough overview of your current Node context.
 
 As a starting point, reflect on:
-- what already seems well organised?
-- where do activities overlap?
-- what feels fragmented or unclear?
-- where are important gaps?
+- What already seems well organised?
+- Where do activities overlap?
+- What feels fragmented or unclear?
+- Where are important gaps?
 
 Keep your notes short and practical. The goal is not completeness, but developing a shared understanding of your current situation.
 
@@ -77,13 +77,13 @@ A useful group often includes:
 List the people who should be involved in developing your Node data management strategy.
 
 Mark:
-- essential now  
-- useful later  
+- Essential now  
+- Useful later  
 
 Agree early on:
-- how often you meet  
-- how decisions are made  
-- where you document your work  
+- How often you meet  
+- How decisions are made  
+- Where you document your work  
 
 As a first step, draft a simple agenda for your initial meeting.  
 Include 2–3 key questions you want to answer together.
