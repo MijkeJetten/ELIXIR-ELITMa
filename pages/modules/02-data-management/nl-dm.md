@@ -4,12 +4,8 @@ description: Coordinating RDM support across a distributed national network
 type_img: /images/icons/icon-module-data-management.svg
 page_id: nl-dm
 type: Real_world_example
-chapter: 01-dm-intro
-node: ELIXIR Netherlands
 ---
-{% include module-metadata.html %}
 
-**Node**: ELIXIR Netherlands  
 **Contributor**: Mijke Jetten  
 **Role**: Data Stewardship Liaison, Deputy Training coordinator  
 
