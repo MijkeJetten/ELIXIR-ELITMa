@@ -1,6 +1,7 @@
 ---
 title: Why a Node data management strategy
 description: Build a shared understanding of why a Node data management strategy matters and what it offers to your Node.
+page_id: mod_dm_1
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
 audience: [Node Coordinators, Data Stewards]
