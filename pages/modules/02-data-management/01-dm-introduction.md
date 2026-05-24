@@ -1,6 +1,6 @@
 ---
 title: Why a Node data management strategy
-description: Build a shared understanding of why a Node data management strategy matters and what it offers to your Node
+description: Explore why a coordinated Node data management strategy matters and how it supports sustainable and FAIR practices.
 page_id: mod_dm_1
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
@@ -8,7 +8,6 @@ audience: [Node Coordinators, Data Stewards]
 time: 60 minutes 
 status: ready
 sidebar: module-data-management
-description: Build a shared understanding of why a NDMS matters and what it offers to your Node
 summary: Data management activities already exist across roles and services. The question is whether they form a coherent strategy. This section explores why a coordinated approach matters, how it supports sustainable and FAIR practices, and how to reflect on alignment, priorities and responsibilities.
 learning_outcomes:
     - Explain why a Node data management strategy is needed to support coordination, clarity and planning 
