@@ -97,7 +97,29 @@ For a basic Node data management strategy, a small but diverse group is usually 
 
 ## Examples from Nodes
 
-{% include callout.html type="note" content="These examples are placeholders and reflect small, early steps taken by Nodes. They are intended to provide inspiration for now and will be replaced by separate real-world example pages for this module, developed with contributions from ELIXIR Nodes." %}
+### Identifying where the Node can add value 
+**Node**: ELIXIR Netherlands
+**Contributor**: Mijke Jetten
+**Role**: data stewardship liaison, deputy training coordinator 
+
+One thing I noticed quickly was that everyone already had ideas about coordination, support and data management, but most of these ideas stayed in conversations. We talked about visibility, training, tools and governance, but it was difficult to move from general discussions to concrete next steps. 
+
+To make the discussion more practical, I started writing down rough ideas for a possible ELIXIR NL data management strategy. I used the new ELIXIR NL strategy as a starting point and added notes around data stewardship, training, technical coordination and support for researchers. The document was messy and incomplete, but that actually helped. It gave us something concrete to react to.
+
+I then used the draft during discussions with the Head of Node and a data expert from one of our institutions. One thing that became clear very quickly was that many activities already existed somewhere in the network, but responsibilities and connections between activities were not always visible. Starting with a lightweight draft helped turn broad discussions into more practical conversations about priorities, coordination and where ELIXIR NL could realistically help.
+
+### Mapping strengths and gaps across the Node 
+**Node**: ELIXIR Netherlands 
+**Contributor**: Mijke Jetten 
+**Role**: data stewardship liaison, deputy training coordinator 
+
+As part of exploring a possible Node data management strategy for ELIXIR NL, I started mapping activities, roles and services across the network. I used the RDA GORC model together with the new ELIXIR NL strategy to help structure my notes and discussions. The goal was not to cover the full model, but to understand where coordination was missing and where ELIXIR NL could help most. 
+
+One thing became clear very quickly: many things already existed somewhere in the network. ELIXIR NL already had strong expertise in interoperability, FAIRification, training and tools. At the same time, activities were spread across projects and organisations, and coordination was not always clear. This made it difficult to understand what should happen at Node level and what should stay local to institutes or projects. 
+
+The discussions quickly became practical. We kept coming back to one simple question: how does this help researchers? This helped us focus on topics such as data access and governance, metadata standards, and training around standards and tools. One important lesson so far is that ELIXIR NL probably does not need to build many completely new things itself. In many cases, the bigger challenge is helping people find existing expertise, tools and examples across the network.
+
+{% include callout.html type="note" content="The below examples are placeholders and reflect small, early steps taken by Nodes. They are intended to provide inspiration for now and will be replaced by separate real-world example pages for this module, developed with contributions from ELIXIR Nodes." %}
 
 These are examples of small steps Nodes might have taken:
 
