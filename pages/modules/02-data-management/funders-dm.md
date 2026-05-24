@@ -37,7 +37,6 @@ This means that FAIRification cannot always be organised project by project. Nod
 ## What can Nodes learn from this?
 
 ### FAIRification requires coordination
-
 FAIRification often depends on:
 - Shared metadata approaches
 - Community standards
@@ -47,7 +46,6 @@ FAIRification often depends on:
 Nodes can play a role in connecting these activities.
 
 ### FAIRification is community specific
-
 Different research communities use different standards, vocabularies and FAIR approaches. Generic support alone is often not sufficient.
 
 Nodes may therefore need:
@@ -56,7 +54,6 @@ Nodes may therefore need:
 - Collaboration with researchers and data stewards
 
 ### FAIR support goes beyond compliance
-
 The presentation distinguishes research data management from FAIRification. FAIRification is presented as a process rather than a single compliance step.
 
 This may influence:
@@ -75,7 +72,6 @@ This may influence:
 - Alignment between local and national initiatives
 
 ## What can you do?
-
 Nodes may reflect on:
 
 - Whether current support focuses mainly on project level RDM
