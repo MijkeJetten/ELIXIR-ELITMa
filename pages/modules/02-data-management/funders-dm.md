@@ -39,10 +39,4 @@ From a funder perspective, FAIR data increases the value and reuse of research i
 - Alignment between local and national initiatives
 
 ## What can you do?
-Nodes may reflect on:
-- Whether current support focuses mainly on project level RDM
-- Which FAIRification activities already exist
-- Which metadata standards are used by communities
-- Where coordination is currently fragmented
-- Which expertise is currently missing
-- Ehich collaborations are needed to support FAIRification
+Nodes may reflect on whether current support focuses mainly on project level RDM or already includes broader FAIRification approaches. They may also assess which FAIRification activities already exist, which metadata standards are used by communities, where coordination is currently fragmented, which expertise is missing, and which collaborations are needed to support FAIRification.
