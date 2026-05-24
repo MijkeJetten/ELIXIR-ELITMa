@@ -31,7 +31,10 @@ One important lesson so far is that we probably do not need to build many comple
 
 What still remains difficult is deciding where ELIXIR Netherlands should actively develop something new and where it is better to connect existing activities. Because the network is loosely connected and funding is mostly project based, coordination depends heavily on collaboration and shared priorities across partners.
 
-## Why a Node data management strategy {#why-a-node-data-management-strategy}
+<h2 id="why-a-node-data-management-strategy">
+Why a Node data management strategy
+</h2>
+
 The examples below connect to the module page on [Why a Node data management strategy](01-dm-intro).
 
 ### Identifying where the Node can add value 
