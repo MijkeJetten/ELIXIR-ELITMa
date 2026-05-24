@@ -98,9 +98,9 @@ For a basic Node data management strategy, a small but diverse group is usually 
 ## Examples from Nodes
 
 ### Identifying where the Node can add value 
-**Node**: ELIXIR Netherlands
-**Contributor**: Mijke Jetten
-**Role**: data stewardship liaison, deputy training coordinator 
+**Node**: ELIXIR Netherlands  
+**Contributor**: Mijke Jetten  
+**Role**: data stewardship liaison, deputy training coordinator  
 
 One thing I noticed quickly was that everyone already had ideas about coordination, support and data management, but most of these ideas stayed in conversations. We talked about visibility, training, tools and governance, but it was difficult to move from general discussions to concrete next steps. 
 
@@ -108,10 +108,10 @@ To make the discussion more practical, I started writing down rough ideas for a 
 
 I then used the draft during discussions with the Head of Node and a data expert from one of our institutions. One thing that became clear very quickly was that many activities already existed somewhere in the network, but responsibilities and connections between activities were not always visible. Starting with a lightweight draft helped turn broad discussions into more practical conversations about priorities, coordination and where ELIXIR NL could realistically help.
 
-### Mapping strengths and gaps across the Node 
-**Node**: ELIXIR Netherlands 
-**Contributor**: Mijke Jetten 
-**Role**: data stewardship liaison, deputy training coordinator 
+### Mapping strengths and gaps across the Node
+**Node**: ELIXIR Netherlands  
+**Contributor**: Mijke Jetten  
+**Role**: data stewardship liaison, deputy training coordinator  
 
 As part of exploring a possible Node data management strategy for ELIXIR NL, I started mapping activities, roles and services across the network. I used the RDA GORC model together with the new ELIXIR NL strategy to help structure my notes and discussions. The goal was not to cover the full model, but to understand where coordination was missing and where ELIXIR NL could help most. 
 
