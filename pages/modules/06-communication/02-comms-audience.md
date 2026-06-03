@@ -122,7 +122,7 @@ Think of a current or upcoming output from your Node – a new service, a projec
 There is no single correct answer, but there is always a better and a worse one. This exercise is to simply build the habit of asking "who is this for?" before you communicate anything.
 
 ## Further resources
-→ Module 4: ELIXIR-specific communication ecosystem — for the specific channels available to you across the consortium
+→ Section 4: ELIXIR-specific communication ecosystem — for the specific channels available to you across the consortium
 → Case study: ELIXIR-UK priority matrix 2023–2025 (case study library)
 Watch the CONVERGE video on communications tips
 * [Watch the CONVERGE video on communications tips for different audiences](https://www.youtube.com/watch?v=th88pw_w52U)

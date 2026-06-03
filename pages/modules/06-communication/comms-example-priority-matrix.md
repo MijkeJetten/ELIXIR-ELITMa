@@ -1,5 +1,5 @@
 ---
-title: ELXIIR-UK priority matrix
+title: ELIXIR-UK priority matrix
 description: A real-world application of the priority matrix framework
 summary: 
 type_img: /images/icons/icon-module-communication.svg

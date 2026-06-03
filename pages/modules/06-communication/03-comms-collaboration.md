@@ -73,6 +73,6 @@ Think of a recent or upcoming output from your Node — a project result, a trai
 * You don't need to send it. The goal is to build the habit of asking "who else should be part of this?" before you communicate.
 
 ## Further resources
-→ Module 4: ELIXIR-specific communication ecosystem — for a full overview of the channels available across the consortium
+→ Section 4: ELIXIR-specific communication ecosystem — for a full overview of the channels available across the consortium
 ELIXIR Communications Group intranet page
 Node contacts and social media accounts spreadsheet

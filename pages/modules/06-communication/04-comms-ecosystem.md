@@ -117,5 +117,5 @@ Social media guidelines for ELIXIR consortium members (intranet)
 
 ELIXIR Node internal newsletters — guidelines and recommendations (intranet)
 
-→ Module 7: Graphic Design for Non-Designers — for branding guidance when using these channels
+→ Section 7: Graphic design for non-designers — for branding guidance when using these channels
 Case study: How ELIXIR-UK autoamted the communications of jobs and events 

@@ -8,6 +8,51 @@
 - id: ec-comms-tolkit
   name: Communication Toolkit for European Projects
   url: https://eic.ec.europa.eu/communication-toolkit_en
-  description: 
+  description:
+  category: external_resource
+  module: mod_comm
+
+# --- Accessibility (Section 5) ---
+- id: wave-checker
+  name: WAVE web accessibility evaluation tool
+  url: https://wave.webaim.org/
+  description: Free in-browser tool that flags accessibility issues (missing ALT text, low contrast, heading structure) on any web page.
+  category: external_resource
+  module: mod_comm
+
+- id: axe-checker
+  name: Axe accessibility checker
+  url: https://www.deque.com/axe/
+  description: Free accessibility testing tool, available as a browser extension, for finding and fixing WCAG issues.
+  category: external_resource
+  module: mod_comm
+
+- id: wcag-overview
+  name: Web Content Accessibility Guidelines (WCAG) overview
+  url: https://www.w3.org/WAI/standards-guidelines/wcag/
+  description: The international standard for digital accessibility, built on four principles - perceivable, operable, understandable, robust.
+  category: external_resource
+  module: mod_comm
+
+# --- Graphic design (Section 7) ---
+- id: elixir-branding-hub
+  name: ELIXIR Branding Hub
+  url:
+  description: Official ELIXIR logos, colour palette and templates (intranet - consortium login required).
+  category: internal_resource
+  module: mod_comm
+
+- id: elixir-style-guide
+  name: ELIXIR Style Guide
+  url:
+  description: Guidance on fonts, layouts and image use for a consistent look and feel across all Nodes (intranet).
+  category: internal_resource
+  module: mod_comm
+
+# --- Shared (Sections 5 & 7) ---
+- id: converge-design
+  name: CONVERGE workshop series - Design made easy for communicators
+  url: # TODO: replace with the real CONVERGE design playlist/video URL
+  description: Practical video series on design and accessibility for non-designers in research communications.
   category: external_resource
   module: mod_comm

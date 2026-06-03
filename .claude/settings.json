@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:elixiruknode.org)",
+      "Bash(curl -sL \"https://elixiruknode.org/wp-content/uploads/2024/12/image-fairsharing-dsw-interaction-use-case-2.png\" -o images/communication/fairsharing-dsw-interaction.png)",
+      "Bash(ruby -ryaml -e 'd=YAML.load_file\\(\"_data/tool_and_resource_list.yml\"\\); puts \"data entries: #{d.size}\"; d.each{|e| puts \"  - #{e[\"id\"]} \\(#{e[\"category\"]}, module=#{e[\"module\"]}, url=#{e[\"url\"].inspect}\\)\"}')",
+      "Bash(ruby -ryaml -e 'c=File.read\\(ARGV[0]\\); fm=c.split\\(/^---\\\\s*$/\\)[1]; y=YAML.load\\(fm\\); puts \"  related_pages: #{y[\"related_pages\"].inspect}\"; puts \"  ref_to_main_resources: #{y[\"ref_to_main_resources\"].inspect}\"; puts \"  page_id: #{y[\"page_id\"]}\"' pages/modules/06-communication/__TRACKED_VAR__.md)"
+    ]
+  }
+}
