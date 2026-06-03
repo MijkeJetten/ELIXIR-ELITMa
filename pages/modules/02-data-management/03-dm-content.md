@@ -1,16 +1,14 @@
 ---
 title: What to include in your Node data management strategy
-description: Use the Global Open Research Commons (GORC) model to structure your Node and decide which topics and priorities belong in your data management strategy
+description: Use the Global Open Research Commons (GORC) model to structure your Node data management strategy.
 page_id: mod_dm_3
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
 audience: [Node Coordinators, Data Stewards]
-time: 60 minutes 
+time: 60 minutes
 status: in development
 sidebar: module-data-management
-description: A set of core elements to consider when shaping the content of your strategy, including goals, priorities and key RDM topics #very brief
-summary: # if you want a longer description to appear at the top of the page
-time: # write how long will it take to read this page
+summary: Existing data management activities often develop separately across governance, services and support structures. This section introduces a model for bringing these elements together into a connected strategic framework.
 learning_outcomes:
     - Identify the main elements that could be included in a Node data management strategy
     - Use the Global Open Research Commons (GORC) model to structure your Node context
@@ -168,4 +166,4 @@ A Node worked on human capacity. They mapped training activities and available s
 > ✍ **Your example:**  
 > Describe the situation you encountered and what you did to address it. What was unclear or fragmented, and what did your action help improve?  
 >
-> Make sure your example relates to one of the GORC elements, such as governance, interoperability, human capacity or sustainability.
+> Make sure your example relates to one of the GORC elements, such as governance, interoperability, human capacity or sustainability. 

@@ -1,14 +1,13 @@
 ---
 title: Understanding your Node context
-description: Understand the environment in which your Node operates and identify the people and elements that shape your data management strategy
+description: Understand your Node context by mapping governance, services and stakeholders involved in data management activities.
 page_id: mod_dm_2
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
 audience: [Node Coordinators, Data Stewards]
 time: 30 minutes 
-status: in development
+status: ready
 sidebar: module-data-management
-description: Understand the environment in which your Node operates and organise the team that will guide the development of your data management strategy
 summary: This section helps you understand your Node context by mapping key elements such as governance, services and stakeholders. It also guides you in identifying the initial team needed to develop your data management strategy.
 learning_outcomes:
     - Describe the key elements that shape your Node context for data management
@@ -33,54 +32,34 @@ Start by building a simple overview of your Node context. You do not need great 
 
 Use these questions to guide your first overview.
 
-| Area | Questions to guide you |
-|------|----------------------|
-| Governance | Who makes decisions on data management? Where are these discussed or approved? |
-| Data landscape | What research domains and data types are present? What workflows are common? |
-| Services | What RDM services and tools exist? Who uses them and who maintains them? |
-| Policies and standards | Which guidelines or standards apply? |
-| Training and support | What support is available for researchers? Where are the gaps? |
-| Sustainability | How are services funded and staffed? What is stable or uncertain? |
+| Area | Questions to guide you | Example |
+|------|----------------------|------|
+| Governance | Who makes decisions on data management? Where are these discussed or approved? | Decisions made by Node coordinator and steering group |
+| Data landscape | What research domains and data types are present? What workflows are common? | Life sciences and clinical data |
+| Services | What RDM services and tools exist? Who uses them and who maintains them? | Repository, training programme, helpdesk |
+| Policies and standards | Which guidelines or standards apply? | FAIR principles, national guidelines |
+| Training and support | What support is available for researchers? Where are the gaps? | Workshops and limited one-on-one support |
+| Sustainability | How are services funded and staffed? What is stable or uncertain? | Project-based funding, limited staff continuity |
 
-## Exercise: map your Node context
+## First reflection
 
-Create a simple overview of your Node using the areas above.
+Using the areas above, make a rough overview of your current Node context.
 
-Fill in the table below with short notes. Keep it concise. You can refine it later.
+As a starting point, reflect on:
+- What already seems well organised?
+- Where do activities overlap?
+- What feels fragmented or unclear?
+- Where are important gaps?
 
-| Area | Notes |
-|------|------|
-| Governance |  |
-| Data landscape |  |
-| Services |  |
-| Policies and standards |  |
-| Training and support |  |
-| Sustainability |  |
+Keep your notes short and practical. The goal is not completeness, but developing a shared understanding of your current situation.
 
-{% include callout.html type="tip" content="You do not need complete information. A rough overview is enough to support your next steps." %}
-
-### Example – a simple Node context overview
-
-This is an example of what a simple overview might look like:
-
-| Area | Notes |
-|------|------|
-| Governance | Decisions made by Node coordinator and steering group |
-| Data landscape | Life sciences and clinical data |
-| Services | Repository, training programme, helpdesk |
-| Policies and standards | FAIR principles, national guidelines |
-| Training and support | Workshops and limited one-on-one support |
-| Sustainability | Project-based funding, limited staff continuity |
+{% include callout.html type="tip" content="Compare your observations with someone else in your Node. Different perspectives often reveal hidden assumptions, overlaps or missing connections." %}
 
 ## Organising your team
 
-Based on your context overview, identify who should be involved in developing your Node data management strategy.
+Once you have a basic understanding of your Node context, the next step is to bring together a small group to develop your strategy. Based on your context overview, identify who should be involved in developing your Node data management strategy.
 
-Once you have a basic understanding of your Node context, the next step is to bring together a small group to develop your strategy.
-
-Start with two or three people. This is enough to begin. You can expand the group later as needed.
-
-A useful group often includes:
+Start with two or three people. This is enough to begin. You can expand the group later as needed. A useful group often includes:
 - Node coordination  
 - Data stewards or data managers  
 - Service or infrastructure leads  
@@ -89,27 +68,24 @@ A useful group often includes:
 
 {% include callout.html type="tip" content="Focus on diversity of perspectives rather than formal roles. You need people who understand how things work in practice." %}
 
-### Quick step: outline your team
+## Quick step: outline your team
 
 List the people who should be involved in developing your Node data management strategy.
 
 Mark:
-- essential now  
-- useful later  
+- Essential now  
+- Useful later  
 
 Agree early on:
-- how often you meet  
-- how decisions are made  
-- where you document your work  
+- How often you meet  
+- How decisions are made  
+- Where you document your work  
 
-As a first step, draft a simple agenda for your initial meeting.  
-Include 2–3 key questions you want to answer together.
+As a first step, draft a simple agenda for your initial meeting. Include 2–3 key questions you want to answer together.
 
 ## What’s next
 
-You will build on the overview and team you have just defined.
-
-In the next section, you will define what to include in your Node data management strategy and how to structure its content.
+You will build on the overview and team you have just defined. In the next section, you will define what to include in your Node data management strategy and how to structure its content.
 
 {% include callout.html type="tip" content="Your context overview does not need to be complete. You can refine it as you continue." %}
 

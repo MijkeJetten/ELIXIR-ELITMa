@@ -1,15 +1,19 @@
 ---
 title: Why a Node data management strategy
-description: Build a shared understanding of why a Node data management strategy matters and what it offers to your Node
+description: Build a shared understanding of why a Node data management strategy matters and what it offers to your Node.
 page_id: mod_dm_1
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
 audience: [Node Coordinators, Data Stewards]
 time: 60 minutes 
-status: in development
+status: ready
 sidebar: module-data-management
-description: Build a shared understanding of why a NDMS matters and what it offers to your Node
 summary: Data management activities already exist across roles and services. The question is whether they form a coherent strategy. This section explores why a coordinated approach matters, how it supports sustainable and FAIR practices, and how to reflect on alignment, priorities and responsibilities.
+related_pages:
+  Real_world_example: 
+  - nl-dm
+  - de-dm
+  - funders-dm
 learning_outcomes:
     - Explain why a Node data management strategy is needed to support coordination, clarity and planning 
     - Describe what a Node data management strategy includes and how it connects existing work 
@@ -71,7 +75,7 @@ Consider your current situation:
 
 Using your notes, take the first steps towards developing a Node data management strategy.
 
-1. **Begin with what already exists**
+1. **Begin with what already exists**  
    Gather documents, notes or agreements related to data or services.  
    Which of these would you include in a first overview?
 
@@ -98,7 +102,7 @@ For a basic Node data management strategy, a small but diverse group is usually 
 
 ## Examples from Nodes
 
-{% include callout.html type="note" content="These examples are placeholders and reflect small, early steps taken by Nodes. They are intended to provide inspiration for now and will be replaced by separate real-world example pages for this module, developed with contributions from ELIXIR Nodes." %}
+{% include callout.html type="note" content="These below examples are placeholders and reflect small, early steps taken by Nodes. They are intended to provide inspiration for now and will be replaced by separate real-world example pages for this module, developed with contributions from ELIXIR Nodes." %}
 
 These are examples of small steps Nodes might have taken:
 
