@@ -5,7 +5,7 @@ page_id: mod_comm_1
 page_img: /icons/icon-module-communication.svg
 type: Communication
 audience: [Node Coordinators, Project Managers, Communications Officers]
-time: 15 minutes
+time: 10 minutes
 status: ready
 summary: Communication is already happening in your Node – the question is whether it's working. This section helps you understand the difference between internal and external communication, why both matter in a distributed infrastructure like ELIXIR, and how to take stock of where your Node currently stands.
 task_list: true

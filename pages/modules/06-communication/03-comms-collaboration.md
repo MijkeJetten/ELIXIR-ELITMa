@@ -9,10 +9,16 @@ sidebar: module-communication
 page_id: mod_comm_3
 type: Communication
 status: ready
+status_badge: success
 learning_outcomes:
   - Locate and use the ELIXIR communications contact registry to reach the right person in any Node
   - Identify when a communication effort would benefit from cross-Node coordination
   - Know where to go for help, support and peer knowledge within the consortium
+related_pages:
+  Communication: [mod_comm_4]
+ref_to_main_resources:
+  - comms-contacts-registry
+  - comms-group
 ---
 {% include module-metadata.html %}
 
@@ -25,7 +31,7 @@ The instinct to solve communication problems in isolation is understandable — 
 ## The comms contact registry
 
 The contact registry is one of the most practical resources available to you. It is a living document listing the communications contacts across all Nodes – the people to reach when you need to disseminate something across the consortium, coordinate a joint campaign, or simply ask for advice from someone who has done it before.
-[button | View list of communications contacts]
+<a href="https://docs.google.com/document/d/1OzY4IMhiz-_sZ54EtxPGGdqLOq8T_QJ7d6BMfejZGXk/edit?usp=sharing" class="btn btn-primary" target="_blank" rel="noopener">View the list of communications contacts</a>
 
 {% include callout.html type="important" content="You must be logged in with your consortium credentials to view contact details." %}
 
@@ -61,9 +67,7 @@ This is an open, collaborative space where communicators from all Nodes:
 * Stay informed about ELIXIR-wide communications initiatives, campaigns and comms-relates strategies from the Hub.
 
 Joining is straightforward and participation is flexible. You can contribute as much or as little as your time allows.
-<a>
-  <button>Join the ELIXIR Communications Group</button>
-</a>
+<a href="https://elixir-europe.org/intranet/communication" class="btn btn-primary" target="_blank" rel="noopener">Join the ELIXIR Communications Group</a>
 
 ## Exercise
 Think of a recent or upcoming output from your Node — a project result, a training event, a new service or resource.
@@ -71,8 +75,3 @@ Think of a recent or upcoming output from your Node — a project result, a trai
 * If yes, identify the relevant communications contact using the registry
 * Draft a two-sentence message you could send them proposing a coordinated communication effort.
 * You don't need to send it. The goal is to build the habit of asking "who else should be part of this?" before you communicate.
-
-## Further resources
-→ Section 4: ELIXIR-specific communication ecosystem — for a full overview of the channels available across the consortium
-ELIXIR Communications Group intranet page
-Node contacts and social media accounts spreadsheet

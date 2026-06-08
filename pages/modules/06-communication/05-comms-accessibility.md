@@ -18,7 +18,7 @@ learning_outcomes:
   - Decide when a complex image needs a longer text description as well as ALT text
   - Audit a page or document for common accessibility issues and fix them
 related_pages:
-  Communication: [mod_comm_6, mod_comm_7]
+  Communication: [mod_comm_6, mod_comm_8]
 ref_to_main_resources:
   - wave-checker
   - axe-checker

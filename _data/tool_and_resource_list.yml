@@ -49,10 +49,163 @@
   category: internal_resource
   module: mod_comm
 
-# --- Shared (Sections 5 & 7) ---
+# --- Design for non-designers (Section 8) ---
 - id: converge-design
   name: CONVERGE workshop series - Design made easy for communicators
-  url: # TODO: replace with the real CONVERGE design playlist/video URL
-  description: Practical video series on design and accessibility for non-designers in research communications.
+  url: https://www.youtube.com/watch?v=fFAlT51EPZQ
+  description: Practical video on design made easy for communicators - design tips for non-designers in research communications.
   category: external_resource
+  module: mod_comm
+
+- id: canva
+  name: Canva
+  url: https://www.canva.com/
+  description: Free, browser-based design tool with ready-made templates for slides, social posts and flyers - the most common starting point for non-designers. Save an ELIXIR-branded template and reuse it.
+  category: external_resource
+  module: mod_comm
+
+- id: adobe-express
+  name: Adobe Express
+  url: https://www.adobe.com/express/
+  description: Free design tool with templates and AI-assisted features (text-to-image, background removal, resizing); can hold ELIXIR-branded templates.
+  category: external_resource
+  module: mod_comm
+
+- id: coolors
+  name: Coolors
+  url: https://coolors.co/
+  description: Free colour palette generator with built-in contrast and colour-blindness testing - pick two colours and check they're accessible.
+  category: external_resource
+  module: mod_comm
+
+- id: adobe-color
+  name: Adobe Color
+  url: https://color.adobe.com/create
+  description: Free colour wheel and palette tool with accessibility and contrast checks.
+  category: external_resource
+  module: mod_comm
+
+- id: buttonbuddy
+  name: Buttonbuddy
+  url: https://buttonbuddy.dev/
+  description: Free tool for accessible colour contrast, especially for links and buttons.
+  category: external_resource
+  module: mod_comm
+
+- id: fontjoy
+  name: Fontjoy
+  url: https://fontjoy.com/
+  description: Generates font pairings automatically - useful when you need to combine a heading and a body font.
+  category: external_resource
+  module: mod_comm
+
+# --- Automation and tools (Section 9) ---
+- id: buffer
+  name: Buffer
+  url: https://buffer.com/
+  description: Free social media scheduling tool - write a batch of posts and schedule them across platforms in one sitting.
+  category: external_resource
+  module: mod_comm
+
+- id: email-octopus
+  name: EmailOctopus
+  url: https://emailoctopus.com/
+  description: Email marketing tool with a generous free tier - a lower-cost alternative to Mailchimp for Node newsletters.
+  category: external_resource
+  module: mod_comm
+
+- id: google-analytics
+  name: Google Analytics
+  url: https://analytics.google.com/
+  description: Free web analytics - set up a dashboard once to track website traffic instead of pulling numbers by hand.
+  category: external_resource
+  module: mod_comm
+
+- id: svg-maps
+  name: amCharts SVG Maps
+  url: https://www.amcharts.com/svg-maps/
+  description: Free, editable vector maps of countries and regions worldwide - useful for showing Node locations or event geography.
+  category: external_resource
+  module: mod_comm
+
+# --- Strategy canvas (Section 11) ---
+- id: steers-toolkit
+  name: ELIXIR Node Communications Strategy Toolkit (ELIXIR-STEERS)
+  url:
+  description: The Hub's full toolkit for building a Node communications strategy - objectives, scope, audiences, channels, messages, evaluation and a strategy template (ELIXIR-STEERS M5.3, 2025).
+  category: internal_resource
+  module: mod_comm
+
+# --- Storytelling and impact (Section 10) ---
+- id: ri-paths
+  name: RI-PATHS impact assessment framework
+  url: https://ri-paths.eu/
+  description: An EU-developed methodology for assessing the socio-economic impact of research infrastructures - for impact assessment beyond communications.
+  category: external_resource
+  module: mod_comm
+
+# --- Audience & writing (Sections 2, 6) ---
+- id: converge-comms
+  name: CONVERGE workshop - communications tips for different audiences
+  url: https://www.youtube.com/watch?v=th88pw_w52U
+  description: Practical video on tailoring communications to different audiences.
+  category: external_resource
+  module: mod_comm
+
+- id: writing-in-sciences
+  name: Writing in the Sciences (Stanford University)
+  url: https://www.coursera.org/learn/sciwrite
+  description: Free online course on clear scientific writing - a deeper dive for anyone who wants to improve their craft.
+  category: external_resource
+  module: mod_comm
+
+- id: elixir-hashtags
+  name: ELIXIR social media hashtags and accounts
+  url:
+  description: The consortium's standard hashtags and account handles for social media (intranet).
+  category: internal_resource
+  module: mod_comm
+
+# --- Collaboration (Section 3) ---
+- id: comms-contacts-registry
+  name: ELIXIR communications contacts registry
+  url: https://docs.google.com/document/d/1OzY4IMhiz-_sZ54EtxPGGdqLOq8T_QJ7d6BMfejZGXk/edit?usp=sharing
+  description: Living directory of communications contacts in every Node, plus a mailing list that reaches them (consortium login required).
+  category: internal_resource
+  module: mod_comm
+
+- id: comms-group
+  name: ELIXIR Communications Group
+  url: https://elixir-europe.org/intranet/communication
+  description: Open, collaborative space where communicators from all Nodes share practice and shape consortium communications (intranet).
+  category: internal_resource
+  module: mod_comm
+
+# --- Ecosystem (Section 4) ---
+- id: comms-strategy
+  name: ELIXIR Communications Strategy
+  url:
+  description: Full channel details and submission guidelines for the consortium's communications (intranet).
+  category: internal_resource
+  module: mod_comm
+
+- id: sm-guidelines-nodes
+  name: Social media guidelines for Node account managers
+  url:
+  description: Guidance for those running a Node's social media accounts (intranet).
+  category: internal_resource
+  module: mod_comm
+
+- id: sm-guidelines-members
+  name: Social media guidelines for ELIXIR consortium members
+  url:
+  description: Guidance for individual consortium members posting about ELIXIR (intranet).
+  category: internal_resource
+  module: mod_comm
+
+- id: node-newsletter-guidelines
+  name: ELIXIR Node internal newsletters - guidelines and recommendations
+  url:
+  description: Recommendations for running a Node-level internal newsletter (intranet).
+  category: internal_resource
   module: mod_comm

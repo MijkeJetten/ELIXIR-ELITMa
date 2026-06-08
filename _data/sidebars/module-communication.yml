@@ -13,8 +13,16 @@ subitems:
     url: /05-comms-accessibility
   - title: 06 Writing for Non-Writers
     url: /06-comms-writing
-  - title: 07 Graphic design for non-designers
-    url: /07-comms-design
+  - title: 07 Branding
+    url: /07-comms-branding
+  - title: 08 Graphic design for non-designers
+    url: /08-comms-design
+  - title: 09 Automation and tools
+    url: /09-comms-automation
+  - title: 10 Storytelling and impact
+    url: /10-comms-storytelling
+  - title: 11 Strategy canvas
+    url: /11-comms-strategy
   - title: All resources
     url: /comms-all-resources
   
