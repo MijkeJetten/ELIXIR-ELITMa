@@ -7,12 +7,20 @@ page_img: /icons/icon-module-communication.svg
 page_id: mod_comm_4
 sidebar: module-communication
 type: Communication
-time: 15 minutes
-status: under development
+time: 10 minutes
+status: ready
+status_badge: success
 learning_outcomes:
   - Identify the main communication channels available within ELIXIR and their intended purpose
   - Select the right channel for a specific communication need within the consortium
   - Navigate the ELIXIR communication ecosystem confidently as part of your day-to-day role
+related_pages:
+  Communication: [mod_comm_7]
+ref_to_main_resources:
+  - comms-strategy
+  - sm-guidelines-nodes
+  - sm-guidelines-members
+  - node-newsletter-guidelines
 ---
 
 {% include module-metadata.html %}
@@ -41,7 +49,7 @@ The ELIXIR intranet is a collection of private webpages for internal communicati
 ### Mailing lists
 ELIXIR mailing lists allow targeted communication to specific groups within the consortium. For example, the communications contacts mailing list reaches all Node communications contacts at once.
 
-**When to use it**: For direct, targeted outreach to a specific group within the consortium. More formal and deliberate than Slack — use it when your message needs to reach everyone in a group reliably. To find a malinglist, you will need to be part of the group you're intending to reach out to, or contact the Hub directly. 
+**When to use it**: For direct, targeted outreach to a specific group within the consortium. More formal and deliberate than Slack — use it when your message needs to reach everyone in a group reliably. To find a mailing list, you will need to be part of the group you're intending to reach out to, or contact the Hub directly. 
 
 ### Slack
 The ELIXIR Slack workspace is the consortium's informal, real-time communication channel. Access is by invitation only. Request any member of your Node Coordinator to add you.
@@ -108,14 +116,3 @@ Was it communicated externally? If yes, which channel? If no, was it worth commu
 
 Use the quick reference table above to check your choices — and note any channels you weren't previously aware of or haven't used before.
 
-## Dive deeper
-ELIXIR Communications Strategy v2.1 — full channel details and submission guidelines
-
-Social media guidelines for Node account managers (intranet)
-
-Social media guidelines for ELIXIR consortium members (intranet)
-
-ELIXIR Node internal newsletters — guidelines and recommendations (intranet)
-
-→ Module 7: Graphic Design for Non-Designers — for branding guidance when using these channels
-Case study: How ELIXIR-UK autoamted the communications of jobs and events 

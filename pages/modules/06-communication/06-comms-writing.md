@@ -4,17 +4,24 @@ description: You don't need to be a professional writer – you need to know wha
 summary: You don't need to be a professional writer to communicate your Node's work effectively. You need to know what you're trying to say, who you're saying it to, and how to get out of your own way. The rest is craft – and craft can be learned.
 audience: [Researchers, Project Managers, Node Coordinators]
 page_img: /icons/icon-module-communication.svg
-page_id: mod_comm_5
+page_id: mod_comm_6
 sidebar: module-communication
 type: Communication
 status: ready
 status_badge: success
-time: 20 minutes
+time: 15 minutes
 learning_outcomes:
   - Write a clear, audience-appropriate news item
   - Adapt the same content for different formats and lengths
   - Edit your own writing to remove jargon/acronyms and improve clarity
   - Recognise when a piece of writing is not working and why
+related_pages:
+  Communication: [mod_comm_2, mod_comm_5]
+ref_to_main_resources:
+  - writing-in-sciences
+  - elixir-style-guide
+  - elixir-hashtags
+  - converge-comms
 ---
 {% include module-metadata.html %}
 
@@ -81,9 +88,9 @@ A news item is a short, externally facing piece published on your Node/instituti
 
 **Key principles**:
 * 300–500 words for most news items online
-* No jargon. If you need a technical term, define it briefly, but ask yourself if your target audience, actually, needs to know it. For instance, "Des my audience need to know the name of a Commisssion Service?".
+* No jargon. If you need a technical term, define it briefly, but ask yourself if your target audience, actually, needs to know it. For instance, "Does my audience need to know the name of a Commission Service?".
 * Name the people involved: this humanises the work and gives credit. People stories are the most impactful ones. 
-* Focus on impact, not process: what changed, who benefits, **why** it matters (ask yourself: we are describing this update, sow what?).
+* Focus on impact, not process: what changed, who benefits, **why** it matters (ask yourself: we are describing this update, so what?).
 * Short is not lazy. A tight 300-word piece is harder to write and more effective than a sprawling 800-word one.
 
 {% include callout.html type="important" content="Impact without hype: There is a difference between communicating genuine impact and overclaiming. Stick to what actually happened. For our scientifically trained audience this is key, as they will see through hype immediately." %}
@@ -103,9 +110,11 @@ A news item is a short, externally facing piece published on your Node/instituti
     Have I had one other person read it before publishing?
   </ol>
 </details>
-[📥 Download the News Item template — Google Doc]
+<a href="{{ '/assets/downloads/news-item-template.docx' | relative_url }}" class="btn-download" download>
+  <i class="fas fa-download"></i>Download the news item template (Word – includes social media & SEO tips)
+</a>
 
-### News iteam vs press release
+### News item vs press release
 Both use the inverted pyramid structure — but they serve different purposes and different audiences.
 
 |                   | News item                         | Press release                                           |
@@ -171,12 +180,7 @@ The hardest part of writing for non-writers is not the first draft – it is kn
 **A few practical steps**:
 * **Read it out loud** (as silly as it sounds). If you stumble, the sentence is too long or awkward.
 * **Cut the first sentence**. First drafts often warm up before they get to the point, try deleting your opening sentence and see if the piece is stronger without it.
-* **Replace verbosity**. For instance, repalce "in order to" with "to", "utilise" with "use", "methodology" with "method". Research writing is full of inflated language that adds length without adding meaning.
+* **Replace verbosity**. For instance, replace "in order to" with "to", "utilise" with "use", "methodology" with "method". Research writing is full of inflated language that adds length without adding meaning.
 * **Ask: so what?** After every paragraph, ask whether you have explained why this matters to the reader. If not, add it or cut the paragraph.
 
 
-## Further resources
-Writing in the Sciences — free course, Stanford University
-ELIXIR Style Guide (intranet)
-ELIXIR social media hashtags and accounts (intranet)
-CONVERGE video series — communications tips

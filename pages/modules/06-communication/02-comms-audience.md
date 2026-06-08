@@ -4,23 +4,26 @@ description: Saying the right thing to the wrong audience is as ineffective as s
 summary: Not everyone needs to hear the same thing — and saying the right thing to the wrong audience is as ineffective as saying nothing at all. This module helps you identify who your key stakeholders are, prioritise where to focus your effort, and choose the channels most likely to reach them.
 audience: [Communications Officers, Project Managers, Node Coordinators]
 page_img: /icons/icon-module-communication.svg
-time: 15 minutes
+time: 20 minutes
 sidebar: module-communication
 page_id: mod_comm_2
 type: Communication
-status: in development
+status: ready
+status_badge: success
 learning_outcomes:
   - Identify and prioritise your Node's key stakeholder groups for a specific project or output
   - Build a simple priority matrix to guide where you focus communication effort
   - Select the most appropriate channel for a given audience and message
   - Tailor your key message for different audiences from the same starting point
-
+related_pages:
+  Communication: [mod_comm_4]
+  Real_world_example: [comm-ex-matrix]
+ref_to_main_resources:
+  - converge-comms
 ---
 
 
 {% include module-metadata.html %}
-
-Not everyone needs to hear the same thing – and saying the right thing to the wrong audience is as ineffective as saying nothing at all. This section helps you identify who your key stakeholders are, prioritise where to focus your effort, and choose the channels most likely to reach them.
 
 ## Who are your stakeholders?
 
@@ -33,7 +36,7 @@ A successful communication strategy starts with knowing your audience. In ELIXIR
 * **Industry partners**: interested in applied outputs, partnerships and talent.
 * **The general public**: interested in accessible explanations of why this work matters.
 
-Each Node will also have a different priority matrix for each of these stakeholders. Not all of these will be relevant to every project or output. The priority matrix below helps you decide where to focus.
+{% include callout.html type="important" content="Each Node will  have a different priority matrix for each of these stakeholders. Not all of these will be relevant to every project or output. The priority matrix below helps you decide where to focus." %}
 
 
 ## The priority matrix
@@ -62,13 +65,16 @@ Use this to decide who gets a tailored message, who gets a standard update, and 
 
 {% include callout.html type="note" content="Your priority matrix may evolve as your Node, project or service evolves. These are not meant to be monolithic stones, but a guiding tool that should evolve as your project does. " %}
 
-<a href="" class="btn-download" download>
-  <i class="fas fa-download"></i>Download matrix template
+<a href="{{ '/assets/downloads/stakeholder-matrix-template.pptx' | relative_url }}" class="btn-download" download>
+  <i class="fas fa-download"></i>Download stakeholder matrix template (PowerPoint)
 </a>
 
 
 ## The persona builder
 Once you know your priority stakeholders, the next step is understanding them well enough to communicate effectively. A persona is a brief profile of a stakeholder type – not a real individual, but a representative picture of what they care about, what they already know, and what would make them pay attention.
+
+{% include callout.html type="important" content="A persona is a nice-to-have, not a must. If you're not building a tool or service, it can be overkill. But if you are, it's the first thing to consider – and don't just imagine it. Picture your persona going through the resource you're building, or better still, get a real person who fits it to talk you through how they'd use it. Test, don't guess." %}
+
 {% include callout.html type="note" content="You don't need to build a persona for every stakeholder. Focus on your top two or three priority groups." %}
 
 ### How to build a persona
@@ -86,8 +92,8 @@ Once you know your priority stakeholders, the next step is understanding them we
 | **Where they get information**       | Annual reports, board meeting slides, briefing documents, LinkedIn               |
 | **What would catch their attention** | "ELIXIR-[country]'s work this year directly supported [X] researchers in achieving [outcome]"  |
 
-<a href="" class="btn-download" download>
-  <i class="fas fa-download"></i>Download persona builder template
+<a href="{{ '/assets/downloads/persona-builder-template.pptx' | relative_url }}" class="btn-download" download>
+  <i class="fas fa-download"></i>Download persona builder template (PowerPoint)
 </a>
 
 ### Exercise
@@ -109,8 +115,9 @@ Not all communication channels are equal. The best channel depends on your audie
 | **Scientific paper**  | High            | High (long-term) | Reaching other researchers                                |
 | **Website**           | Medium          | High             | All audiences (as long as the content is well structured) |
 | **Direct email**      | Low             | Medium           | Targeted, personal outreach to specific individuals       |
+| **Slack**             | Low             | Medium           | Quick, informal internal coordination across Nodes and teams (consortium Slack) |
 
-{% include callout.html type="important" content="One rule that always applies**: whichever channel you choose, the content needs to be reframed for it. The same information presented in a newsletter, a social media post, and a policy brief should feel like three different pieces – same facts, different narrative, different length, different tone." %}
+{% include callout.html type="important" content="One rule that always applies: whichever channel you choose, the content needs to be reframed for it. The same information presented in a newsletter, a social media post, and a policy brief should feel like three different pieces – same facts, different narrative, different length, different tone." %}
 
 ### Exercise: putting it together
 Think of a current or upcoming output from your Node – a new service, a project result, a training opportunity.
@@ -120,9 +127,3 @@ Think of a current or upcoming output from your Node – a new service, a projec
 * Write one sentence tailored to that persona that would make them want to know more
 
 There is no single correct answer, but there is always a better and a worse one. This exercise is to simply build the habit of asking "who is this for?" before you communicate anything.
-
-## Further resources
-→ Module 4: ELIXIR-specific communication ecosystem — for the specific channels available to you across the consortium
-→ Case study: ELIXIR-UK priority matrix 2023–2025 (case study library)
-Watch the CONVERGE video on communications tips
-* [Watch the CONVERGE video on communications tips for different audiences](https://www.youtube.com/watch?v=th88pw_w52U)
