@@ -1,6 +1,6 @@
 ---
 title: Nodes examples (intro chapter) 
-description: Stories from Nodes about what a data management strategy offers to them.
+description: Stories from Nodes about what a data management strategy offers to them
 type_img: /images/icons/icon-module-data-management.svg
 page_id: examples-01-dm
 type: Real_world_example
@@ -18,6 +18,8 @@ To make the discussion more practical, we started writing down rough ideas for a
 
 We then used the draft during discussions with the Head of Node and a data expert from one of our institutions. One thing that became clear very quickly was that many activities already existed somewhere in the network, but responsibilities and connections between activities were not always visible. Starting with a lightweight draft helped turn broad discussions into more practical conversations about priorities, coordination and where ELIXIR Netherlands could realistically help.
 
+{% include callout.html type="tip" content="Use a rough first version to start the conversation. It does not need to be complete. Its main value is to make ideas concrete enough for others to react, correct and build on." %}
+
 ## Mapping strengths and gaps across the Node 
 **Node**: ELIXIR Netherlands
 **Author**: Mijke Jetten (Data Stewardship Liaison, Deputy Training Coordinator)
@@ -27,6 +29,8 @@ As part of exploring a possible Node data management strategy for ELIXIR Netherl
 What we noticed is that many things already existed somewhere in the network. ELIXIR Netherlands already had strong expertise in interoperability, FAIRification, training and tools. At the same time, activities were spread across projects and organisations, and coordination was not always clear. This made it difficult to understand what should happen at Node level and what should stay local to institutes or projects.
 
 The discussions quickly became practical. We kept coming back to one simple question: how does this help researchers? This helped us focus on topics such as data access and governance, metadata standards, and training around standards and tools. One important lesson so far is that ELIXIR Netherlands probably does not need to build many completely new things itself. In many cases, the bigger challenge is helping people find existing expertise, tools and examples across the network.
+
+{% include callout.html type="warning" content="What looks like a gap may be a visibility or coordination issue. Before defining new priorities or actions, check what already exists across the network, who is involved and where connections or responsibilities are unclear." %}
 
 ## Clarifying our remit
 **Node**: ELIXIR Sweden 
