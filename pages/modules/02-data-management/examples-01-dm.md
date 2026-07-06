@@ -2,7 +2,7 @@
 title: Nodes examples (intro chapter) 
 description: Stories from Nodes about what a data management strategy offers to them.
 type_img: /images/icons/icon-module-data-management.svg
-page_id: intro-examples
+page_id: examples-01-dm
 type: Real_world_example
 ---
 
