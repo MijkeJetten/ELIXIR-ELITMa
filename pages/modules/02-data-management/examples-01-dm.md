@@ -65,4 +65,4 @@ Two of the data stewards in our team were also involved in training coordination
 
 The strategy has helped us decide which training activities we engage in and when we should decline without engaging in long discussions. It also facilitates long-term planning of activities as well as planning for yearly improvements and continuous development of new training materials.
 
-{% include callout.html type="tip" content="A strategy can help a team move from first come, first served to more deliberate choices. This is especially useful when requests are growing faster than available capacity." %}
+{% include callout.html type="note" content="A strategy can help a team move from first come, first served to more deliberate choices. This is especially useful when requests grow faster than available capacity." %}
