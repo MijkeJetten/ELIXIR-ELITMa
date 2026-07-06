@@ -1,6 +1,6 @@
 ---
 title: Nodes examples (intro chapter) 
-description: Stories from Nodes about what a data management strategy offers to them
+description: Stories from Nodes about what a data management strategy can offer
 type_img: /images/icons/icon-module-data-management.svg
 page_id: examples-01-dm
 type: Real_world_example
@@ -9,9 +9,8 @@ type: Real_world_example
 {% include callout.html type="note" content="The stories below share early steps by ELIXIR Nodes as they explore what a data management strategy can offer. They were co-developed with the Nodes and are intended as inspiration." %}
 
 ## Identifying where the Node can add value 
-**Node**: ELIXIR Netherlands
-
-**Author**: Mijke Jetten (Data Stewardship Liaison, Deputy Training Coordinator)  
+**Node**: ELIXIR Netherlands  
+**Author**: Mijke Jetten (Data Stewardship Liaison, Deputy Training Coordinator)
 
 One thing we noticed quickly was that everyone in the Node already had ideas about coordination, support and data management, but most of these ideas stayed in conversations. We talked about visibility, training, tools and governance, but it was difficult to move from general discussions to concrete next steps. 
 
@@ -22,8 +21,7 @@ We then used the draft during discussions with the Head of Node and a data exper
 {% include callout.html type="tip" content="Use a rough first version to start the conversation. It does not need to be complete. Its main value is to make ideas concrete enough for others to react, correct and build on." %}
 
 ## Mapping strengths and gaps across the Node 
-**Node**: ELIXIR Netherlands
-
+**Node**: ELIXIR Netherlands  
 **Author**: Mijke Jetten (Data Stewardship Liaison, Deputy Training Coordinator)
 
 As part of exploring a possible Node data management strategy for ELIXIR Netherlands, we started mapping activities, roles and services across the network. We used the RDA GORC model together with the new ELIXIR Netherlands strategy to help structure our notes and discussions. The goal was not to cover the full model, but to understand where coordination was missing and where ELIXIR Netherlands could help most. 
@@ -35,8 +33,7 @@ The discussions quickly became practical. We kept coming back to one simple ques
 {% include callout.html type="warning" content="What looks like a gap may be a visibility or coordination issue. Before defining new priorities or actions, check what already exists across the network, who is involved and where connections or responsibilities are unclear." %}
 
 ## Clarifying our remit
-**Node**: ELIXIR Sweden 
-
+**Node**: ELIXIR Sweden  
 **Author**: Elin Kronander, Niclas Jareborg (Heads of Data Management)
 
 During 2020 the Data management staff of the Swedish Node went from two to five persons; from a pair of persons having unspoken and not well defined remits and roles, to a team that needed more clarity on what to work with and why. Our approach to bring more clarity was to organise a workshop around Vision and Mission statements for the team, where Vision is a desired future position and Missions are overall objectives to work towards the Vision, as well as approaches to reach the objectives. 
@@ -59,8 +56,7 @@ Given the vision, we then worked on what our Mission should be taking our organi
 For several years, our Vision & Mission was the only guiding “strategy” for the team activities. Only later on, when the team grew to become even bigger and our activities expanded, did we formulate a full strategy for our operations. The full Vision & Mission statement can be found in our [strategy document](https://doi.org/10.17044/scilifelab.27604476). 
 
 ## Creating a strategy for the activity area training
-**Node**: ELIXIR Sweden 
-
+**Node**: ELIXIR Sweden  
 **Author**: Elin Kronander, Niclas Jareborg (Heads of Data Management)
 
 For a few years we had developed and delivered a recurring 3-day course; Introduction to Data Management Practices. We also participated in collaborations and gave on-demand workshops and seminars. The team had many ideas of what new kind of training materials and activities we needed to develop. The external requests for training collaborations and workshops were more than we had capacity for. We were in a first-come, first-served situation but we wanted to reach a situation where we made conscious decisions and choices. We decided to create a short strategy document for our training and outreach activities and a workplan for the upcoming year.  
@@ -69,3 +65,4 @@ Two of the data stewards in our team were also involved in training coordination
 
 The strategy has helped us decide which training activities we engage in and when we should decline without engaging in long discussions. It also facilitates long-term planning of activities as well as planning for yearly improvements and continuous development of new training materials.
 
+{% include callout.html type="tip" content="A strategy can help a team move from first come, first served to more deliberate choices. This is especially useful when requests are growing faster than available capacity." %}
