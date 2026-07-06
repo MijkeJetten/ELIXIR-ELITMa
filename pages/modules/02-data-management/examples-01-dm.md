@@ -47,12 +47,14 @@ We ended up with a Vision that focused on a desired state that lay outside of th
 
 Given the vision, we then worked on what our Mission should be taking our organisational environment, resources and competences into account. Which areas should the focus of our activities be on; what are overarching objectives to work towards for these areas? This resulted in us defining three core areas: Support, Training and Collaboration. For each of these, we formulated high level objectives, as well as functional statements about what we should focus our activities on to work towards the objectives.
 
-> Here is an example Mission statement:
-> *Support: Swedish Life Science researchers shall have access to Data Management support to be able to manage their research data according to international “best practice”*
-> *- Develop procedures for providing efficient Data Management support to research projects throughout the research data lifecycle*
-> *- Provide data management planning knowledge and resources/tools for research projects*
-> *- Provide support and resources/tools for data submission to recommended community deposition databases*
-> *- Provide support and resources/tools to enable reproducible research*
+> Here is an example mission statement:
+>
+> *Support: Swedish life science researchers shall have access to data management support to be able to manage their research data according to international best practice.*
+>
+> - *Develop procedures for providing efficient data management support to research projects throughout the research data lifecycle*
+> - *Provide data management planning knowledge and resources and tools for research projects*
+> - *Provide support and resources and tools for data submission to recommended community deposition databases*
+> - *Provide support and resources and tools to enable reproducible research*
 
 For several years, our Vision & Mission was the only guiding “strategy” for the team activities. Only later on, when the team grew to become even bigger and our activities expanded, did we formulate a full strategy for our operations. The full Vision & Mission statement can be found in our [strategy document](https://doi.org/10.17044/scilifelab.27604476). 
 
