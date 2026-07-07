@@ -91,7 +91,7 @@ The analysis of existing Open Science and Data Management resources and recommen
 
 {% include callout.html type="important" content="Mapping policy references can make the Node’s contribution more visible and show where ELIXIR resources are already embedded in national Open Science and Data Management priorities." %}
 
-## Methodology to capture Research Data Management practices and challenges in the Spain Node
+## Methodology to capture RDM practices and challenges in the Spain Node
 **Node**: ELIXIR Spain  
 **Author**: Laura Portell (RDM liaison)  
 
