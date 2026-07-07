@@ -1,5 +1,5 @@
 ---
-title: Node examples (intro chapter) 
+title: Node examples to learn from
 description: Stories from Nodes about what a data management strategy can offer
 type_img: /images/icons/icon-module-data-management.svg
 page_id: examples-01-dm
