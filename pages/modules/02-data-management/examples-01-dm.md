@@ -8,7 +8,7 @@ type: Real_world_example
 
 {% include callout.html type="note" content="The stories below share early steps by ELIXIR Nodes as they explore what a data management strategy can offer. They were co-developed with the Nodes and are intended as inspiration." %}
 
-## Identifying where the Node can add value 
+## Identifying where the Netherlands Node can add value 
 **Node**: ELIXIR Netherlands  
 **Author**: Mijke Jetten (Data Stewardship Liaison, Deputy Training Coordinator)
 
@@ -20,7 +20,7 @@ We then used the draft during discussions with the Head of Node and a data exper
 
 {% include callout.html type="tip" content="Use a rough first version to start the conversation. It does not need to be complete. Its main value is to make ideas concrete enough for others to react, correct and build on." %}
 
-## Mapping strengths and gaps across the Node 
+## Mapping strengths and gaps across the Netherlands Node 
 **Node**: ELIXIR Netherlands  
 **Author**: Mijke Jetten (Data Stewardship Liaison, Deputy Training Coordinator)
 
@@ -32,7 +32,7 @@ The discussions quickly became practical. We kept coming back to one simple ques
 
 {% include callout.html type="warning" content="What looks like a gap may be a visibility or coordination issue. Before defining new priorities or actions, check what already exists across the network, who is involved and where connections or responsibilities are unclear." %}
 
-## Clarifying our remit
+## Clarifying the Sweden Node remit
 **Node**: ELIXIR Sweden  
 **Author**: Elin Kronander, Niclas Jareborg (Heads of Data Management)
 
@@ -55,7 +55,7 @@ Given the vision, we then worked on what our Mission should be taking our organi
 
 For several years, our Vision & Mission was the only guiding “strategy” for the team activities. Only later on, when the team grew to become even bigger and our activities expanded, did we formulate a full strategy for our operations. The full Vision & Mission statement can be found in our [strategy document](https://doi.org/10.17044/scilifelab.27604476). 
 
-## Creating a strategy for the activity area training
+## Creating a strategy for the Sweden Node training activity area
 **Node**: ELIXIR Sweden  
 **Author**: Elin Kronander, Niclas Jareborg (Heads of Data Management)
 
@@ -67,9 +67,10 @@ The strategy has helped us decide which training activities we engage in and whe
 
 {% include callout.html type="note" content="A strategy can help a team move from first come, first served to more deliberate choices. This is especially useful when requests grow faster than available capacity." %}
 
-## Scaling up from single organisation Node  
+## Scaling up from the Luxembourg single organisation Node  
 **Node**: ELIXIR Luxembourg  
 **Author**: Hana Marčetić, Vilem Ded (Data Steward Liaisons)  
+
 It's worth mentioning the question of where we, as LCSB, end and where we, as ELIXIR Luxembourg, begin. Because our Node lived inside one single organisation for so long, and because an ELIXIR Node isn't really a legal entity (it's more of an internal project for us), our operations and responsibilities as LCSB and as the Node have become quite intertwined over the years. Most of the time this is just how things are for us, and we don't really notice.
 
 We aren't always sure whether a virtual machine or support we are providing is coming from us as LCSB or from us as LCSB being ELIXIR. When we build a piece of software, it’s publication is on awkward pause till it's decided whether it should live in our LCSB GitLab or our ELIXIR Luxembourg GitHub. When joining meetings, we cannot decide which hat to wear that day, LCSB, the University, or ELIXIR, and which slide template goes with it. Onboarding has a similar feel for us: at some point joining LCSB and joining the Node become two different things, but exactly where that point sits is more of a vibe than a rule. The same goes with roles, let’s say an LCSB data steward and an ELIXIR data steward, it's usually the same one of us with two hats, except when it isn't, and the difference tends to surface only when something concrete depends on it.
