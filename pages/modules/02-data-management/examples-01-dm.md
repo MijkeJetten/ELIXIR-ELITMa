@@ -78,3 +78,15 @@ We aren't always sure whether a virtual machine or support we are providing is c
 In practice we resolve all of this case by case and the work gets done. But because we've never written the boundary down, we reason through every new situation from scratch. A Node data management strategy would give us a place to put that boundary on paper, so the small decisions about resources, products, roles and representation have somewhere to land.
 
 {% include callout.html type="tip" content="Use the data management strategy to write down boundaries that are currently handled case by case. This can make decisions about roles, resources, products and representation easier to explain and repeat." %}
+
+## Mapping ELIXIR Spain related Open Science resources in national policies  
+**Node**: ELIXIR Spain
+**Author**: Aída Moure (RDM liaison)   
+
+An overview of references to ELIXIR and ELIXIR digital assets in National Open Science and Data Management policies and resources was conducted by different Nodes in 2025 under the ELIXIR Node Support Commissioned Service. The main objective was to better identify, understand and define the Open Science and Data Management landscape across ELIXIR. In the ELIXIR Spanish Node, we performed an extensive review of the national landscape to identify policies and ELIXIR-related recommendations regarding Open Science and Data Management resources. 
+
+Results showed that ELIXIR is frequently referenced in Spanish national and regional policies and guidelines, particularly through services such as the Data Stewardship Wizard (DSW) and the ELIXIR Core Data Resources (CDRs). It also showed a cascading adoption of requirements established by the Instituto de Salud Carlos III (ISCIII), Spain’s main public funder of biomedical research. For example, funded projects in relevant domains must deposit their data at the European Genome-Phenome Archive (EGA), which is part of the Node portfolio. EGA holds the "ELIXIR Core Data Resource" badge and are encouraged to use appropriate ELIXIR Core Data Resources and Deposition Databases for different data types. In addition, the exercise helped identify opportunities for further development, including increasing the visibility and recognition of ELIXIR within key national policy frameworks, such as the Spanish National Open Science Strategy (ENCA). 
+
+The analysis of existing Open Science and Data Management resources and recommendations provided valuable insights concerning these topics within the Spanish Node. It also positions ELIXIR well in these domains at national, regional and institutional level. The outputs of this exercise also provided the basis for an impact story factsheet, highlighting Spain as a strong example of good practice in Open Science and Research Data Management policies and resources in ELIXIR.
+
+{% include callout.html type="important" content="Mapping policy references can make the Node’s contribution more visible and show where ELIXIR resources are already embedded in national Open Science and Data Management priorities." %}
