@@ -1,5 +1,5 @@
 ---
-title: Nodes examples (intro chapter) 
+title: Node examples (intro chapter) 
 description: Stories from Nodes about what a data management strategy can offer
 type_img: /images/icons/icon-module-data-management.svg
 page_id: examples-01-dm
@@ -66,3 +66,14 @@ Two of the data stewards in our team were also involved in training coordination
 The strategy has helped us decide which training activities we engage in and when we should decline without engaging in long discussions. It also facilitates long-term planning of activities as well as planning for yearly improvements and continuous development of new training materials.
 
 {% include callout.html type="note" content="A strategy can help a team move from first come, first served to more deliberate choices. This is especially useful when requests grow faster than available capacity." %}
+
+## Scaling up from single organisation Node  
+**Node**: ELIXIR Luxembourg  
+**Author**: Hana Marčetić, Vilem Ded (Data Steward Liaisons)
+It's worth mentioning the question of where we, as LCSB, end and where we, as ELIXIR Luxembourg, begin. Because our Node lived inside one single organisation for so long, and because an ELIXIR Node isn't really a legal entity (it's more of an internal project for us), our operations and responsibilities as LCSB and as the Node have become quite intertwined over the years. Most of the time this is just how things are for us, and we don't really notice.
+
+We aren't always sure whether a virtual machine or support we are providing is coming from us as LCSB or from us as LCSB being ELIXIR. When we build a piece of software, it’s publication is on awkward pause till it's decided whether it should live in our LCSB GitLab or our ELIXIR Luxembourg GitHub. When joining meetings, we cannot decide which hat to wear that day, LCSB, the University, or ELIXIR, and which slide template goes with it. Onboarding has a similar feel for us: at some point joining LCSB and joining the Node become two different things, but exactly where that point sits is more of a vibe than a rule. The same goes with roles, let’s say an LCSB data steward and an ELIXIR data steward, it's usually the same one of us with two hats, except when it isn't, and the difference tends to surface only when something concrete depends on it.
+
+In practice we resolve all of this case by case and the work gets done. But because we've never written the boundary down, we reason through every new situation from scratch. A Node data management strategy would give us a place to put that boundary on paper, so the small decisions about resources, products, roles and representation have somewhere to land.
+
+{% include callout.html type="tip" content="Use the data management strategy to write down boundaries that are currently handled case by case. This can make decisions about roles, resources, products and representation easier to explain and repeat." %}
