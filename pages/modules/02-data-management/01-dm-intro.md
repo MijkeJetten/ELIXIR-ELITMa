@@ -99,43 +99,6 @@ For a basic Node data management strategy, a small but diverse group is usually 
 
 {% include callout.html type="warning" content="If only one or two perspectives are represented, important aspects of the data landscape may be missed." %}
 
-## Examples from Nodes
-
-{% include callout.html type="note" content="These below examples are placeholders and reflect small, early steps taken by Nodes. They are intended to provide inspiration for now and will be replaced by separate real-world example pages for this module, developed with contributions from ELIXIR Nodes." %}
-
-These are examples of small steps Nodes might have taken:
-
-### Making existing work visible  
-A Node listed its existing data-related services and documents. This helped identify overlaps and gaps in support.
-
-### Bringing people together  
-A Node used the idea of a shared approach to start a conversation between teams. This helped create a shared understanding of how work connects.
-
-### Starting discussions with a simple outline  
-A Node brought a rough outline to a meeting. This helped structure the discussion, align expectations and create something to refer to in later conversations.
-
-### Setting priorities  
-A Node created a simple overview of its activities to discuss which tools or services matter most. This helped focus effort and avoid doing everything at once.
-
-### Clarifying responsibilities  
-A Node wrote down who is responsible for which data-related services. This helped reduce confusion and made it easier for new staff to get started.
-
----
-
-## Create your own example
-
-> ✍ **For contributors:** Choose one of the challenges above. Add your Node, name and role, and write a short story (max. 3 paragraphs): what was the situation, what did you do, and what did it help achieve. You can describe a small step or first attempt. A full strategy is not required.
-
-**Node:** [Your Node name]  
-**Contributor:** [Name]  
-**Role:** [e.g. Data steward, Node coordinator]
-
-> ✍ **Your example:**  
-> Describe the situation you encountered and what you did to address it. What was the problem, and what did your action help improve?  
->  
-> Make sure your example relates to one of the topics from this module (the *WHY* of a Node data management strategy), such as coordination, clarity or planning.
-
-
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('.task-list-item input[type="checkbox"]').forEach(function (cb, i) {
