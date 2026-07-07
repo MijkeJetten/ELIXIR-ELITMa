@@ -81,7 +81,7 @@ In practice we resolve all of this case by case and the work gets done. But beca
 
 ## Mapping ELIXIR Spain related Open Science resources in national policies  
 **Node**: ELIXIR Spain
-**Author**: Aída Moure (RDM liaison)   
+**Author**: Aída Moure (RDM liaison)  
 
 An overview of references to ELIXIR and ELIXIR digital assets in National Open Science and Data Management policies and resources was conducted by different Nodes in 2025 under the ELIXIR Node Support Commissioned Service. The main objective was to better identify, understand and define the Open Science and Data Management landscape across ELIXIR. In the ELIXIR Spanish Node, we performed an extensive review of the national landscape to identify policies and ELIXIR-related recommendations regarding Open Science and Data Management resources. 
 
@@ -90,3 +90,15 @@ Results showed that ELIXIR is frequently referenced in Spanish national and regi
 The analysis of existing Open Science and Data Management resources and recommendations provided valuable insights concerning these topics within the Spanish Node. It also positions ELIXIR well in these domains at national, regional and institutional level. The outputs of this exercise also provided the basis for an impact story factsheet, highlighting Spain as a strong example of good practice in Open Science and Research Data Management policies and resources in ELIXIR.
 
 {% include callout.html type="important" content="Mapping policy references can make the Node’s contribution more visible and show where ELIXIR resources are already embedded in national Open Science and Data Management priorities." %}
+
+## Methodology to capture Research Data Management practices and challenges in the Spain Node
+**Node**: ELIXIR Spain
+**Author**: Laura Portell (RDM liaison)  
+
+The methodology to capture Research Data Management (RDM) practices and challenges within the ELIXIR Spain Node is based on a structured survey distributed to all Node members and groups involved in the Service Delivery Plan (SDP). The survey aims to identify current strengths, gaps, challenges and opportunities related to RDM across the Node. It can be completed either by Principal Investigators (PIs) or by group members who are most familiar with the group’s RDM practices and SDP-related resources.  
+
+The survey collects information on the current use of RDM practices, tools and policies as well as the perceived barriers and challenges faced by different groups and institutions. Through this approach, we aim to obtain a representative picture of how research data are currently managed across the Node. The collected information will also help identify differences in maturity levels between groups, ranging from those with established RDM strategies to those at earlier stages of implementation.  
+
+Once the survey results are analysed, the information will help identify common trends as well as gaps related to RDM practices across the Node. The results will provide evidence to better understand the level of adoption of RDM practices, detect areas where additional support or coordination may be beneficial and identify opportunities to promote knowledge exchange between groups. In addition, the survey outcomes will help assess the need for tailored training activities or guided materials adapted to different levels of RDM maturity. Overall, the collected information will contribute to informing future actions and strategic decisions aimed at strengthening RDM capacity, harmonising practices and fostering a more coordinated RDM culture within the ELIXIR Spain Node. 
+
+{% include callout.html type="tip" content="A survey can provide evidence for future RDM priorities. It helps move from assumptions about needs to a clearer picture of practices, gaps and support needs across the Node." %}
