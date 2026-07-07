@@ -92,7 +92,7 @@ The analysis of existing Open Science and Data Management resources and recommen
 {% include callout.html type="important" content="Mapping policy references can make the Node’s contribution more visible and show where ELIXIR resources are already embedded in national Open Science and Data Management priorities." %}
 
 ## Methodology to capture Research Data Management practices and challenges in the Spain Node
-**Node**: ELIXIR Spain
+**Node**: ELIXIR Spain  
 **Author**: Laura Portell (RDM liaison)  
 
 The methodology to capture Research Data Management (RDM) practices and challenges within the ELIXIR Spain Node is based on a structured survey distributed to all Node members and groups involved in the Service Delivery Plan (SDP). The survey aims to identify current strengths, gaps, challenges and opportunities related to RDM across the Node. It can be completed either by Principal Investigators (PIs) or by group members who are most familiar with the group’s RDM practices and SDP-related resources.  
