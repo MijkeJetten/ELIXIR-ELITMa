@@ -20,34 +20,34 @@ learning_outcomes:
 ---
 {% include module-metadata.html %}
 
-Developing a shared approach to data management is not always straightforward in a distributed environment like ELIXIR. Responsibilities are spread across roles, services and institutions. A Node data management strategy helps bring these elements together.
+Developing a shared approach to data management is not always straightforward in a distributed environment like ELIXIR. Responsibilities are spread across roles, services and institutions. A strategy helps bring these elements together.
 
-## Why a NDMS matters
+## Why a data management strategy matters
 
-ELIXIR Nodes bring together many institutions, services and communities. Each group works with data in different ways. Without a shared direction, coordination becomes difficult. A Node data management strategy helps create this direction and provides clarity.
+ELIXIR Nodes bring together many institutions, services and communities. Each group works with data in different ways. Without a shared direction, coordination becomes difficult. A strategy helps create this direction and provides clarity.
 
 - **Direction and clarity**: A strategy shows what the Node wants to achieve in data management. It shows how services fit together and where support is still needed.
 - **Efficiency and shared understanding**: It reduces duplication, improves communication and helps staff understand their roles.
 - **Planning and sustainability**: A strategy supports long-term planning. It helps the Node decide which services to maintain, where to invest effort and how to respond to new demands or opportunities.
 
-Funders and national partners often expect this kind of clarity. A Node data management strategy provides it.
+Funders and national partners often expect this kind of clarity. A strategy provides it.
 
-{% include callout.html type="note" content="Developing a Node data management strategy is not the responsibility of a single role. It requires input from coordination, data stewardship, technical teams and user-facing support to reflect the full data landscape." %}
+{% include callout.html type="note" content="Developing a strategy is not the responsibility of a single role. It requires input from coordination, data stewardship, technical teams and user-facing support to reflect the full data landscape." %}
 
-## What a NDMS is and does
+## What a data management strategy is and does
 
-{% include callout.html type="note" content="A Node data management strategy is not a complex policy document. It is a simple way to bring clarity to how data is managed across the Node or institution." %}
+{% include callout.html type="note" content="A strategy is not a complex policy document. It is a simple way to bring clarity to how data is managed across the Node or institution." %}
 
-A Node data management strategy has a few key characteristics:
+A strategy has a few key characteristics:
 - **A short, practical document**: A strategy outlines the main goals of the Node, the data landscape it serves and the principles that guide its work.
 - **A way to connect existing information**: It brings together content that often exists in many places. It does not replace policies, service descriptions or Data Management Plans. It connects them.
 - **Services and roles**: A strategy shows how the Node supports good data management and FAIR practices. It describes the main services, roles and communities involved.
 - **A shared reference point**: It gives staff a common view of the current situation and future direction.
 - **A living document**: The strategy is light and easy to update. It evolves as the Node grows, new roles appear or priorities shift. It is not a fixed plan.
 
-## Quick exercise: mapping your NDMS starting point
+## Quick exercise: mapping your strategy starting point
 
-A Node data management strategy links existing work. Nodes often have policies, maturity assessments, training plans and service descriptions. The strategy brings these together and shows how each element contributes to the wider picture.
+A strategy links existing work. Nodes often have policies, maturity assessments, training plans and service descriptions. The strategy brings these together and shows how each element contributes to the wider picture.
 
 Before moving on, write this down. It will help you make the next steps more concrete.
 
@@ -62,7 +62,7 @@ Before moving on, write this down. It will help you make the next steps more con
 
 {% include callout.html type="tip" content="Compare your notes with a colleague. Do you see the same picture, or are there differences in perspective?" %}
 
-## Quick reflection: risks without a strategy
+## Quick reflection: risks without a data management strategy
 
 Consider your current situation:
 
@@ -70,9 +70,9 @@ Consider your current situation:
 - Where could gaps or overlaps occur in services or support?
 - What might be unclear for staff or users?
 
-## Exercise: taking the first steps towards your NDMS
+## Exercise: taking the first steps towards your strategy
 
-Using your notes, take the first steps towards developing a Node data management strategy.
+Using your notes, take the first steps towards developing a data management strategy.
 
 1. **Begin with what already exists**  
    Gather documents, notes or agreements related to data or services.  
@@ -90,7 +90,7 @@ Using your notes, take the first steps towards developing a Node data management
 
 ## Who to involve
 
-For a basic Node data management strategy, a small but diverse group is usually enough. Consider whether you have the following roles involved:
+For a basic strategy, a small but diverse group is usually enough. Consider whether you have the following roles involved:
 
 - [ ] A **Node coordinator** to set direction and ensure alignment with national and ELIXIR priorities  
 - [ ] A **data steward** or **technical staff member** with knowledge of standards, tools and workflows  
