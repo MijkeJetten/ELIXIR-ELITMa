@@ -10,7 +10,7 @@ type: Real_world_example
 
 The examples are organised alphabetically by Node and can be used alongside the chapter exercises.
 
-## Using training activities in the German Node as a starting point
+## ELIXIR-DE: training as a starting point
 
 **Node**: ELIXIR Germany  
 **Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions  
@@ -21,7 +21,7 @@ Training activities were used as a starting point for collaboration between inst
 
 Starting with a practical activity and with a small group helped to build trust and create connections between institutions before discussing broader strategic coordination.
 
-## Connecting the German Node with other national initiatives
+## ELIXIR-DE: connecting with national initiatives
 
 **Node**: ELIXIR Germany  
 **Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions
@@ -34,7 +34,7 @@ The discussions helped us identify areas where similar work was already taking p
 
 This exchange highlighted the importance of considering the broader national context when planning Node-level activities and showed that coordination across initiatives can help make existing expertise more visible.
 
-## Understanding differences between institutes in the German Node
+## ELIXIR-DE: differences between institutes
 
 **Node**: ELIXIR Germany  
 **Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions
@@ -47,7 +47,7 @@ Some institutes have dedicated roles or established processes, while others appr
 
 Recognising these variations is an important step towards developing approaches that are useful across the Node. Rather than assuming one solution fits all, understanding local contexts helps identify where common resources, coordination or knowledge exchange can provide added value.
 
-## ## Creating a Service Delivery Plan inclusion process in the Italian Node
+## ELIXIR-IT: inclusion in the SDP
 
 **Node**: ELIXIR Italy  
 **Authors**: Flavio Licciulli, data steward
@@ -58,7 +58,7 @@ As ELIXIR-IT, we offer data resources, tools, courses and services to the life-s
 
 The construction and the implementation of this formal process has highlighted the importance of synergy among the various components of the node: Head of Node, members of the general assembly, technical and training staff, representatives of the platforms and communities.
 
-## Scaling up from a single organisation in the Luxembourg Node
+## ELIXIR-LU: scaling up from one organisation
 
 **Node**: ELIXIR Luxembourg  
 **Authors**: Hana Marčetić and Vilem Ded, data steward liaisons
@@ -71,7 +71,7 @@ We aren't always sure whether a virtual machine or support we are providing is c
 
 In practice we resolve all of this case by case and the work gets done. But because we've never written the boundary down, we reason through every new situation from scratch. A Node data management strategy would give us a place to put that boundary on paper, so the small decisions about resources, products, roles and representation have somewhere to land.
 
-## Using the Luxembourg Node website as a collaboration platform
+## ELIXIR-LU: website as a collaboration platform
 
 **Node**: ELIXIR Luxembourg  
 **Authors**: Hana Marčetić and Vilem Ded, data steward liaisons
@@ -84,7 +84,7 @@ Several contentathons were organised to address the issues identified in the upc
 
 Any major change of the website content now requires confirmation (merge request approval) by a board member, a very lightweight but efficient way to capture responsibility and trace approvals. All this work highlighted the challenges with organising work and coordination, and created the space for alignment of what is currently working and how. From there on, and building on the National data strategy, we can move forward with documenting and further clarifying the Node strategy.
 
-## Creating a Node member onboarding document in Luxembourg
+## ELIXIR-LU: Node member onboarding
 
 **Node**: ELIXIR Luxembourg  
 **Authors**: Hana Marčetić and Vilem Ded, data steward liaisons
@@ -103,7 +103,7 @@ New members are then added to the ELIXIR Luxembourg mailing list, have their acc
 
 A Node strategy, with the governance and roles part properly worked out, would have given us something to anchor the onboarding document to rather than building the document and discovering the gaps along the way. For now, the work done on the document can also highlight the remaining gaps and questions that the strategy could help answer.
 
-## Identifying where the Netherlands Node can add value
+## ELIXIR-NL: identifying where the Node can add value
 
 **Node**: ELIXIR Netherlands  
 **Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator
@@ -116,7 +116,7 @@ To make the discussion more practical, we started writing down rough ideas for a
 
 We then used the draft during discussions with the Head of Node and a data expert from one of our institutions. One thing that became clear very quickly was that many activities already existed somewhere in the network, but responsibilities and connections between activities were not always visible. Starting with a lightweight draft helped turn broad discussions into more practical conversations about priorities, coordination and where ELIXIR Netherlands could realistically help.
 
-## Mapping strengths and gaps across the Netherlands Node
+## ELIXIR-NL: mapping strengths and gaps
 
 **Node**: ELIXIR Netherlands  
 **Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator
@@ -129,7 +129,7 @@ What we noticed is that many things already existed somewhere in the network. EL
 
 The discussions quickly became practical. We kept coming back to one simple question: how does this help researchers? This helped us focus on topics such as data access and governance, metadata standards, and training around standards and tools. One important lesson so far is that ELIXIR Netherlands probably does not need to build many completely new things itself. In many cases, the bigger challenge is helping people find existing expertise, tools and examples across the network.
 
-## Making existing work visible in the Norwegian Node
+## ELIXIR-NO: making existing work visible
 
 **Node**: ELIXIR Norway  
 **Authors**: Federico Bianchini, data steward and deputy training coordinator
@@ -144,7 +144,7 @@ Shortly after these requirements were introduced, ELIXIR Norway started advertis
 
 The workshop also helped to push more generally various crucial concepts of data management, including the usage of standards and controlled terminology, and the importance of data submission to relevant domain repositories.
 
-## Bringing research infrastructures together in the Norwegian Node
+## ELIXIR-NO: bringing infrastructures together
 
 **Node**: ELIXIR Norway  
 **Authors**: Federico Bianchini, data steward and deputy training coordinator
@@ -161,7 +161,7 @@ The group produced templates for Data Management Plans (DMPs) highlighting both 
 
 Moreover, this activity established the basis for monitoring activities on submission to domain-specific databases, which is now part of the current work of ELIXIR Norway. At the end of the project, the partners signed a joint strategic statement for collaboration on data management. Unfortunately, not all partners managed to follow up on that due to inconsistent funding in the following periods.
 
-## Mapping Open Science resources in national policies in the Spanish Node
+## ELIXIR-ES: Open Science resources in national policies
 
 **Node**: ELIXIR Spain  
 **Authors**: Aída Moure, RDM liaison
@@ -174,7 +174,7 @@ Results showed that ELIXIR is frequently referenced in Spanish national and regi
 
 The analysis of existing Open Science and Data Management resources and recommendations provided valuable insights concerning these topics within the Spanish Node. It also positions ELIXIR well in these domains at national, regional and institutional level. The outputs of this exercise also provided the basis for an impact story factsheet, highlighting Spain as a strong example of good practice in Open Science and Research Data Management policies and resources in ELIXIR.
 
-## Capturing RDM practices and challenges in the Spanish Node
+## ELIXIR-ES: RDM practices and challenges
 
 **Node**: ELIXIR Spain  
 **Authors**: Laura Portell, RDM liaison
@@ -187,7 +187,7 @@ The survey collects information on the current use of RDM practices, tools and p
 
 Once the survey results are analysed, the information will help identify common trends as well as gaps related to RDM practices across the Node. The results will provide evidence to better understand the level of adoption of RDM practices, detect areas where additional support or coordination may be beneficial and identify opportunities to promote knowledge exchange between groups. In addition, the survey outcomes will help assess the need for tailored training activities or guided materials adapted to different levels of RDM maturity. Overall, the collected information will contribute to informing future actions and strategic decisions aimed at strengthening RDM capacity, harmonising practices and fostering a more coordinated RDM culture within the ELIXIR Spain Node.
 
-## Clarifying the Sweden Node remit
+## ELIXIR-SE: clarifying the Node remit
 
 **Node**: ELIXIR Sweden  
 **Authors**: Elin Kronander and Niclas Jareborg, heads of data management
@@ -213,7 +213,7 @@ Given the vision, we then worked on what our Mission should be taking our organi
 
 For several years, our Vision & Mission was the only guiding “strategy” for the team activities. Only later on, when the team grew to become even bigger and our activities expanded, did we formulate a full strategy for our operations. The full Vision & Mission statement can be found in our [strategy document](https://doi.org/10.17044/scilifelab.27604476). 
 
-## Creating a strategy for the Sweden Node training activity area
+## ELIXIR-SE: training activity strategy
 
 **Node**: ELIXIR Sweden  
 **Authors**: Elin Kronander and Niclas Jareborg, heads of data management
