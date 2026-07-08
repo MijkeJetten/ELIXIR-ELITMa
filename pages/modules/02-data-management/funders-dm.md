@@ -2,6 +2,7 @@
 title: Funders as drivers for FAIRification strategies
 description: How FAIRification changes support and coordination
 type_img: /images/icons/icon-module-data-management.svg
+sidebar: module-data-management
 page_id: funders-dm
 type: Real_world_example
 ---

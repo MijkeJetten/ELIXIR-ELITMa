@@ -2,6 +2,7 @@
 title: Node examples to learn from
 description: Node examples for chapter 1 on why a data management strategy matters
 type_img: /images/icons/icon-module-data-management.svg
+sidebar: module-data-management
 page_id: examples-01-dm
 type: Real_world_example
 ---

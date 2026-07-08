@@ -97,6 +97,9 @@ For a basic strategy, a small but diverse group is usually enough. Consider whet
 - [ ] A **support** or **training staff member** to represent user needs  
 - [ ] A **community representative** to reflect the needs of researchers  
 
+
+
+
 {% include callout.html type="warning" content="If only one or two perspectives are represented, important aspects of the data landscape may be missed." %}
 
 <script>
