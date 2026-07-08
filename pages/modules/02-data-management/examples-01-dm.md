@@ -14,6 +14,7 @@ The examples are organised alphabetically by Node and can be used alongside the 
 
 **Node**: ELIXIR Germany  
 **Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions  
+**Topics**: Gaps to action, Who to involve  
 
 {% include callout.html type="tip" content="Start with an activity that people already recognise and need. It can create space for coordination before broader strategy discussions begin." %}
 
@@ -24,7 +25,8 @@ Starting with a practical activity and with a small group helped to build trust 
 ## ELIXIR-DE: connecting with national initiatives
 
 **Node**: ELIXIR Germany  
-**Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions
+**Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions  
+**Topics**: Existing work, Who to involve  
 
 {% include callout.html type="note" content="Node strategy work does not happen in isolation. National initiatives can help identify existing expertise, overlaps and useful connections." %}
 
@@ -37,7 +39,8 @@ This exchange highlighted the importance of considering the broader national con
 ## ELIXIR-DE: differences between institutes
 
 **Node**: ELIXIR Germany  
-**Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions
+**Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions  
+**Topics**: Starting point, Why strategy  
 
 {% include callout.html type="important" content="Do not assume that all institutes organise RDM in the same way. Understanding local differences helps identify where shared support or coordination can add value." %}
 
@@ -50,7 +53,8 @@ Recognising these variations is an important step towards developing approaches 
 ## ELIXIR-IT: inclusion in the SDP
 
 **Node**: ELIXIR Italy  
-**Authors**: Flavio Licciulli, data steward
+**Authors**: Flavio Licciulli, data steward  
+**Topics**: Gaps to action, Who to involve  
 
 {% include callout.html type="important" content="A formal process can help clarify how services are classified, reviewed and included in wider Node and ELIXIR planning." %}
 
@@ -61,7 +65,8 @@ The construction and the implementation of this formal process has highlighted t
 ## ELIXIR-LU: scaling up from one organisation
 
 **Node**: ELIXIR Luxembourg  
-**Authors**: Hana Marčetić and Vilem Ded, data steward liaisons
+**Authors**: Hana Marčetić and Vilem Ded, data steward liaisons  
+**Topics**: Why strategy, Starting point  
 
 {% include callout.html type="tip" content="Use the data management strategy to write down boundaries that are currently handled case by case. This can make decisions about roles, resources, products and representation easier to explain and repeat." %}
 
@@ -74,7 +79,8 @@ In practice we resolve all of this case by case and the work gets done. But beca
 ## ELIXIR-LU: website as a collaboration platform
 
 **Node**: ELIXIR Luxembourg  
-**Authors**: Hana Marčetić and Vilem Ded, data steward liaisons
+**Authors**: Hana Marčetić and Vilem Ded, data steward liaisons  
+**Topics**: Existing work, Gaps to action  
 
 {% include callout.html type="note" content="A shared website can become more than a communication channel. It can also help document services, align responsibilities and make approvals traceable." %}
 
@@ -87,7 +93,8 @@ Any major change of the website content now requires confirmation (merge request
 ## ELIXIR-LU: Node member onboarding
 
 **Node**: ELIXIR Luxembourg  
-**Authors**: Hana Marčetić and Vilem Ded, data steward liaisons
+**Authors**: Hana Marčetić and Vilem Ded, data steward liaisons  
+**Topics**: Gaps to action, Why strategy  
 
 {% include callout.html type="important" content="Onboarding can reveal strategic gaps. Questions about membership, access, responsibilities and sign off often show where governance needs to be made explicit." %}
 
@@ -106,7 +113,8 @@ A Node strategy, with the governance and roles part properly worked out, would h
 ## ELIXIR-NL: identifying where the Node can add value
 
 **Node**: ELIXIR Netherlands  
-**Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator
+**Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator  
+**Topics**: Gaps to action, Existing work  
 
 {% include callout.html type="tip" content="Use a rough first version to start the conversation. It does not need to be complete. Its main value is to make ideas concrete enough for others to react, correct and build on." %}
 
@@ -119,7 +127,8 @@ We then used the draft during discussions with the Head of Node and a data exper
 ## ELIXIR-NL: mapping strengths and gaps
 
 **Node**: ELIXIR Netherlands  
-**Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator
+**Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator  
+**Topics**: Starting point, Existing work  
 
 {% include callout.html type="warning" content="What looks like a gap may be a visibility or coordination issue. Before defining new priorities or actions, check what already exists across the network, who is involved and where connections or responsibilities are unclear." %}
 
@@ -132,7 +141,8 @@ The discussions quickly became practical. We kept coming back to one simple ques
 ## ELIXIR-NO: making existing work visible
 
 **Node**: ELIXIR Norway  
-**Authors**: Federico Bianchini, data steward and deputy training coordinator
+**Authors**: Federico Bianchini, data steward and deputy training coordinator  
+**Topics**: Existing work, Gaps to action  
 
 {% include callout.html type="tip" content="Link services to needs that researchers already recognise. This can make data management support easier to understand and use." %}
 
@@ -147,7 +157,8 @@ The workshop also helped to push more generally various crucial concepts of data
 ## ELIXIR-NO: bringing infrastructures together
 
 **Node**: ELIXIR Norway  
-**Authors**: Federico Bianchini, data steward and deputy training coordinator
+**Authors**: Federico Bianchini, data steward and deputy training coordinator  
+**Topics**: Who to involve, Existing work  
 
 {% include callout.html type="warning" content="Without coordination, infrastructures may duplicate work or miss useful services developed elsewhere. Shared frameworks can help connect expertise across communities." %}
 
@@ -164,7 +175,8 @@ Moreover, this activity established the basis for monitoring activities on submi
 ## ELIXIR-ES: Open Science resources in national policies
 
 **Node**: ELIXIR Spain  
-**Authors**: Aída Moure, RDM liaison
+**Authors**: Aída Moure, RDM liaison  
+**Topics**: Existing work, Starting point  
 
 {% include callout.html type="important" content="Mapping policy references can make the Node’s contribution more visible and show where ELIXIR resources are already embedded in national Open Science and Data Management priorities." %}
 
@@ -177,7 +189,8 @@ The analysis of existing Open Science and Data Management resources and recommen
 ## ELIXIR-ES: RDM practices and challenges
 
 **Node**: ELIXIR Spain  
-**Authors**: Laura Portell, RDM liaison
+**Authors**: Laura Portell, RDM liaison  
+**Topics**: Starting point, Who to involve  
 
 {% include callout.html type="tip" content="A survey can provide evidence for future RDM priorities. It helps move from assumptions about needs to a clearer picture of practices, gaps and support needs across the Node." %}
 
@@ -190,7 +203,8 @@ Once the survey results are analysed, the information will help identify common 
 ## ELIXIR-SE: clarifying the Node remit
 
 **Node**: ELIXIR Sweden  
-**Authors**: Elin Kronander and Niclas Jareborg, heads of data management
+**Authors**: Elin Kronander and Niclas Jareborg, heads of data management  
+**Topics**: Why strategy, Who to involve  
 
 {% include callout.html type="important" content="Vision and mission statements can help clarify what a team works on, why it matters and who the work is for." %}
 
@@ -216,7 +230,8 @@ For several years, our Vision & Mission was the only guiding “strategy” for 
 ## ELIXIR-SE: training activity strategy
 
 **Node**: ELIXIR Sweden  
-**Authors**: Elin Kronander and Niclas Jareborg, heads of data management
+**Authors**: Elin Kronander and Niclas Jareborg, heads of data management  
+**Topics**: Gaps to action, Why strategy  
 
 {% include callout.html type="note" content="A strategy can help a team move from first come, first served to more deliberate choices. This is especially useful when requests grow faster than available capacity." %}
 
