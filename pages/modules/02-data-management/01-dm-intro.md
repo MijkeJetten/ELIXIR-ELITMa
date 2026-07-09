@@ -38,7 +38,8 @@ ELIXIR Nodes bring together many institutions, services and communities. Each gr
 
 Funders and national partners often expect this kind of clarity. A strategy provides it.
 
-**Related examples**: [ELIXIR-LU on scaling up from one organisation]({{ site.baseurl }}/examples-01-dm#elixir-lu-scaling-up-from-one-organisation) and [ELIXIR-SE on clarifying the Node remit]({{ site.baseurl }}/examples-01-dm#elixir-se-clarifying-the-node-remit).
+**Related examples**  
+[ELIXIR-LU on scaling up from one organisation]({{ site.baseurl }}/examples-01-dm#elixir-lu-scaling-up-from-one-organisation) and [ELIXIR-SE on clarifying the Node remit]({{ site.baseurl }}/examples-01-dm#elixir-se-clarifying-the-node-remit).
 
 {% include callout.html type="note" content="Developing a strategy is not the responsibility of a single role. It requires input from coordination, data stewardship, technical teams and user-facing support to reflect the full data landscape." %}
 
