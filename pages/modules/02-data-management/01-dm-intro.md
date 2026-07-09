@@ -54,6 +54,9 @@ A strategy has a few key characteristics:
 - **A shared reference point**: It gives staff a common view of the current situation and future direction.
 - **A living document**: The strategy is light and easy to update. It evolves as the Node grows, new roles appear or priorities shift. It is not a fixed plan.
 
+**Related examples**  
+[ELIXIR-DE on connecting with national initiatives]({{ site.baseurl }}/examples-01-dm#elixir-de-connecting-with-national-initiatives) and [ELIXIR-NL on mapping strengths and gaps]({{ site.baseurl }}/examples-01-dm#elixir-nl-mapping-strengths-and-gaps).
+
 ## Quick exercise: mapping your strategy starting point
 
 A strategy links existing work. Nodes often have policies, maturity assessments, training plans and service descriptions. The strategy brings these together and shows how each element contributes to the wider picture.
@@ -69,6 +72,9 @@ Before moving on, write this down. It will help you make the next steps more con
 3. **Reflect**  
    What feels clear and well connected? What feels fragmented or missing?
 
+**Related examples**  
+[ELIXIR-ES on RDM practices and challenges]({{ site.baseurl }}/examples-01-dm#elixir-es-rdm-practices-and-challenges) and [ELIXIR-DE on differences between institutes]({{ site.baseurl }}/examples-01-dm#elixir-de-differences-between-institutes).
+
 {% include callout.html type="tip" content="Compare your notes with a colleague. Do you see the same picture, or are there differences in perspective?" %}
 
 ## Quick reflection: risks without a data management strategy
@@ -78,6 +84,9 @@ Consider your current situation:
 - What risks could arise if your Node continues without a data management strategy?
 - Where could gaps or overlaps occur in services or support?
 - What might be unclear for staff or users?
+
+**Related examples**  
+[ELIXIR-LU on Node member onboarding]({{ site.baseurl }}/examples-01-dm#elixir-lu-node-member-onboarding) and [ELIXIR-SE on training activity strategy]({{ site.baseurl }}/examples-01-dm#elixir-se-training-activity-strategy).
 
 ## Exercise: taking the first steps towards your strategy
 
@@ -95,6 +104,9 @@ Using your notes, take the first steps towards developing a data management stra
    Sketch a one-page outline of what your strategy could include.  
    What would be in scope, and what can wait?
 
+**Related examples**  
+[ELIXIR-NL on identifying where the Node can add value]({{ site.baseurl }}/examples-01-dm#elixir-nl-identifying-where-the-node-can-add-value) and [ELIXIR-IT on inclusion in the SDP]({{ site.baseurl }}/examples-01-dm#elixir-it-inclusion-in-the-sdp).
+
 {% include callout.html type="tip" content="Keep this lightweight. The goal is not to create a complete strategy, but to take a first step." %}
 
 ## Who to involve
@@ -106,8 +118,8 @@ For a basic strategy, a small but diverse group is usually enough. Consider whet
 - [ ] A **support** or **training staff member** to represent user needs  
 - [ ] A **community representative** to reflect the needs of researchers  
 
-
-
+**Related examples**  
+[ELIXIR-NO on bringing infrastructures together]({{ site.baseurl }}/examples-01-dm#elixir-no-bringing-infrastructures-together) and [ELIXIR-DE on connecting with national initiatives]({{ site.baseurl }}/examples-01-dm#elixir-de-connecting-with-national-initiatives).
 
 {% include callout.html type="warning" content="If only one or two perspectives are represented, important aspects of the data landscape may be missed." %}
 
