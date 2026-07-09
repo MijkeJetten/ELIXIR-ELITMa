@@ -12,7 +12,7 @@ subitems:
   - title: 05 Planning and sustaining
     url: /05-dm-plan-sustain
   - title: Real world examples
-    url: /real-world-examples
+    url: /dm-real-world-examples
     subitems:
     - title: Node examples to learn from
       url: /examples-01-dm

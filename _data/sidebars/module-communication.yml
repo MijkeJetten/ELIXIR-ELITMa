@@ -23,6 +23,17 @@ subitems:
     url: /10-comms-storytelling
   - title: 11 Strategy canvas
     url: /11-comms-strategy
+  - title: Real world examples
+    url: /comms-real-world-examples
+    subitems:
+    - title: Co-branding a joint event
+      url: /comms-example-cobranding
+    - title: From deliverable to impact story
+      url: /comms-example-elead
+    - title: ELIXIR-UK stakeholder map
+      url: /comms-example-priority-matrix
+    - title: A communications strategy you can actually run
+      url: /comms-example-uk-strategy
   - title: All resources
     url: /comms-all-resources
   
