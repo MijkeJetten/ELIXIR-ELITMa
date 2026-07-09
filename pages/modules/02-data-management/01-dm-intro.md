@@ -22,6 +22,8 @@ learning_outcomes:
 
 Developing a shared approach to data management is not always straightforward in a distributed environment like ELIXIR. Responsibilities are spread across roles, services and institutions. A strategy helps bring these elements together.
 
+{% include callout.html type="important" content="You can use the <a href='{{ site.baseurl }}/examples-01-dm'>Node examples page</a> for inspiration while working through this chapter. The examples show how different Nodes approached strategy related questions in practice." %}
+
 ## Why a data management strategy matters
 
 ELIXIR Nodes bring together many institutions, services and communities. Each group works with data in different ways. Without a shared direction, coordination becomes difficult. A strategy helps create this direction and provides clarity.
