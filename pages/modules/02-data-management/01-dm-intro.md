@@ -55,7 +55,7 @@ A strategy has a few key characteristics:
 - **A living document**: The strategy is light and easy to update. It evolves as the Node grows, new roles appear or priorities shift. It is not a fixed plan.
 
 **Related examples**  
-[ELIXIR-DE on connecting with national initiatives]({{ site.baseurl }}/examples-01-dm#elixir-de-connecting-with-national-initiatives) and [ELIXIR-NL on mapping strengths and gaps]({{ site.baseurl }}/examples-01-dm#elixir-nl-mapping-strengths-and-gaps).
+[ELIXIR-DE on connecting with national initiatives]({{ site.baseurl }}/examples-01-dm#elixir-de-connecting-with-national-initiatives) and [ELIXIR-LU on website as a collaboration platform]({{ site.baseurl }}/examples-01-dm#elixir-lu-website-as-a-collaboration-platform).
 
 ## Quick exercise: mapping your strategy starting point
 
