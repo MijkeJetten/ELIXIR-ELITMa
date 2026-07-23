@@ -3,6 +3,11 @@ title-url: modules/data-management
 subitems:
   - title: 01 Why a Node data management strategy
     url: /01-dm-intro
+    subitems:
+    - title: Node examples to learn from
+      url: /examples-01-dm
+    - title: Funders as drivers for FAIRification strategies
+      url: /funders-dm
   - title: 02 Understanding your Node context
     url: /02-dm-node-context
   - title: 03 What to include
