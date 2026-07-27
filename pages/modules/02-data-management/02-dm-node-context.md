@@ -9,6 +9,9 @@ time: 30 minutes
 status: ready
 sidebar: module-data-management
 summary: This section helps you understand your Node context by mapping key elements such as governance, services and stakeholders. It also guides you in identifying the initial team needed to develop your data management strategy.
+related_pages:
+  Real_world_example: 
+  - examples-02-dm
 learning_outcomes:
     - Describe the key elements that shape your Node context for data management
     - Identify the roles needed to develop a Node data management strategy
@@ -17,6 +20,12 @@ learning_outcomes:
 {% include module-metadata.html %}
 
 In the previous section, you reflected on why a Node data management strategy matters and what already exists in your Node. The next step is to take a closer look at your context and organise this information.
+
+{% capture examples_callout %}
+You can use the <a href="{{ site.baseurl }}/examples-02-dm">Node examples page</a> for inspiration while working through this chapter. The examples show how different Nodes approached strategy questions in practice.
+{% endcapture %}
+
+{% include callout.html type="important" content=examples_callout %}
 
 ## Why context matters
 
@@ -88,31 +97,3 @@ As a first step, draft a simple agenda for your initial meeting. Include 2–3 k
 You will build on the overview and team you have just defined. In the next section, you will define what to include in your Node data management strategy and how to structure its content.
 
 {% include callout.html type="tip" content="Your context overview does not need to be complete. You can refine it as you continue." %}
-
-## Examples from Nodes
-
-{% include callout.html type="note" content="These examples are placeholders and reflect small, early steps taken by Nodes. They are intended to provide inspiration for now and will be replaced by separate real-world example pages for this module, developed with contributions from ELIXIR Nodes." %}
-
-These are examples of small steps Nodes can take:
-
-### Making existing work visible  
-A Node created a simple overview of its services and data activities. This helped identify overlaps and gaps.
-
-### Involving the right people early  
-A Node included its training coordinator from the start. This helped connect data stewardship with researcher support.
-
-### Starting small  
-A Node began with two people and a rough overview. They invited others later for specific input.
-
----
-
-## Create your own example
-
-> ✍ **For contributors:** Choose one of the examples above. Add your Node, name and role, and write a short story (max. 3 paragraphs): what was the situation, what did you do, and what did it help achieve. You can describe a small step or first attempt.
-
-**Node:** [Your Node name]  
-**Contributor:** [Name]  
-**Role:** [e.g. Data steward, Node coordinator]
-
-> ✍ **Your example:**  
-> Describe how you explored your Node context or organised your team. What was unclear, what did you do, and what did it help improve?
