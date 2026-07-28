@@ -19,7 +19,7 @@ The examples are linked to one or two topics from chapter 2:
 
 The examples are organised alphabetically by Node. Use the topics to find examples that connect to the chapter exercises.
 
-## ELIXIR-DE: fitting the strategy to a distributed Node
+## ELIXIR Germany: fitting the strategy to a distributed Node
 
 **Node**: ELIXIR Germany  
 **Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions  
@@ -33,7 +33,7 @@ A strategy at Node level needs to complement existing institutional approaches a
 
 Therefore, a Node Data Management Strategy needs to provide a shared direction while remaining flexible enough to be relevant for different institutional contexts. The focus is not on creating one uniform approach, but on identifying common goals and principles that can support collaboration across the Node, while also clarifying and acknowledging institutional differences. 
 
-## ELIXIR-DE: linking Node strategy, services and activities
+## ELIXIR Germany: linking Node strategy, services and activities
 
 **Node**: ELIXIR Germany  
 **Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions  
@@ -45,21 +45,7 @@ A key aspect of understanding the Node context is connecting strategic objective
 
 To make these connections more explicit, the plan is to describe how existing services, training activities and expertise contribute to broader research data management goals. This also supports the continuous development of our Node Service Delivery Plan by providing a clearer link between strategic priorities and available resources.
 
-## ELIXIR-ES: understanding the Node RDM landscape and needs
-
-**Node**: ELIXIR Spain  
-**Authors**: Aída Moure, RDM liaison  
-**Topics**: Current situation, Strengths and gaps  
-
-{% include callout.html type="tip" content="Use a survey to gather input across the Node. Responses can show what is already working, where awareness is limited and which training needs differ between groups." %}
-
-In order to capture Research Data Management (RDM) practices and challenges within the ELIXIR-ES we created and distributed an RDM survey to all Research Groups and Institutions involved in the Service Delivery Plan (SDP) across the Spanish Node, as stated in the examples of Chapter 1. So far we have 12 responses, which represent about 44% of the Node’s Research Groups. The survey considered aspects such as the link between Services from the SDP and the RDM data life cycle, the use and knowledge of RDM practices, resources and tools as well as possible specific training needs across institutions and research groups.
-
-In terms of findings, the SDP services covered in the survey relate to most stages of the RDM data lifecycle. All respondents confirmed that their Research Group uses RDM practices - mainly trusted repositories, regular data backups and data management plans (DMP). For DMP, there is a mix between the use of project-specific and institution/group-specific templates. RDMkit is the most commonly used ELIXIR tool among respondents, although there seems to be limited awareness or use of other ELIXIR tools. Some respondents were not aware of the RDM community, while others knew about it and expressed interest in participating. Training needs were highlighted by all respondents, mainly focusing on DMPs, RDM and the data lifecycle, and FAIR practices. A few also mentioned interest in training on ethical aspects of RDM and more advanced interoperability concepts. Some Research Groups expressed interest in beginner-level while others requested more advanced training. 
-
-The overall picture shows that good RDM practices are already well established in the Spanish Node, but there is room to improve awareness and use of ELIXIR tools, resources, and key RDM concepts such as the data lifecycle, which would be welcome in terms of data harmonisation and quality. Solid training on specific RDM topics, together with greater visibility of ELIXIR tools and resources, would help strengthen the RDM strategy and landscape across the Node. Further steps will be considered to achieve this.
-
-## ELIXIR-NL: bringing together Node and institutional perspectives
+## ELIXIR Netherlands: bringing together Node and institutional perspectives
 
 **Node**: ELIXIR Netherlands  
 **Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator  
@@ -73,7 +59,7 @@ We started with a small group consisting of the Head of Node, the data stewardsh
 
 The first group was not intended to represent the whole Node. It helped us identify who should be involved next, including the Node Coordinator, Technical Coordinator, Training Coordinator, AI liaison, communications support and people involved in ELIXIR Platforms, Communities and Focus Groups. We also recognised that more institutional representatives may be needed to understand how the Node and its activities are perceived locally.
 
-## ELIXIR-NL: using an initial meeting to define practical follow-up
+## ELIXIR Netherlands: using an initial meeting to define practical follow-up
 
 **Node**: ELIXIR Netherlands  
 **Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator  
@@ -87,7 +73,21 @@ The meeting started with introductions and an explanation of the liaison role. W
 
 After the meeting, the data stewardship liaison prepared an action plan rather than a full strategy and shared it with the wider Node coordination team. Proposed follow-up included collaboration with the AI liaison, links with related national projects, discussions with Dutch co-leads of ELIXIR Platforms, Communities and Focus Groups and practical tasks on the shared Taiga board. Different ways to provide input were offered, including comments in the document, discussion during an existing meeting or a separate meeting. A remaining challenge is to find a manageable way to keep people involved, share responsibility and turn the work into practical actions.
 
-## ELIXIR-SE: mapping the data service landscape
+## ELIXIR Spain: understanding the Node RDM landscape and needs
+
+**Node**: ELIXIR Spain  
+**Authors**: Aída Moure, RDM liaison  
+**Topics**: Current situation, Strengths and gaps  
+
+{% include callout.html type="tip" content="Use a survey to gather input across the Node. Responses can show what is already working, where awareness is limited and which training needs differ between groups." %}
+
+In order to capture Research Data Management (RDM) practices and challenges within the ELIXIR-ES we created and distributed an RDM survey to all Research Groups and Institutions involved in the Service Delivery Plan (SDP) across the Spanish Node, as stated in the examples of Chapter 1. So far we have 12 responses, which represent about 44% of the Node’s Research Groups. The survey considered aspects such as the link between Services from the SDP and the RDM data life cycle, the use and knowledge of RDM practices, resources and tools as well as possible specific training needs across institutions and research groups.
+
+In terms of findings, the SDP services covered in the survey relate to most stages of the RDM data lifecycle. All respondents confirmed that their Research Group uses RDM practices - mainly trusted repositories, regular data backups and data management plans (DMP). For DMP, there is a mix between the use of project-specific and institution/group-specific templates. RDMkit is the most commonly used ELIXIR tool among respondents, although there seems to be limited awareness or use of other ELIXIR tools. Some respondents were not aware of the RDM community, while others knew about it and expressed interest in participating. Training needs were highlighted by all respondents, mainly focusing on DMPs, RDM and the data lifecycle, and FAIR practices. A few also mentioned interest in training on ethical aspects of RDM and more advanced interoperability concepts. Some Research Groups expressed interest in beginner-level while others requested more advanced training. 
+
+The overall picture shows that good RDM practices are already well established in the Spanish Node, but there is room to improve awareness and use of ELIXIR tools, resources, and key RDM concepts such as the data lifecycle, which would be welcome in terms of data harmonisation and quality. Solid training on specific RDM topics, together with greater visibility of ELIXIR tools and resources, would help strengthen the RDM strategy and landscape across the Node. Further steps will be considered to achieve this.
+
+## ELIXIR Sweden: mapping the data service landscape
 
 **Node**: ELIXIR Sweden  
 **Authors**: Elin Kronander and Niclas Jareborg, heads of data management  
