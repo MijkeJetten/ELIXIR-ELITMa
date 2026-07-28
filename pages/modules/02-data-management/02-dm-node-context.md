@@ -81,7 +81,7 @@ Before describing something as a gap, check whether the activity or expertise ma
 **Related examples**  
 [ELIXIR Germany on linking Node strategy, services and activities]({{ site.baseurl }}/examples-02-dm#elixir-germany-linking-node-strategy-services-and-activities) and [ELIXIR Sweden on mapping the data service landscape]({{ site.baseurl }}/examples-02-dm#elixir-sweden-mapping-the-data-service-landscape).
 
-{% include callout.html type="tip" content="Compare your observations with someone else in your Node. Different perspectives often reveal hidden assumptions, existing work that was not yet visible, or missing connections." %}
+{% include callout.html type="warning" content="Do not assume that something is missing simply because it is not yet visible. Check whether the activity, service or expertise already exists elsewhere in the Node." %}
 
 ## Building the initial team
 
@@ -103,7 +103,7 @@ You do not need all these perspectives in the initial group. Note who is essenti
 **Related examples**  
 [ELIXIR Netherlands on bringing together Node and institutional perspectives]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-bringing-together-node-and-institutional-perspectives) and [ELIXIR Netherlands on using an initial meeting to identify priorities]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-using-an-initial-meeting-to-identify-priorities).
 
-{% include callout.html type="tip" content="Focus on the perspectives, knowledge and connections people bring rather than formal roles. A small group can begin the work and help identify who else should contribute." %}
+{% include callout.html type="note" content="Focus on the perspectives, knowledge and connections people bring rather than formal roles. A small group can begin the work and help identify who else should contribute." %}
 
 ## Quick exercise: planning how to work together
 
@@ -147,4 +147,4 @@ You now have a first overview of your Node context, the main connections and gap
 
 In the next section, you will identify the main areas to include in the strategy and begin structuring its content.
 
-{% include callout.html type="tip" content="Keep your context overview and first working arrangements available for the next chapter. They are working documents that can be refined as you make choices about the strategy and involve more people." %}
+{% include callout.html type="important" content="Keep your context overview and first working arrangements available for the next chapter. They are working documents that can be refined as you make choices about the strategy and involve more people." %}
