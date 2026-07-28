@@ -5,17 +5,17 @@ page_id: mod_dm_2
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
 audience: [Node Coordinators, Data Stewards]
-time: 30 minutes 
+time: 45 minutes 
 status: ready
 sidebar: module-data-management
-summary: This section helps you understand your Node context by mapping key elements such as governance, services and stakeholders. It also guides you in identifying the initial team needed to develop your data management strategy.
+summary: This section helps you build a shared understanding of your Node context by mapping governance, services, expertise, connections and gaps. It also guides you in forming an initial team and agreeing on a practical way to begin developing your data management strategy.
 related_pages:
   Real_world_example: 
   - examples-02-dm
 learning_outcomes:
     - Describe the key elements that shape your Node context for data management
-    - Identify the roles needed to develop a Node data management strategy
-    - Create a simple overview of your Node context
+    - Identify the perspectives needed to begin developing a Node data management strategy
+    - Create a simple overview of your Node context and agree on a practical way to begin
 ---
 {% include module-metadata.html %}
 
@@ -29,86 +29,122 @@ You can use the <a href="{{ site.baseurl }}/examples-02-dm">Node examples page</
 
 ## Why the Node context matters
 
-A data management strategy must reflect the real situation of the Node. Each Node brings together different institutions, services and research communities. Without a basic understanding of this landscape, it becomes difficult to set priorities or design a realistic plan.
+A data management strategy must reflect the real situation of the Node. Each Node brings together different institutions, services, research communities, projects and national initiatives. These may have their own priorities, responsibilities, resources and ways of working. Without a basic understanding of this landscape, it becomes difficult to set priorities, define a realistic scope or identify where coordination at Node level can add value.
 
-A strategy also depends on people. No single person can see the whole picture. A small group with different perspectives helps ensure that the strategy is grounded in practice and reflects how data is actually managed.
+Much of the relevant work may already exist, but it can be spread across organisations, projects or teams and may not be visible to everyone. Understanding the Node context helps identify existing expertise, services and connections before deciding that something new is needed.
+
+A Node strategy should complement institutional, project-level and national approaches rather than replace them. The aim is not to make every organisation work in the same way, but to identify shared goals, useful connections, dependencies and areas where greater clarity or coordination is needed.
+
+A strategy also depends on people. No single person can see the whole picture. A small group with different perspectives helps ensure that the strategy reflects both the overall direction of the Node and how data management, services and support work in practice.
 
 **Related examples**
 [ELIXIR Germany on fitting the strategy to a distributed Node]({{ site.baseurl }}/examples-02-dm#elixir-germany-fitting-the-strategy-to-a-distributed-node) and [ELIXIR Netherlands on bringing together Node and institutional perspectives]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-bringing-together-node-and-institutional-perspectives).
 
-{% include callout.html type="note" content="You do not need a complete overview. A simple, shared understanding is enough to get started." %}
+{% include callout.html type="note" content="You do not need a complete or final overview. A simple, shared understanding is enough to get started and can be refined as roles, services and priorities change." %}
 
 ## Building a context overview
 
-Start by building a simple overview of your Node context. You do not need great detail at this stage. Focus on the elements that shape how data is managed in practice.
+Start by building a simple overview of your Node context. You do not need great detail at this stage. Focus on the elements that shape how data is managed in practice and on what may be relevant for coordination at Node level.
 
 Use these questions to guide your first overview.
 
 | Area | Questions to guide you | Example |
-|------|----------------------|------|
-| Governance | Who makes decisions on data management? Where are these discussed or approved? | Decisions made by Node coordinator and steering group |
-| Data landscape | What research domains and data types are present? What workflows are common? | Life sciences and clinical data |
-| Services | What RDM services and tools exist? Who uses them and who maintains them? | Repository, training programme, helpdesk |
-| Policies and standards | Which guidelines or standards apply? | FAIR principles, national guidelines |
-| Training and support | What support is available for researchers? Where are the gaps? | Workshops and limited one-on-one support |
-| Sustainability | How are services funded and staffed? What is stable or uncertain? | Project-based funding, limited staff continuity |
+| --- | --- | --- |
+| **Governance and responsibilities** | Who makes decisions about data management? Where are these discussed or approved? Which responsibilities sit at Node, institutional, project or service level? | Decisions made by the Node coordinator and steering group, with services managed by partner institutions |
+| **Data and research landscape** | Which research domains, communities, data types and workflows are present? Are there important differences between institutions or groups? | Life sciences and clinical data managed through different institutional workflows |
+| **Services, tools and expertise** | Which services, tools, training activities and areas of expertise already exist or are being developed? Who provides, uses and maintains them? | Repository, helpdesk, training programme and expertise in Data Management Plans |
+| **Connections and dependencies** | How do services, teams and activities relate to each other? Where do they depend on one another or contribute to shared goals? | Two teams with different remits jointly supporting parts of the research data lifecycle |
+| **Policies, standards and wider initiatives** | Which institutional, national, funder or ELIXIR policies, standards, strategies and initiatives are relevant? | FAIR principles, national guidelines and the Node Service Delivery Plan |
+| **Needs and gaps** | Which questions, support needs or training needs occur across the Node? Where is awareness limited or support difficult to find? | Different levels of awareness and demand for basic and advanced RDM training |
+| **Sustainability** | How are activities funded, staffed and maintained? What is stable, changing or uncertain? | Project funding, limited staff continuity or unclear long-term ownership |
 
-**Related examples**
+**Related examples**  
 [ELIXIR Spain on understanding the Node RDM landscape and needs]({{ site.baseurl }}/examples-02-dm#elixir-spain-understanding-the-node-rdm-landscape-and-needs) and [ELIXIR Sweden on mapping the data service landscape]({{ site.baseurl }}/examples-02-dm#elixir-sweden-mapping-the-data-service-landscape).
+
+{% include callout.html type="tip" content="Use what already exists. Strategies, Service Delivery Plans, surveys, service lists, maturity assessments and earlier mappings can all provide a starting point. The overview does not need to be created from scratch." %}
 
 ## Quick reflection: connections and gaps
 
 Using the areas above, make a rough overview of your current Node context.
 
 As a starting point, reflect on:
-- What already seems well organised?
-- Where do activities overlap?
-- What feels fragmented or unclear?
-- Where are important gaps?
 
-Keep your notes short and practical. The goal is not completeness, but developing a shared understanding of your current situation.
+- What already seems strong or well organised?
+- Which activities, services or people are already connected?
+- Where do activities overlap, and is this overlap useful or unnecessary?
+- What exists but is difficult to find, insufficiently connected or unclear in ownership?
+- Where are there genuine gaps in expertise, services, support or coordination?
+- Are there important differences between institutions, communities or user groups?
 
-**Related examples**
+Before describing something as a gap, check whether the activity or expertise may already exist elsewhere in the Node. Keep your notes short and practical. The goal is not completeness, but a shared understanding of what is connected, unclear or missing.
+
+**Related examples**  
 [ELIXIR Germany on linking Node strategy, services and activities]({{ site.baseurl }}/examples-02-dm#elixir-germany-linking-node-strategy-services-and-activities) and [ELIXIR Sweden on mapping the data service landscape]({{ site.baseurl }}/examples-02-dm#elixir-sweden-mapping-the-data-service-landscape).
 
-{% include callout.html type="tip" content="Compare your observations with someone else in your Node. Different perspectives often reveal hidden assumptions, overlaps or missing connections." %}
+{% include callout.html type="tip" content="Compare your observations with someone else in your Node. Different perspectives often reveal hidden assumptions, existing work that was not yet visible, or missing connections." %}
 
 ## Building the initial team
 
-Once you have a basic understanding of your Node context, the next step is to bring together a small group to develop your strategy. Based on your context overview, identify who should be involved in developing your Node data management strategy.
+Once you have a basic understanding of your Node context, bring together a small group to take the work forward. Use your context overview to identify which perspectives are needed at the start.
 
-Start with two or three people. This is enough to begin. You can expand the group later as needed. A useful group often includes:
-- Node coordination  
-- Data stewards or data managers  
-- Service or infrastructure leads  
-- Training or support staff  
-- Community representatives  
+Begin with two or three people. They do not need to represent the whole Node or form the final working group. They should be able to compare different views of the Node, identify initial priorities and recognise who else needs to be involved.
 
-**Related examples**
+Depending on your context, useful perspectives may include:
+
+- **Node coordination**, to connect the work with the overall direction and priorities of the Node
+- **Data stewardship or data management**, to understand current practices, needs and responsibilities
+- **Services, infrastructure or technical expertise**, to connect the strategy with practical activities and dependencies
+- **Training or support**, to bring recurring questions and user needs into the discussion
+- **Institutions or research communities**, to understand how Node activities are experienced in practice
+- **National or ELIXIR initiatives**, where wider connections affect the strategy
+
+You do not need all these perspectives in the initial group. Note who is essential now, who should be consulted and who may become involved later.
+
+**Related examples**  
 [ELIXIR Netherlands on bringing together Node and institutional perspectives]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-bringing-together-node-and-institutional-perspectives) and [ELIXIR Netherlands on using an initial meeting to identify priorities]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-using-an-initial-meeting-to-identify-priorities).
 
-{% include callout.html type="tip" content="Focus on diversity of perspectives rather than formal roles. You need people who understand how things work in practice." %}
+{% include callout.html type="tip" content="Focus on the perspectives, knowledge and connections people bring rather than formal roles. A small group can begin the work and help identify who else should contribute." %}
 
 ## Quick exercise: planning how to work together
 
-List the people who should be involved in developing your Node data management strategy.
+List the people who may contribute to developing your Node data management strategy.
 
-Mark:
-- Essential now  
-- Useful later  
+For each person or role, mark whether they are:
 
-Agree early on:
-- How often you meet  
-- How decisions are made  
-- Where you document your work  
+- **Essential now**
+- **Useful to consult**
+- **Useful later**
 
-As a first step, draft a simple agenda for your initial meeting. Include 2–3 key questions you want to answer together.
+Then agree on a practical way to begin.
 
-**Related examples**
+1. **Plan the initial meeting**  
+   Draft a simple agenda and choose two or three questions to discuss. For example:
+   - What are our main priorities?
+   - Where can coordination at Node level add value?
+   - What should our first practical step be?
+
+2. **Choose a realistic first output**  
+   This could be a short summary, an action plan, a first context overview or a list of questions that need further input. The initial meeting does not need to produce a complete strategy.
+
+3. **Agree how you will continue**  
+   Decide:
+   - who will document the discussion and take the next step
+   - how decisions will be made
+   - where documents and actions will be recorded
+   - when the group will meet or review progress again
+
+4. **Offer different ways to contribute**  
+   Consider how people who are not part of the initial group can provide input, for example through comments in a document, an existing meeting, a survey or a separate discussion.
+
+**Related examples**  
 [ELIXIR Netherlands on using an initial meeting to identify priorities]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-using-an-initial-meeting-to-identify-priorities) and [ELIXIR Netherlands on finding practical ways to keep people involved]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-finding-practical-ways-to-keep-people-involved).
+
+{% include callout.html type="tip" content="Keep the first step manageable. Use existing meetings, documents and working tools where possible, and agree who will turn the discussion into a practical next action." %}
 
 ## What’s next
 
-You will build on the overview and team you have just defined. In the next section, you will define what to include in your Node data management strategy and how to structure its content.
+You now have a first overview of your Node context, the main connections and gaps, and the people who can help take the work forward. These provide a practical foundation for deciding what the Node data management strategy should cover.
 
-{% include callout.html type="tip" content="Your context overview does not need to be complete. You can refine it as you continue." %}
+In the next section, you will identify the main areas to include in the strategy and begin structuring its content.
+
+{% include callout.html type="tip" content="Keep your context overview and first working arrangements available for the next chapter. They are working documents that can be refined as you make choices about the strategy and involve more people." %}
