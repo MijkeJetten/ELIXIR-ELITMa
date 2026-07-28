@@ -49,7 +49,7 @@ To make these connections more explicit, the plan is to describe how existing se
 
 **Node**: ELIXIR Netherlands  
 **Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator  
-**Topics**: Initial team, Ways of working
+**Topics**: Node context, Initial team  
 
 {% include callout.html type="tip" content="Start with two or three people who see the Node from different perspectives. They do not need to represent the whole Node, but they can help identify who is essential now and who can be involved later." %}
 
@@ -59,19 +59,33 @@ We started with a small group consisting of the Head of Node, the data stewardsh
 
 The first group was not intended to represent the whole Node. It helped us identify who should be involved next, including the Node Coordinator, Technical Coordinator, Training Coordinator, AI liaison, communications support and people involved in ELIXIR Platforms, Communities and Focus Groups. We also recognised that more institutional representatives may be needed to understand how the Node and its activities are perceived locally.
 
-## ELIXIR Netherlands: using an initial meeting to define practical follow-up
+## ELIXIR Netherlands: using an initial meeting to identify priorities
 
 **Node**: ELIXIR Netherlands  
 **Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator  
-**Topics**: Context overview, Ways of working
+**Topics**: Initial team, Ways of working  
 
-{% include callout.html type="note" content="The initial meeting does not need to produce a complete strategy. Use it to compare perspectives, identify first priorities and agree how the work can continue." %}
+{% include callout.html type="note" content="The initial meeting does not need to produce a complete strategy. Use it to compare perspectives, identify first priorities and agree on an immediate next step." %}
 
-The first meeting was organised to discuss the responsibilities and initial priorities of the newly appointed data stewardship liaison, rather than to write a Node data management strategy. We used the questions from this chapter to structure the discussion and connect the new role to the wider Node context.
+The first meeting was organised to discuss the responsibilities and initial priorities of the newly appointed data stewardship liaison, rather than to write a Node data management strategy. The meeting brought together the Head of Node, the data stewardship liaison and a data management expert from one university medical centre.
 
-The meeting started with introductions and an explanation of the liaison role. We then reviewed the new ELIXIR Netherlands strategy and an earlier mapping based on the RDA GORC model. The main discussion focused on two questions: which quick wins could be taken forward and which topics should receive priority. This allowed participants to compare perspectives from the Node and institutional levels without first needing a complete overview.
+The meeting started with introductions and an explanation of the liaison role. We then reviewed the new ELIXIR Netherlands strategy and an earlier mapping based on the RDA GORC model. The main discussion focused on two questions: which quick wins could be taken forward and which topics should receive priority.
 
-After the meeting, the data stewardship liaison prepared an action plan rather than a full strategy and shared it with the wider Node coordination team. Proposed follow-up included collaboration with the AI liaison, links with related national projects, discussions with Dutch co-leads of ELIXIR Platforms, Communities and Focus Groups and practical tasks on the shared Taiga board. Different ways to provide input were offered, including comments in the document, discussion during an existing meeting or a separate meeting. A remaining challenge is to find a manageable way to keep people involved, share responsibility and turn the work into practical actions.
+After the meeting, the data stewardship liaison prepared an action plan rather than a full strategy. This was a more realistic first outcome and created a practical basis for further discussion, feedback and coordination.
+
+## ELIXIR Netherlands: finding practical ways to keep people involved
+
+**Node**: ELIXIR Netherlands  
+**Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator  
+**Topics**: Ways of working  
+
+{% include callout.html type="tip" content="Do not rely on one way of involving people. Offer practical options that fit existing ways of working, such as comments in a document, discussion during a regular meeting or a separate follow-up meeting." %}
+
+After the initial meeting, the data stewardship liaison prepared a summary and an action plan and shared them with the wider Node coordination team. The aim was to keep the relevant people informed and give them an opportunity to help shape the next steps.
+
+Different ways to provide input were offered. People could add comments or tracked changes to the document, discuss the work during an existing meeting or join a separate meeting if that was more useful. Practical tasks would also be added to the shared Taiga board used to work on actions from the ELIXIR Netherlands strategy.
+
+A remaining challenge is to find a manageable way to keep people involved, make the work a joint responsibility and still turn it into practical actions. Progress may be gradual, as this is not a priority for everyone, but starting the conversation already created a useful basis for further work.
 
 ## ELIXIR Spain: understanding the Node RDM landscape and needs
 
