@@ -34,7 +34,6 @@ A data management strategy must reflect the real situation of the Node. Each Nod
 A strategy also depends on people. No single person can see the whole picture. A small group with different perspectives helps ensure that the strategy is grounded in practice and reflects how data is actually managed.
 
 **Related examples**
-
 [ELIXIR Germany on fitting the strategy to a distributed Node]({{ site.baseurl }}/examples-02-dm#elixir-germany-fitting-the-strategy-to-a-distributed-node) and [ELIXIR Netherlands on bringing together Node and institutional perspectives]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-bringing-together-node-and-institutional-perspectives).
 
 {% include callout.html type="note" content="You do not need a complete overview. A simple, shared understanding is enough to get started." %}
@@ -55,7 +54,6 @@ Use these questions to guide your first overview.
 | Sustainability | How are services funded and staffed? What is stable or uncertain? | Project-based funding, limited staff continuity |
 
 **Related examples**
-
 [ELIXIR Spain on understanding the Node RDM landscape and needs]({{ site.baseurl }}/examples-02-dm#elixir-spain-understanding-the-node-rdm-landscape-and-needs) and [ELIXIR Sweden on mapping the data service landscape]({{ site.baseurl }}/examples-02-dm#elixir-sweden-mapping-the-data-service-landscape).
 
 ## First reflection
@@ -71,7 +69,6 @@ As a starting point, reflect on:
 Keep your notes short and practical. The goal is not completeness, but developing a shared understanding of your current situation.
 
 **Related examples**
-
 [ELIXIR Germany on linking Node strategy, services and activities]({{ site.baseurl }}/examples-02-dm#elixir-germany-linking-node-strategy-services-and-activities) and [ELIXIR Sweden on mapping the data service landscape]({{ site.baseurl }}/examples-02-dm#elixir-sweden-mapping-the-data-service-landscape).
 
 {% include callout.html type="tip" content="Compare your observations with someone else in your Node. Different perspectives often reveal hidden assumptions, overlaps or missing connections." %}
@@ -105,7 +102,6 @@ Agree early on:
 As a first step, draft a simple agenda for your initial meeting. Include 2–3 key questions you want to answer together.
 
 **Related examples**
-
 [ELIXIR Netherlands on bringing together Node and institutional perspectives]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-bringing-together-node-and-institutional-perspectives) and [ELIXIR Netherlands on using an initial meeting to define practical follow-up]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-using-an-initial-meeting-to-define-practical-follow-up).
 
 ## What’s next
