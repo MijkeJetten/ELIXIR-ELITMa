@@ -119,7 +119,7 @@ For a basic strategy, a small but diverse group is usually enough. Consider whet
 - [ ] A **community representative** to reflect the needs of researchers  
 
 **Related examples**  
-[ELIXIR Norway on bringing infrastructures together]({{ site.baseurl }}/examples-01-dm#elixir-norway-bringing-infrastructures-together) and [ELIXIR Germany on connecting with national initiatives]({{ site.baseurl }}/examples-01-dm#elixir-germany-connecting-with-national-initiatives).
+[ELIXIR Norway on bringing infrastructures together]({{ site.baseurl }}/examples-01-dm#elixir-norway-bringing-infrastructures-together) and [ELIXIR Spain on Research Data Management training to boost capacity building and community engagement]({{ site.baseurl }}/examples-01-dm#elixir-spain-research-data-management-training-to-boost-capacity-building-and-community-engagement).
 
 {% include callout.html type="warning" content="If only one or two perspectives are represented, important aspects of the data landscape may be missed." %}
 
