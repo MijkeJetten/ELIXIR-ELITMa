@@ -45,7 +45,7 @@ A key aspect of understanding the Node context is connecting strategic objective
 
 To make these connections more explicit, the plan is to describe how existing services, training activities and expertise contribute to broader research data management goals. This also supports the continuous development of our Node Service Delivery Plan by providing a clearer link between strategic priorities and available resources.
 
-## ELIXIR-ES: understanding the Node’s RDM landscape and needs
+## ELIXIR-ES: understanding the Node RDM landscape and needs
 
 **Node**: ELIXIR Spain  
 **Authors**: Aída Moure, RDM liaison  
