@@ -23,7 +23,7 @@ The examples are organised alphabetically by Node. Use the topics to find exampl
 
 **Node**: ELIXIR Germany  
 **Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions  
-**Topics**: Node context, Context overview
+**Topics**: Node context
 
 {% include callout.html type="important" content="A Node strategy should complement existing institutional approaches rather than replace them. Shared direction does not require one uniform approach across all partner institutions." %}
 
