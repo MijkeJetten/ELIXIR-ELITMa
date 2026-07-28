@@ -39,7 +39,7 @@ ELIXIR Nodes bring together many institutions, services and communities. Each gr
 Funders and national partners often expect this kind of clarity. A strategy provides it.
 
 **Related examples**  
-[ELIXIR-LU on scaling up from one organisation]({{ site.baseurl }}/examples-01-dm#elixir-lu-scaling-up-from-one-organisation) and [ELIXIR-SE on clarifying the Node remit]({{ site.baseurl }}/examples-01-dm#elixir-se-clarifying-the-node-remit).
+[ELIXIR Luxembourg on scaling up from one organisation]({{ site.baseurl }}/examples-01-dm#elixir-luxembourg-scaling-up-from-one-organisation) and [ELIXIR Sweden on clarifying the Node remit]({{ site.baseurl }}/examples-01-dm#elixir-sweden-clarifying-the-node-remit).
 
 {% include callout.html type="note" content="Developing a strategy is not the responsibility of a single role. It requires input from coordination, data stewardship, technical teams and user-facing support to reflect the full data landscape." %}
 
@@ -55,7 +55,7 @@ A strategy has a few key characteristics:
 - **A living document**: The strategy is light and easy to update. It evolves as the Node grows, new roles appear or priorities shift. It is not a fixed plan.
 
 **Related examples**  
-[ELIXIR-DE on connecting with national initiatives]({{ site.baseurl }}/examples-01-dm#elixir-de-connecting-with-national-initiatives) and [ELIXIR-LU on website as a collaboration platform]({{ site.baseurl }}/examples-01-dm#elixir-lu-website-as-a-collaboration-platform).
+[ELIXIR Germany on connecting with national initiatives]({{ site.baseurl }}/examples-01-dm#elixir-germany-connecting-with-national-initiatives) and [ELIXIR Luxembourg on website as a collaboration platform]({{ site.baseurl }}/examples-01-dm#elixir-luxembourg-website-as-a-collaboration-platform).
 
 ## Quick exercise: mapping your strategy starting point
 
@@ -73,7 +73,7 @@ Before moving on, write this down. It will help you make the next steps more con
    What feels clear and well connected? What feels fragmented or missing?
 
 **Related examples**  
-[ELIXIR-ES on RDM practices and challenges]({{ site.baseurl }}/examples-01-dm#elixir-es-rdm-practices-and-challenges) and [ELIXIR-DE on differences between institutes]({{ site.baseurl }}/examples-01-dm#elixir-de-differences-between-institutes).
+[ELIXIR Spain on RDM practices and challenges]({{ site.baseurl }}/examples-01-dm#elixir-spain-rdm-practices-and-challenges) and [ELIXIR Germany on differences between institutes]({{ site.baseurl }}/examples-01-dm#elixir-germany-differences-between-institutes).
 
 {% include callout.html type="tip" content="Compare your notes with a colleague. Do you see the same picture, or are there differences in perspective?" %}
 
@@ -86,7 +86,7 @@ Consider your current situation:
 - What might be unclear for staff or users?
 
 **Related examples**  
-[ELIXIR-LU on Node member onboarding]({{ site.baseurl }}/examples-01-dm#elixir-lu-node-member-onboarding) and [ELIXIR-SE on training activity strategy]({{ site.baseurl }}/examples-01-dm#elixir-se-training-activity-strategy).
+[ELIXIR Luxembourg on Node member onboarding]({{ site.baseurl }}/examples-01-dm#elixir-luxembourg-node-member-onboarding) and [ELIXIR Sweden on training activity strategy]({{ site.baseurl }}/examples-01-dm#elixir-sweden-training-activity-strategy).
 
 ## Exercise: taking the first steps towards your strategy
 
@@ -105,7 +105,7 @@ Using your notes, take the first steps towards developing a data management stra
    What would be in scope, and what can wait?
 
 **Related examples**  
-[ELIXIR-NL on identifying where the Node can add value]({{ site.baseurl }}/examples-01-dm#elixir-nl-identifying-where-the-node-can-add-value) and [ELIXIR-IT on inclusion in the SDP]({{ site.baseurl }}/examples-01-dm#elixir-it-inclusion-in-the-sdp).
+[ELIXIR Netherlands on identifying where the Node can add value]({{ site.baseurl }}/examples-01-dm#elixir-netherlands-identifying-where-the-node-can-add-value) and [ELIXIR Italy on inclusion in the SDP]({{ site.baseurl }}/examples-01-dm#elixir-italy-inclusion-in-the-sdp).
 
 {% include callout.html type="tip" content="Keep this lightweight. The goal is not to create a complete strategy, but to take a first step." %}
 
@@ -119,7 +119,7 @@ For a basic strategy, a small but diverse group is usually enough. Consider whet
 - [ ] A **community representative** to reflect the needs of researchers  
 
 **Related examples**  
-[ELIXIR-NO on bringing infrastructures together]({{ site.baseurl }}/examples-01-dm#elixir-no-bringing-infrastructures-together) and [ELIXIR-DE on connecting with national initiatives]({{ site.baseurl }}/examples-01-dm#elixir-de-connecting-with-national-initiatives).
+[ELIXIR Norway on bringing infrastructures together]({{ site.baseurl }}/examples-01-dm#elixir-norway-bringing-infrastructures-together) and [ELIXIR Germany on connecting with national initiatives]({{ site.baseurl }}/examples-01-dm#elixir-germany-connecting-with-national-initiatives).
 
 {% include callout.html type="warning" content="If only one or two perspectives are represented, important aspects of the data landscape may be missed." %}
 
