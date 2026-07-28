@@ -27,7 +27,7 @@ You can use the <a href="{{ site.baseurl }}/examples-02-dm">Node examples page</
 
 {% include callout.html type="important" content=examples_callout %}
 
-## Why context matters
+## Why the Node context matters
 
 A data management strategy must reflect the real situation of the Node. Each Node brings together different institutions, services and research communities. Without a basic understanding of this landscape, it becomes difficult to set priorities or design a realistic plan.
 
@@ -38,7 +38,7 @@ A strategy also depends on people. No single person can see the whole picture. A
 
 {% include callout.html type="note" content="You do not need a complete overview. A simple, shared understanding is enough to get started." %}
 
-## What to understand
+## Building a context overview
 
 Start by building a simple overview of your Node context. You do not need great detail at this stage. Focus on the elements that shape how data is managed in practice.
 
@@ -56,7 +56,7 @@ Use these questions to guide your first overview.
 **Related examples**
 [ELIXIR Spain on understanding the Node RDM landscape and needs]({{ site.baseurl }}/examples-02-dm#elixir-spain-understanding-the-node-rdm-landscape-and-needs) and [ELIXIR Sweden on mapping the data service landscape]({{ site.baseurl }}/examples-02-dm#elixir-sweden-mapping-the-data-service-landscape).
 
-## First reflection
+## Quick reflection: connections and gaps
 
 Using the areas above, make a rough overview of your current Node context.
 
@@ -73,7 +73,7 @@ Keep your notes short and practical. The goal is not completeness, but developin
 
 {% include callout.html type="tip" content="Compare your observations with someone else in your Node. Different perspectives often reveal hidden assumptions, overlaps or missing connections." %}
 
-## Organising your team
+## Building the initial team
 
 Once you have a basic understanding of your Node context, the next step is to bring together a small group to develop your strategy. Based on your context overview, identify who should be involved in developing your Node data management strategy.
 
@@ -86,7 +86,7 @@ Start with two or three people. This is enough to begin. You can expand the grou
 
 {% include callout.html type="tip" content="Focus on diversity of perspectives rather than formal roles. You need people who understand how things work in practice." %}
 
-## Quick step: outline your team
+## Quick exercise: planning how to work together
 
 List the people who should be involved in developing your Node data management strategy.
 
