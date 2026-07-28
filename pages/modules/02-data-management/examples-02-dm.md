@@ -11,11 +11,11 @@ type: Real_world_example
 
 The examples are linked to one or two topics from chapter 2:
 
-**Node context**: how the Node is organised  
-**Current situation**: what already exists  
-**Strengths and gaps**: what works well and what is unclear  
-**Who to involve**: who should join the conversation  
-**Organising the team**: how to start and involve others later
+**Node context**: why the Node context matters  
+**Context overview**: what to include in a first overview  
+**Connections and gaps**: what is connected, unclear or missing  
+**Initial team**: who should be involved at the start  
+**Ways of working**: how to organise the work together
 
 The examples are organised alphabetically by Node. Use the topics to find examples that connect to the chapter exercises.
 
@@ -23,7 +23,7 @@ The examples are organised alphabetically by Node. Use the topics to find exampl
 
 **Node**: ELIXIR Germany  
 **Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions  
-**Topics**: Node context, Current situation  
+**Topics**: Node context, Context overview
 
 {% include callout.html type="important" content="A Node strategy should complement existing institutional approaches rather than replace them. Shared direction does not require one uniform approach across all partner institutions." %}
 
@@ -37,7 +37,7 @@ Therefore, a Node Data Management Strategy needs to provide a shared direction w
 
 **Node**: ELIXIR Germany  
 **Authors**: Helena Schnitzer, training platform coordinator and liaison for RDM related questions  
-**Topics**: Current situation, Strengths and gaps  
+**Topics**: Context overview, Connections and gaps
 
 {% include callout.html type="tip" content="Link strategic priorities to existing services, training and expertise. This can make current contributions more visible and support the development of the Node Service Delivery Plan." %}
 
@@ -49,7 +49,7 @@ To make these connections more explicit, the plan is to describe how existing se
 
 **Node**: ELIXIR Netherlands  
 **Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator  
-**Topics**: Who to involve, Organising the team  
+**Topics**: Initial team, Ways of working
 
 {% include callout.html type="tip" content="Start with two or three people who see the Node from different perspectives. They do not need to represent the whole Node, but they can help identify who is essential now and who can be involved later." %}
 
@@ -63,7 +63,7 @@ The first group was not intended to represent the whole Node. It helped us ident
 
 **Node**: ELIXIR Netherlands  
 **Authors**: Mijke Jetten, data stewardship liaison and deputy training coordinator  
-**Topics**: Current situation, Organising the team  
+**Topics**: Context overview, Ways of working
 
 {% include callout.html type="note" content="The initial meeting does not need to produce a complete strategy. Use it to compare perspectives, identify first priorities and agree how the work can continue." %}
 
@@ -77,7 +77,7 @@ After the meeting, the data stewardship liaison prepared an action plan rather t
 
 **Node**: ELIXIR Spain  
 **Authors**: Aída Moure, RDM liaison  
-**Topics**: Current situation, Strengths and gaps  
+**Topics**: Context overview, Connections and gaps
 
 {% include callout.html type="tip" content="Use a survey to gather input across the Node. Responses can show what is already working, where awareness is limited and which training needs differ between groups." %}
 
@@ -91,7 +91,7 @@ The overall picture shows that good RDM practices are already well established i
 
 **Node**: ELIXIR Sweden  
 **Authors**: Elin Kronander and Niclas Jareborg, heads of data management  
-**Topics**: Current situation, Strengths and gaps  
+**Topics**: Context overview, Connections and gaps
 
 {% include callout.html type="tip" content="Create the overview together. Mapping services in an in-person workshop can reveal connections and gaps that are difficult to identify from separate lists." %}
 
