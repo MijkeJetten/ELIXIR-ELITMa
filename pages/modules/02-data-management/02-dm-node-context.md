@@ -84,6 +84,9 @@ Start with two or three people. This is enough to begin. You can expand the grou
 - Training or support staff  
 - Community representatives  
 
+**Related examples**
+[ELIXIR Netherlands on bringing together Node and institutional perspectives]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-bringing-together-node-and-institutional-perspectives) and [ELIXIR Netherlands on using an initial meeting to identify priorities]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-using-an-initial-meeting-to-identify-priorities).
+
 {% include callout.html type="tip" content="Focus on diversity of perspectives rather than formal roles. You need people who understand how things work in practice." %}
 
 ## Quick exercise: planning how to work together
@@ -102,7 +105,7 @@ Agree early on:
 As a first step, draft a simple agenda for your initial meeting. Include 2–3 key questions you want to answer together.
 
 **Related examples**
-[ELIXIR Netherlands on bringing together Node and institutional perspectives]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-bringing-together-node-and-institutional-perspectives) and [ELIXIR Netherlands on using an initial meeting to define practical follow-up]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-using-an-initial-meeting-to-define-practical-follow-up).
+[ELIXIR Netherlands on using an initial meeting to identify priorities]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-using-an-initial-meeting-to-identify-priorities) and [ELIXIR Netherlands on finding practical ways to keep people involved]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-finding-practical-ways-to-keep-people-involved).
 
 ## What’s next
 
