@@ -10,6 +10,9 @@ subitems:
       url: /funders-dm
   - title: 02 Understanding your Node context
     url: /02-dm-node-context
+    subitems:
+    - title: Node examples to learn from
+      url: /examples-02-dm
   - title: 03 What to include
     url: /03-dm-content
   - title: 04 How to begin
