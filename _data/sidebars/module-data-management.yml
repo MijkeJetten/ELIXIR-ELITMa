@@ -15,8 +15,10 @@ subitems:
       url: /examples-02-dm
   - title: 03 What to include
     url: /03-dm-content
+    subitems:
+    - title: Understanding the GORC framework
+      url: /gorc-framework-dm
   - title: 04 How to begin
     url: /04-dm-begin
   - title: 05 Planning and sustaining
     url: /05-dm-plan-sustain
-
