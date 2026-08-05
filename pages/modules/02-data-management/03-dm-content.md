@@ -56,7 +56,7 @@ You will use its essential elements to review your Node context overview, identi
 
 The essential elements can be grouped as follows:
 
-* **Technical elements:** Compute, storage, network and AI; services and tools; research objects
+* **Technical elements:** Compute, storage, network and authentication and authorisation infrastructure (AAI); services and tools; research objects
 * **Interoperability and standards:** Interoperability and standards
 * **Organisational and human elements:** Governance structures; rules of participation and access; engagement; human capacity; sustainability
 
@@ -109,7 +109,7 @@ The example below shows how the GORC elements could be mapped. It is illustrativ
 | Governance structures | Defined roles such as Node Coordinator, Training Coordinator and Technical Coordinator, with coordination embedded in national initiatives and European collaborations | Governance connects roles and responsibilities with decisions about services, priorities and resources |
 | Rules of participation and access | National and European policies, FAIR principles and data access frameworks, with alignment to initiatives such as EOSC and national infrastructures | Rules and access connect policy requirements with governance, services, research objects and daily practice |
 | Services and tools | Data platforms, workflow tools and FAIR support services, with contributions to shared service ecosystems and ELIXIR Platforms | Services depend on infrastructure, standards, expertise and governance, and support researchers in managing and reusing data |
-| Compute, storage, network and AI | Compute, storage and data infrastructure distributed across institutions and connected to national infrastructures | Infrastructure supports services, research objects and data processing, and depends on coordination and sustainable resources |
+| Compute, storage, network and AAI | Compute, storage and data infrastructure distributed across institutions and connected to national infrastructures | Infrastructure supports services, research objects and data processing, and depends on coordination and sustainable resources |
 | Research objects | Diverse datasets, metadata schemas and research outputs across domains, supported by FAIRification workflows and data stewardship practices | Research objects connect to services, standards, infrastructure and the communities that create and use them |
 | Interoperability and standards | Interoperability tools, FAIR workflows, metadata standards and identifier systems, with contributions to shared standards and platforms | Standards connect research objects, services and infrastructure and support reuse across projects and domains |
 | Human capacity | Training programmes, data stewardship support, community networks and participation in European training platforms such as TeSS | Human capacity supports the development, delivery and use of services and connects technical work with research communities |
