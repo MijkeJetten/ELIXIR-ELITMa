@@ -94,7 +94,7 @@ Select two or three GORC elements that are most relevant to your Node.
 
 For each element, describe what is already in place and how it connects to other parts of your Node context.
 
-| GORC element | What is already in place? | How does it connect to other elements? |
+| GORC element | Current situation | Connections |
 | --- | --- | --- |
 | Select an element | Add relevant roles, services, activities or resources | Note links with other GORC elements |
 
@@ -104,7 +104,7 @@ For each element, describe what is already in place and how it connects to other
 
 The example below shows how the GORC elements could be mapped. It is illustrative and is not based on a specific ELIXIR Node.
 
-| GORC element | What is already in place? | How does it connect to other elements? |
+| GORC element | Current situation | Connections |
 | --- | --- | --- |
 | Governance structures | Defined roles such as Node Coordinator, Training Coordinator and Technical Coordinator, with coordination embedded in national initiatives and European collaborations | Governance connects roles and responsibilities with decisions about services, priorities and resources |
 | Rules of participation and access | National and European policies, FAIR principles and data access frameworks, with alignment to initiatives such as EOSC and national infrastructures | Rules and access connect policy requirements with governance, services, research objects and daily practice |
@@ -124,7 +124,7 @@ Use your mapping to identify the areas that should be included in your strategy.
 
 For each selected area, record why it matters, what the strategy should address and who should contribute.
 
-| Strategy area | Why it matters | What the strategy should address | Who should contribute |
+| Strategy area | Why it matters | What to address | Contributors |
 | --- | --- | --- | --- |
 | Add a selected area | Explain its relevance at Node level | Note the main topic or question to address | Add relevant roles or groups |
 
