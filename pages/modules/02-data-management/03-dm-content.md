@@ -16,11 +16,13 @@ learning_outcomes:
 ---
 {% include module-metadata.html %}
 
-In the previous chapters, you clarified why your Node needs a data management strategy and identified a starting point (Chapter 1). You then developed a first overview of your Node context and identified the people who can help take the work forward (Chapter 2).
+In the previous chapters, you clarified why your Node needs a data management strategy and identified a starting point. You then developed a first overview of your Node context and identified the people who can help take the work forward.
 
-In this chapter, you will use that overview to identify the main areas to include in your strategy. You will build on the services, roles and activities already in place, decide which elements are relevant at Node level and bring them together in a clear and manageable structure.
+In this chapter, you will use that overview to identify and organise the main areas to include in your strategy.
 
-There are different ways to approach this. In this module, we use two complementary frameworks:
+## Two complementary frameworks
+
+This module uses two complementary frameworks:
 
 * **Structuring the content of your strategy** using the Global Open Research Commons (GORC) model
 * **Assessing selected areas** using the Data Stewardship Handbook maturity model
@@ -38,7 +40,11 @@ You can read more about the two frameworks here:
 
 A Node data management strategy works best when it focuses on the areas that matter most. It does not need to cover everything, but it should make clear what your Node wants to achieve and where it will focus its efforts.
 
-Without a clear scope, important areas may be overlooked or too many topics may be addressed at once. Defining the content helps you set priorities, connect existing work and decide where further coordination or development is needed.
+Defining the content means deciding which topics belong in the strategy, how they relate to each other and which of them need attention first. This helps turn a broad overview of services, roles and activities into a manageable set of strategic areas.
+
+Without a clear scope, important areas may be overlooked or too many topics may be addressed at once. A defined scope helps you set priorities, connect existing work and decide where further coordination or development is needed.
+
+It also makes the strategy easier to discuss with the people involved. They can see which areas are included, why they matter and where their input is needed.
 
 {% include callout.html type="note" content="You do not need to cover everything. A focused strategy that reflects your Node context is more useful than a complete but unrealistic overview." %}
 
@@ -48,23 +54,11 @@ The Global Open Research Commons (GORC) model provides a common structure for de
 
 You will use its essential elements to review your Node context overview, identify relevant areas and organise them within your strategy.
 
-### Technical elements
+The essential elements can be grouped as follows:
 
-* Compute, storage, network and AI
-* Services and tools
-* Research objects
-
-### Interoperability and standards
-
-* Interoperability and standards
-
-### Organisational and human elements
-
-* Governance structures
-* Rules of participation and access
-* Engagement
-* Human capacity
-* Sustainability
+* **Technical elements:** Compute, storage, network and AI; services and tools; research objects
+* **Interoperability and standards:** Interoperability and standards
+* **Organisational and human elements:** Governance structures; rules of participation and access; engagement; human capacity; sustainability
 
 The elements are connected. Services depend on infrastructure, standards support interoperability and governance and human capacity shape how the commons works in practice.
 
@@ -101,10 +95,8 @@ Select two or three GORC elements that are most relevant to your Node.
 For each element, describe what is already in place and how it connects to other parts of your Node context.
 
 | GORC element | What is already in place? | How does it connect to other elements? |
-|--------------|---------------------------|----------------------------------------|
-|              |                           |                                        |
-|              |                           |                                        |
-|              |                           |                                        |
+| --- | --- | --- |
+| Select an element | Add relevant roles, services, activities or resources | Note links with other GORC elements |
 
 {% include callout.html type="tip" content="Keep your descriptions short and focused. The purpose is to understand the structure, not to assess how well each area is developed." %}
 
@@ -113,7 +105,7 @@ For each element, describe what is already in place and how it connects to other
 The example below shows how the GORC elements could be mapped. It is illustrative and is not based on a specific ELIXIR Node.
 
 | GORC element | What is already in place? | How does it connect to other elements? |
-|--------------|---------------------------|----------------------------------------|
+| --- | --- | --- |
 | Governance structures | Defined roles such as Node Coordinator, Training Coordinator and Technical Coordinator, with coordination embedded in national initiatives and European collaborations | Governance connects roles and responsibilities with decisions about services, priorities and resources |
 | Rules of participation and access | National and European policies, FAIR principles and data access frameworks, with alignment to initiatives such as EOSC and national infrastructures | Rules and access connect policy requirements with governance, services, research objects and daily practice |
 | Services and tools | Data platforms, workflow tools and FAIR support services, with contributions to shared service ecosystems and ELIXIR Platforms | Services depend on infrastructure, standards, expertise and governance, and support researchers in managing and reusing data |
@@ -132,11 +124,9 @@ Use your mapping to identify the areas that should be included in your strategy.
 
 For each selected area, record why it matters, what the strategy should address and who should contribute.
 
-| Strategy area | Why does it matter? | What should the strategy address? | Who should contribute? |
-|---------------|---------------------|-----------------------------------|------------------------|
-|               |                     |                                   |                        |
-|               |                     |                                   |                        |
-|               |                     |                                   |                        |
+| Strategy area | Why it matters | What the strategy should address | Who should contribute |
+| --- | --- | --- | --- |
+| Add a selected area | Explain its relevance at Node level | Note the main topic or question to address | Add relevant roles or groups |
 
 Use the completed table as a first outline for your strategy. You can add more detail as the strategy develops.
 
