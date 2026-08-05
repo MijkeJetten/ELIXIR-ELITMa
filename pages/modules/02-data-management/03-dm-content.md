@@ -9,6 +9,9 @@ time: 45 minutes
 status: ready
 sidebar: module-data-management
 summary: Data management activities often develop separately across governance, services and support structures. The Global Open Research Commons (GORC) model helps bring these elements together, identify priorities and draft a simple strategy outline.
+related_pages:
+  Real_world_example:
+  - gorc-framework-dm
 learning_outcomes:
     - Identify the main elements to include in a Node data management strategy
     - Use the Global Open Research Commons model to structure the content of your strategy
@@ -50,7 +53,7 @@ It also makes the strategy easier to discuss with the people involved. They can 
 
 ## Using the GORC framework
 
-The Global Open Research Commons (GORC) model provides a common structure for describing the technical, organisational and human elements of a research commons.
+The Global Open Research Commons (GORC) model provides a common language and structure for describing the technical, organisational and human elements of a research commons.
 
 You will use its essential elements to review your Node context overview, identify relevant areas and organise them within your strategy.
 
@@ -71,7 +74,7 @@ Using the framework helps you:
 
 {% include callout.html type="important" content="The GORC model is not prescriptive. Focus on the elements that are most relevant to your Node and strategy." %}
 
-For more background, see [Understanding the GORC framework](link-to-be-added).
+For more background, see the <a href="{{ site.baseurl }}/gorc-framework-dm">Understanding the GORC framework</a> page.
 
 ## Reflection: recognise the GORC elements
 
