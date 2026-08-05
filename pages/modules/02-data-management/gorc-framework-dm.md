@@ -21,40 +21,25 @@ The GORC framework was developed through the Research Data Alliance to provide a
 
 For a Node data management strategy, this broader view is useful. It helps you look beyond individual services or projects and consider how technical, organisational and human elements connect.
 
-GORC is not a certification or ranking system. It provides a structure for discussion and reflection, not a fixed set of requirements.
-
-## What can Nodes learn from GORC?
-
-The original GORC typology presents nine broad essential elements as parts of one connected system.
+## What can Nodes learn from this?
 
 <img src="{{ '/images/data-management/GORC-model-essential-elements.png' | relative_url }}" alt="Diagram showing the nine GORC essential elements as connected technical, organisational and human components." class="img-fluid my-3">
 
 *Figure: GORC essential elements. Source: [GORC IG Typology and Definitions Diagram](https://www.rd-alliance.org/groups/global-open-research-commons-ig/outputs/), licensed under CC BY 4.0.*
 
-* **Compute, storage, network and authentication and authorisation infrastructure (AAI).** These provide the underlying technical capacity.
-* **Services and tools.** These support activities such as data management, analysis, discovery and reuse.
-* **Research objects.** These include data, software, publications and other outputs created or used in research.
-* **Interoperability and standards.** These help resources, services and systems work together across organisations and disciplines.
-* **Governance structures.** These define how decisions are made and responsibilities are organised.
-* **Rules of participation and access.** These describe who can participate and how resources and services can be accessed.
-* **Engagement.** This connects the commons with its users, communities and partners.
-* **Human capacity.** This includes the expertise, roles, training and support needed to operate and use the commons.
-* **Sustainability.** This concerns the resources, funding and organisational arrangements needed to maintain activities over time.
+* **A research commons is more than infrastructure.** It brings together research objects, technical infrastructure, services, people and agreements. Its effectiveness depends on how these parts support each other.
 
-The visual shows that these elements should not be considered separately. Services depend on infrastructure, expertise and sustainable resources. Research objects depend on standards, tools and clear access arrangements. Governance influences priorities and responsibilities, while engagement helps ensure that services respond to community needs.
+* **The essential elements form one connected system.** The original GORC typology presents nine broad elements covering technical, organisational and human aspects.
 
-GORC therefore encourages a whole system view. It helps you consider not only what is available, but also how activities, roles and resources depend on each other.
+* **The nine elements provide a practical structure.** These are compute, storage, network and authentication and authorisation infrastructure (AAI), services and tools, research objects, interoperability and standards, governance structures, rules of participation and access, engagement, human capacity and sustainability.
 
-## The typology and the International Model
+* **Technical and organisational elements are interdependent.** Services depend on infrastructure, standards, expertise and sustainable resources. Research objects depend on standards, tools and clear access arrangements. Governance influences priorities and responsibilities, while engagement helps ensure that services respond to community needs.
 
-You may encounter two related ways of presenting the GORC structure.
+* **The visual provides a practical starting point.** It helps you review your Node context without working through the full model. It also makes connections between activities, roles and resources more visible.
 
-* **The original typology** presents nine broad essential elements. It combines interoperability and standards as one element.
-* **The GORC International Model version 1.1** separates interoperability from standards and conventions. It therefore contains ten main sections and adds detailed categories, attributes, features and possible indicators.
+* **The detailed International Model goes further.** Version 1.1 separates interoperability from standards and conventions, resulting in ten main sections. It also adds detailed categories, attributes, features and possible indicators.
 
-For this module, you will use the broader essential elements as a practical structure. You do not need to work through the full International Model.
-
-Start with the essential elements. Use the detailed International Model only when you need to explore a particular area more closely.
+* **GORC is descriptive, not prescriptive.** It is not a certification or ranking system and does not require every element to be addressed in the same way. It provides a structure for discussion, reflection and priority setting.
 
 ## What can you do?
 
@@ -67,7 +52,9 @@ Consider:
 * which areas have not yet been considered
 * which elements are most relevant to your strategy
 
-Return to [What to include in your Node data management strategy]({{ '/03-dm-content' | relative_url }}) to apply the framework.
+Start with the essential elements. Use the detailed International Model only when you need to explore a particular area more closely.
+
+Return to <a href="{{ site.baseurl }}/03-dm-content">What to include in your Node data management strategy</a> to apply the framework.
 
 ## Further reading
 
