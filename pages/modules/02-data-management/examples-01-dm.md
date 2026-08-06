@@ -59,7 +59,7 @@ Some institutes have dedicated roles or established processes, while others appr
 
 Recognising these variations is an important step towards developing approaches that are useful across the Node. Rather than assuming one solution fits all, understanding local contexts helps identify where common resources, coordination or knowledge exchange can provide added value.
 
-## ELIXIR Italy: inclusion in the SDP
+## ELIXIR Italy: inclusion in the Service Delivery Plan
 
 **Node**: ELIXIR Italy  
 **Authors**: Flavio Licciulli, data steward  
