@@ -18,6 +18,8 @@ subitems:
     subitems:
     - title: Understanding the GORC framework
       url: /gorc-framework-dm
+    - title: Why use GORC in ELIXIR?
+      url: /gorc-elixir-dm
   - title: 04 How to begin
     url: /04-dm-begin
   - title: 05 Planning and sustaining
