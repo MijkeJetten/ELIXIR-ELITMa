@@ -40,7 +40,7 @@ ELIXIR Nodes bring together many institutions, services and communities. Each gr
 Funders and national partners often expect this kind of clarity. Changes in requirements, services or research practices can also create a practical reason to improve coordination.
 
 **Related examples**  
-[ELIXIR Luxembourg on scaling up from one organisation]({{ site.baseurl }}/examples-01-dm#elixir-luxembourg-scaling-up-from-one-organisation) and [ELIXIR Sweden on clarifying the Node remit]({{ site.baseurl }}/examples-01-dm#elixir-sweden-clarifying-the-node-remit).
+[ELIXIR Luxembourg on the why of a written data management strategy]({{ site.baseurl }}/examples-01-dm#elixir-luxembourg-why-a-written-data-management-strategy) and [ELIXIR Sweden on clarifying the Node remit]({{ site.baseurl }}/examples-01-dm#elixir-sweden-clarifying-the-node-remit).
 
 **Related perspective**  
 [How funders can drive FAIRification strategies]({{ site.baseurl }}/funders-dm).
