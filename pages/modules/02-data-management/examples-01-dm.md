@@ -67,9 +67,15 @@ Recognising these variations is an important step towards developing approaches 
 
 {% include callout.html type="important" content="A formal process can help clarify how services are classified, reviewed and included in wider Node and ELIXIR planning." %}
 
-As ELIXIR-IT, we offer data resources, tools, courses and services to the life-sciences community, providing stable and sustainable access to biological data. The ELIXIR-IT general assembly decided to classify the services of Italian Node and their inclusion in the Service Delivery Plan (SDP) using a formal process. To implement the process, in the Local Technical Coordinator group, we create a document defining a series of Quality management (QM) parameters. We apply the quality management (QM) parameters to guarantee that the services of the six Italian node platforms (Compute, Data, Interoperability, Tools, Omics, and Training) meet the required standards for its service validation and labelling. The services are classified in 3 levels, starting from the lowest level: ELIXIR-IT Resources (registered in bio.tools/FAIRSharing), SDP Resources (offered to ELIXIR communities at large), Core Resources (as selected by the processes governed by the ELIXIR-Hub, i.e. CDR and RIR). QM parameters are periodically collected and monitored through a review process made by the Platforms coordinators and deputy, and assigned to the corresponding level.
+As ELIXIR Italy, we offer data resources, tools, courses and services to the Italian life sciences community, providing stable and sustainable access to biological data. The ELIXIR Italy General Assembly decided to establish a formal process for classifying the services provided by the Node members and for their inclusion in the Service Delivery Plan (SDP). To support this process, the local Technical Coordinators Group and Platform leaders developed a document defining a set of Quality Management (QM) parameters. These QM parameters are applied to ensure that the services offered by the six ELIXIR Italy Platforms (Compute, Data, Interoperability, Tools, Omics, and Training) meet the standards required for service validation and labelling. Services are classified into three levels: 
+1. ELIXIR Italy resources: registered in bio.tools/FAIRSharing;
+2. SDP resources: offered to ELIXIR communities at large and included in the SDP;
+3. Core resources: services selected through processes governed by the ELIXIR Hub, such as Core Data Resources (CDRs) and Recommended Interoperability Resources (RIRs). 
 
-The construction and the implementation of this formal process has highlighted the importance of synergy among the various components of the node: Head of Node, members of the general assembly, technical and training staff, representatives of the platforms and communities.
+QM parameters are periodically collected and monitored through a review process conducted by Platform coordinators and deputies, and services are assigned to the corresponding level based on the results of this assessment.
+
+The development and implementation of this formal process highlighted the importance of synergy among the various components of the Node, including the Head of Node, members of the General Assembly, technical and training staff, and representatives of the Platforms and communities.
+
 
 ## ELIXIR Luxembourg: scaling up from one organisation
 
@@ -157,11 +163,11 @@ The discussions quickly became practical. We kept coming back to one simple ques
 
 It is oftentimes extremely challenging to push for cultural changes in the way research is conducted, especially when the research community does not see an immediate value in using the services offered. One way to address this is to offer a service as a direct solution to one of the obligations researchers have to fulfil as part of their job.
 
-We present here the case of ELIXIR Norway and the Data Stewardship Wizard as an example. The Research Council of Norway (RCN) requires Data Management Plans for all projects that have been granted. Such a document is to be submitted shortly after acceptance and has to be compliant with the Common Standard endorsed by the Research Data Alliance (RDA).
+We present here the example of ELIXIR Norway and the Data Stewardship Wizard (DSW). The Research Council of Norway (RCN) requires Data Management Plans for all projects that have been granted. Such a document is to be submitted shortly after acceptance and has to be compliant with the Common Standard endorsed by the Research Data Alliance (RDA).
 
-Shortly after these requirements were introduced, ELIXIR Norway started advertising for practical workshops to create DMPs that conform to the aforementioned standard. These workshops were very successful among life scientists and contributed to spreading the usage of the Data Stewardship Wizard (DSW) across the country. Our national instance now has more than 750 active users and over 1000 projects (DMPs).
+Shortly after these requirements were introduced, ELIXIR Norway started advertising practical workshops to create DMPs that conform to this common standard. These workshops were very successful among life scientists and contributed to spreading the usage of the DSW across the country. Our national instance now has more than 750 active users and over 1000 projects (DMPs).
 
-The workshop also helped to push more generally various crucial concepts of data management, including the usage of standards and controlled terminology, and the importance of data submission to relevant domain repositories.
+The workshop also helped to push more generally various crucial concepts of data management, including the usage of standards and controlled terminologies, and the importance of data submission to relevant domain repositories.
 
 ## ELIXIR Norway: bringing infrastructures together
 
@@ -171,15 +177,15 @@ The workshop also helped to push more generally various crucial concepts of data
 
 {% include callout.html type="warning" content="Without coordination, infrastructures may duplicate work or miss useful services developed elsewhere. Shared frameworks can help connect expertise across communities." %}
 
-Research infrastructures are oftentimes operating in isolation and not benefitting from tools and services that are developed outside of the research community they typically serve. This oftentimes leads to duplication of work and slower overall advancement.
+Research infrastructures commonly operate in isolation and don’t benefit from tools and services that are developed outside of the research community they typically serve. This often leads to duplication of work and slower overall advancement.
 
 In this example, we describe how ELIXIR Norway led a project that brought together several Research Infrastructures to develop a common framework. The BioMedData project was established in 2020 and ran for a total duration of 5 years. This project was executed within the context of ELIXIR Norway and involved the active collaboration of ten data-generating infrastructures covering diverse fields such as genomics, proteomics, medical imaging, high-throughput screening, nuclear magnetic resonance, biodiversity, and crystallography.
 
-We build a network of data management experts between ELIXIR Norway and the collaborating infrastructures capable of offering research projects integrated and well-coordinated support for data management, thus enabling projects to manage and share the data generated within the project.
+We build a network of data management experts between ELIXIR Norway and the collaborating infrastructures capable of offering research projects integrated and well-coordinated support for data management. This enabled projects to manage and share the data they generated.
 
-The group produced templates for Data Management Plans (DMPs) highlighting both general best practices, including standards and controlled terminology, and the available services and instrumentation at the actual partner facilities.
+The group produced templates for Data Management Plans (DMPs), highlighting both general best practices, including standards and controlled terminologies, and the available services and instrumentation at the actual partner facilities.
 
-Moreover, this activity established the basis for monitoring activities on submission to domain-specific databases, which is now part of the current work of ELIXIR Norway. At the end of the project, the partners signed a joint strategic statement for collaboration on data management. Unfortunately, not all partners managed to follow up on that due to inconsistent funding in the following periods.
+Moreover, this activity established the basis for monitoring activities on submission to domain-specific databases, which is now part of the ongoing work of ELIXIR Norway. At the end of the project, the partners signed a joint strategic statement for collaboration on data management. Unfortunately, not all partners managed to follow up on that due to inconsistent funding in the following periods.
 
 ## ELIXIR Spain: Open Science resources in national policies
 
