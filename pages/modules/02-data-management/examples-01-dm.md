@@ -147,7 +147,7 @@ What we noticed is that many things already existed somewhere in the network. EL
 
 The discussions quickly became practical. We kept coming back to one simple question: how does this help researchers? This helped us focus on topics such as data access and governance, metadata standards, and training around standards and tools. One important lesson so far is that ELIXIR Netherlands probably does not need to build many completely new things itself. In many cases, the bigger challenge is helping people find existing expertise, tools and examples across the network.
 
-## ELIXIR Norway: making existing work visible
+## ELIXIR Norway: turning compliance into cultural change
 
 **Node**: ELIXIR Norway  
 **Authors**: Federico Bianchini, data steward and deputy training coordinator  
