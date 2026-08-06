@@ -7,7 +7,7 @@ page_id: gorc-elixir-dm
 type: Real_world_example
 ---
 
-ELIXIR is a distributed research infrastructure. Its Nodes bring together services, resources, expertise and communities across national and European contexts.
+ELIXIR is a distributed research infrastructure. Its Nodes bring together services, resources, expertise and communities across national and European contexts. 
 
 The Global Open Research Commons (GORC) framework offers a useful way to view these different elements as parts of one connected system. It can help Nodes understand how their activities fit together, where coordination is needed and which areas should be reflected in a Node data management strategy.
 
