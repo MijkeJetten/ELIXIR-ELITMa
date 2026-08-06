@@ -237,7 +237,7 @@ We ended up with a Vision that focused on a desired state that lay outside of th
 
 > Our vision statement ended up being: *“Swedish Life Science researchers apply good data management practices so that the research outputs produced are available to the global research community and to society at large, according to the principles of Open Science, Reproducible Research, and FAIR.”*
 
-Given the vision, we then worked on what our Mission should be taking our organisational environment, resources and competences into account. Which areas should the focus of our activities be on; what are overarching objectives to work towards for these areas? This resulted in us defining three core areas: Support, Training and Collaboration. For each of these, we formulated high level objectives, as well as functional statements about what we should focus our activities on to work towards the objectives.
+Given the Vision, we then worked on what our Mission should be taking our organisational environment, resources and competences into account. Which areas should the focus of our activities be on? What are overarching objectives to work towards for these areas? This resulted in us defining three core areas: Support, Training and Collaboration. For each of these, we formulated high level objectives, as well as functional statements about what we should focus our activities on to work towards the objectives.
 
 > Here is an example mission statement:
 >
