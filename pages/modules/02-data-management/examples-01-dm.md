@@ -76,7 +76,7 @@ QM parameters are periodically collected and monitored through a review process 
 
 The development and implementation of this formal process highlighted the importance of synergy among the various components of the Node, including the Head of Node, members of the General Assembly, technical and training staff, and representatives of the Platforms and communities.
 
-## ELIXIR Luxembourg: Why a written data management strategy
+## ELIXIR Luxembourg: why a written data management strategy
 
 **Node**: ELIXIR Luxembourg  
 **Authors**: Hana Marčetić and Vilem Ded, data steward liaisons  
