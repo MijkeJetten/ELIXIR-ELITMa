@@ -76,8 +76,7 @@ QM parameters are periodically collected and monitored through a review process 
 
 The development and implementation of this formal process highlighted the importance of synergy among the various components of the Node, including the Head of Node, members of the General Assembly, technical and training staff, and representatives of the Platforms and communities.
 
-
-## ELIXIR Luxembourg: scaling up from one organisation
+## ELIXIR Luxembourg: Why a written data management strategy
 
 **Node**: ELIXIR Luxembourg  
 **Authors**: Hana Marčetić and Vilem Ded, data steward liaisons  
@@ -85,11 +84,11 @@ The development and implementation of this formal process highlighted the import
 
 {% include callout.html type="tip" content="Use the data management strategy to write down boundaries that are currently handled case by case. This can make decisions about roles, resources, products and representation easier to explain and repeat." %}
 
-It's worth mentioning the question of where we, as LCSB, end and where we, as ELIXIR Luxembourg, begin. Because our Node lived inside one single organisation for so long, and because an ELIXIR Node is not really a legal entity (it is more of an internal project for us), our operations and responsibilities as LCSB and as the Node have become quite intertwined over the years. Most of the time this is just how things are for us, and we do not really notice.
+It's worth mentioning the question of where we, as Luxembourg Centre of Systems Biomedicine (LCSB), end and where we, as ELIXIR Luxembourg, begin. Because our Node lived inside one single organisation for so long, and because an ELIXIR Node is not really a legal entity (it is more of an internal project for us), our operations and responsibilities as LCSB and as the Node have become quite intertwined over the years. Most of the time this is just how things are for us, and we do not really notice.
 
 We are not always sure whether a virtual machine or support we are providing is coming from us as LCSB or from us as LCSB being ELIXIR. When we build a piece of software, its publication is on awkward pause till it is decided whether it should live in our LCSB GitLab or our ELIXIR Luxembourg GitHub. When joining meetings, we cannot decide which hat to wear that day, LCSB, the University, or ELIXIR, and which slide template goes with it. Onboarding has a similar feel for us: at some point joining LCSB and joining the Node become two different things, but exactly where that point sits is more of a vibe than a rule. The same goes with roles, let’s say an LCSB data steward and an ELIXIR data steward, it is usually the same one of us with two hats. When it is not, the difference tends to surface only when something concrete depends on it.
 
-In practice we resolve all of this case by case and the work gets done. But because we have never written the boundary down, we reason through every new situation from scratch. A Node data management strategy would give us a place to put that boundary on paper, so the small decisions about resources, products, roles and representation have somewhere to land.
+At presence, we resolve all of this case by case and the work gets done. But because we have never written the boundary down, we reason through every new situation from scratch. A Node data management strategy would give us a place to put that boundary on paper, so the small decisions about resources, products, roles and representation have somewhere to land.
 
 ## ELIXIR Luxembourg: website as a collaboration platform
 
@@ -147,7 +146,7 @@ We then used the draft during discussions with the Head of Node and a data exper
 
 {% include callout.html type="warning" content="What looks like a gap may be a visibility or coordination issue. Before defining new priorities or actions, check what already exists across the network, who is involved and where connections or responsibilities are unclear." %}
 
-As part of exploring a possible Node data management strategy for ELIXIR Netherlands, we started mapping activities, roles and services across the network. We used the RDA GORC model together with the new ELIXIR Netherlands strategy to help structure our notes and discussions. The goal was not to cover the full model, but to understand where coordination was missing and where ELIXIR Netherlands could help most.
+As part of exploring a possible Node data management strategy for ELIXIR Netherlands, we started mapping activities, roles and services across the network. We used the RDA GORC model together with the new ELIXIR Netherlands strategy to help structure our notes and discussions. The goal was not to cover the full model, but to identify gaps in coordination and areas where ELIXIR Netherlands could help connect activities across the network.
 
 What we noticed is that many things already existed somewhere in the network. ELIXIR Netherlands already had strong expertise in interoperability, FAIRification, training and tools. At the same time, activities were spread across projects and organisations, and coordination was not always clear. This made it difficult to understand what should happen at Node level and what should stay local to institutes or projects.
 
@@ -237,13 +236,13 @@ Training is an activity that a Node can develop with a two-fold purpose: buildin
 
 {% include callout.html type="important" content="Vision and mission statements can help clarify what a team works on, why it matters and who the work is for." %}
 
-During 2020 the Data management staff of the Swedish Node went from two to five persons; from a pair of persons having unspoken and not well defined remits and roles, to a team that needed more clarity on what to work with and why. Our approach to bring more clarity was to organise a workshop around Vision and Mission statements for the team, where Vision is a desired future position and Missions are overall objectives to work towards the Vision, as well as approaches to reach the objectives. 
+During 2020 the Data management staff of the Swedish Node went from two to five persons; from a pair of persons having unspoken and not well-defined remits and roles, to a team that needed more clarity on what to work with and why. Our approach to bring more clarity was to organise a workshop around Vision and Mission statements for the team, where Vision is a desired future position and Missions are overall objectives to work towards the Vision, as well as approaches to reach the objectives. 
 
-We ended up with a Vision that focused on a desired state that lay outside of the team itself, but rather focused on the recipients of the outputs of the team. So rather “A group of people can do something because reasons” than “The team will be world-class at something”. This way of formulating the vision defined our will to create impact, for whom, and for what reasons. 
+We ended up with a Vision that did not focus on a desired state that lay outside of the team itself, but rather focused on the recipients of the outputs of the team. So “A group of people can do something because reasons” rather than “The team will be world-class at something”. This way of formulating the vision defined our will to create impact, for whom, and for what reasons. 
 
 > Our vision statement ended up being: *“Swedish Life Science researchers apply good data management practices so that the research outputs produced are available to the global research community and to society at large, according to the principles of Open Science, Reproducible Research, and FAIR.”*
 
-Given the Vision, we then worked on what our Mission should be taking our organisational environment, resources and competences into account. Which areas should the focus of our activities be on? What are overarching objectives to work towards for these areas? This resulted in us defining three core areas: Support, Training and Collaboration. For each of these, we formulated high level objectives, as well as functional statements about what we should focus our activities on to work towards the objectives.
+Given the Vision, we then worked on what our Mission should be, taking our organisational environment, resources and competences into account. Which areas should the focus of our activities be on? What are overarching objectives to work towards for these areas? This resulted in us defining three core areas: Support, Training and Collaboration. For each of these, we formulated high level objectives, as well as functional statements about what we should focus our activities on to work towards the objectives.
 
 > Here is an example mission statement:
 >
