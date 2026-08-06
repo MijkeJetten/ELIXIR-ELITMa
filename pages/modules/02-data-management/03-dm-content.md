@@ -12,6 +12,7 @@ summary: Data management activities often develop separately across governance, 
 related_pages:
   Real_world_example:
   - gorc-framework-dm
+  - gorc-elixir-dm
 learning_outcomes:
     - Identify the main elements to include in a Node data management strategy
     - Use the Global Open Research Commons model to structure the content of your strategy
@@ -75,6 +76,8 @@ Using the framework helps you:
 {% include callout.html type="important" content="The GORC model is not prescriptive. Focus on the elements that are most relevant to your Node and strategy." %}
 
 For more background, see the <a href="{{ site.baseurl }}/gorc-framework-dm">Understanding the GORC framework</a> page.
+
+To explore how the framework relates to ELIXIR Nodes and distributed infrastructure, see <a href="{{ site.baseurl }}/gorc-elixir-dm">Why use GORC in ELIXIR?</a>.
 
 ## Reflection: recognise the GORC elements
 
