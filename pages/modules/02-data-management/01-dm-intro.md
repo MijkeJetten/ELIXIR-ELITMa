@@ -119,7 +119,7 @@ You do not have to begin by drafting a complete strategy. A practical activity, 
    What would help your group make the next discussion more concrete?
 
 **Related examples**  
-[ELIXIR Netherlands on identifying where the Node can add value]({{ site.baseurl }}/examples-01-dm#elixir-netherlands-identifying-where-the-node-can-add-value) and [ELIXIR Italy on inclusion in the SDP]({{ site.baseurl }}/examples-01-dm#elixir-italy-inclusion-in-the-sdp).
+[ELIXIR Netherlands on identifying where the Node can add value]({{ site.baseurl }}/examples-01-dm#elixir-netherlands-identifying-where-the-node-can-add-value) and [ELIXIR Italy on inclusion in the Service Delivery Plan]({{ site.baseurl }}/examples-01-dm#elixir-italy-inclusion-in-the-service-delivery-plan).
 
 {% include callout.html type="tip" content="Keep this lightweight. The goal is not to create a complete strategy, but to take a first step." %}
 
