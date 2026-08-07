@@ -59,7 +59,7 @@ Some institutes have dedicated roles or established processes, while others appr
 
 Recognising these variations is an important step towards developing approaches that are useful across the Node. Rather than assuming one solution fits all, understanding local contexts helps identify where common resources, coordination or knowledge exchange can provide added value.
 
-## ELIXIR Italy: inclusion in the SDP
+## ELIXIR Italy: inclusion in the Service Delivery Plan
 
 **Node**: ELIXIR Italy  
 **Authors**: Flavio Licciulli, data steward  
@@ -67,11 +67,16 @@ Recognising these variations is an important step towards developing approaches 
 
 {% include callout.html type="important" content="A formal process can help clarify how services are classified, reviewed and included in wider Node and ELIXIR planning." %}
 
-As ELIXIR-IT, we offer data resources, tools, courses and services to the life-sciences community, providing stable and sustainable access to biological data. The ELIXIR-IT general assembly decided to classify the services of Italian Node and their inclusion in the Service Delivery Plan (SDP) using a formal process. To implement the process, in the Local Technical Coordinator group, we create a document defining a series of Quality management (QM) parameters. We apply the quality management (QM) parameters to guarantee that the services of the six Italian node platforms (Compute, Data, Interoperability, Tools, Omics, and Training) meet the required standards for its service validation and labelling. The services are classified in 3 levels, starting from the lowest level: ELIXIR-IT Resources (registered in bio.tools/FAIRSharing), SDP Resources (offered to ELIXIR communities at large), Core Resources (as selected by the processes governed by the ELIXIR-Hub, i.e. CDR and RIR). QM parameters are periodically collected and monitored through a review process made by the Platforms coordinators and deputy, and assigned to the corresponding level.
+As ELIXIR Italy, we offer data resources, tools, courses and services to the Italian life sciences community, providing stable and sustainable access to biological data. The ELIXIR Italy General Assembly decided to establish a formal process for classifying the services provided by the Node members and for their inclusion in the Service Delivery Plan (SDP). To support this process, the local Technical Coordinators Group and Platform leaders developed a document defining a set of Quality Management (QM) parameters. These QM parameters are applied to ensure that the services offered by the six ELIXIR Italy Platforms (Compute, Data, Interoperability, Tools, Omics, and Training) meet the standards required for service validation and labelling. Services are classified into three levels: 
+1. ELIXIR Italy resources: registered in bio.tools/FAIRSharing;
+2. SDP resources: offered to ELIXIR communities at large and included in the SDP;
+3. Core resources: services selected through processes governed by the ELIXIR Hub, such as Core Data Resources (CDRs) and Recommended Interoperability Resources (RIRs). 
 
-The construction and the implementation of this formal process has highlighted the importance of synergy among the various components of the node: Head of Node, members of the general assembly, technical and training staff, representatives of the platforms and communities.
+QM parameters are periodically collected and monitored through a review process conducted by Platform coordinators and deputies, and services are assigned to the corresponding level based on the results of this assessment.
 
-## ELIXIR Luxembourg: scaling up from one organisation
+The development and implementation of this formal process highlighted the importance of synergy among the various components of the Node, including the Head of Node, members of the General Assembly, technical and training staff, and representatives of the Platforms and communities.
+
+## ELIXIR Luxembourg: why a written data management strategy
 
 **Node**: ELIXIR Luxembourg  
 **Authors**: Hana Marčetić and Vilem Ded, data steward liaisons  
@@ -79,11 +84,11 @@ The construction and the implementation of this formal process has highlighted t
 
 {% include callout.html type="tip" content="Use the data management strategy to write down boundaries that are currently handled case by case. This can make decisions about roles, resources, products and representation easier to explain and repeat." %}
 
-It's worth mentioning the question of where we, as LCSB, end and where we, as ELIXIR Luxembourg, begin. Because our Node lived inside one single organisation for so long, and because an ELIXIR Node isn't really a legal entity (it's more of an internal project for us), our operations and responsibilities as LCSB and as the Node have become quite intertwined over the years. Most of the time this is just how things are for us, and we don't really notice.
+It's worth mentioning the question of where we, as Luxembourg Centre of Systems Biomedicine (LCSB), end and where we, as ELIXIR Luxembourg, begin. Because our Node lived inside one single organisation for so long, and because an ELIXIR Node is not really a legal entity (it is more of an internal project for us), our operations and responsibilities as LCSB and as the Node have become quite intertwined over the years. Most of the time this is just how things are for us, and we do not really notice.
 
-We aren't always sure whether a virtual machine or support we are providing is coming from us as LCSB or from us as LCSB being ELIXIR. When we build a piece of software, it’s publication is on awkward pause till it's decided whether it should live in our LCSB GitLab or our ELIXIR Luxembourg GitHub. When joining meetings, we cannot decide which hat to wear that day, LCSB, the University, or ELIXIR, and which slide template goes with it. Onboarding has a similar feel for us: at some point joining LCSB and joining the Node become two different things, but exactly where that point sits is more of a vibe than a rule. The same goes with roles, let’s say an LCSB data steward and an ELIXIR data steward, it's usually the same one of us with two hats, except when it isn't, and the difference tends to surface only when something concrete depends on it.
+We are not always sure whether a virtual machine or support we are providing is coming from us as LCSB or from us as LCSB being ELIXIR. When we build a piece of software, its publication is on awkward pause till it is decided whether it should live in our LCSB GitLab or our ELIXIR Luxembourg GitHub. When joining meetings, we cannot decide which hat to wear that day, LCSB, the University, or ELIXIR, and which slide template goes with it. Onboarding has a similar feel for us: at some point joining LCSB and joining the Node become two different things, but exactly where that point sits is more of a vibe than a rule. The same goes with roles, let’s say an LCSB data steward and an ELIXIR data steward, it is usually the same one of us with two hats. When it is not, the difference tends to surface only when something concrete depends on it.
 
-In practice we resolve all of this case by case and the work gets done. But because we've never written the boundary down, we reason through every new situation from scratch. A Node data management strategy would give us a place to put that boundary on paper, so the small decisions about resources, products, roles and representation have somewhere to land.
+At presence, we resolve all of this case by case and the work gets done. But because we have never written the boundary down, we reason through every new situation from scratch. A Node data management strategy would give us a place to put that boundary on paper, so the small decisions about resources, products, roles and representation have somewhere to land.
 
 ## ELIXIR Luxembourg: website as a collaboration platform
 
@@ -93,7 +98,7 @@ In practice we resolve all of this case by case and the work gets done. But beca
 
 {% include callout.html type="note" content="A shared website can become more than a communication channel. It can also help document services, align responsibilities and make approvals traceable." %}
 
-Node has organised its first half day local AHM where individual service owners (people unofficially responsible for the service) presented the service and it quickly became clear that there is a need for alignment. Break out groups identified general issues and created a long list of TODO items. The Node website was till then one of the very few resources documenting services and activities within the Node. That served as a basis to turn it into a shared platform for discussion between members.
+ELIXIR Luxembourg Node has organised its first half day local All Hands Meeting where individual service owners (people unofficially responsible for the service) presented the service and it quickly became clear that there is a need for alignment. Break out groups identified general issues and created a long list of TODO items. The Node website was till then one of the very few resources documenting services and activities within the Node. That served as a basis to turn it into a shared platform for discussion between members.
 
 Several contentathons were organised to address the issues identified in the upcoming year. The events hosted coordinator, data stewards, technical personnel and led to an update of the website content making the services more visible. Most importantly, it helped align across the Node and members and more clearly define who is responsible for what and what our Node offers in the first place.
 
@@ -109,13 +114,13 @@ Any major change of the website content now requires confirmation (merge request
 
 One concrete example of where the gap shows up came from a recent exercise. We set out to put together an onboarding document for new Node members. Something that should, in principle, be straightforward. In practice, it surfaced a number of questions we did not have clear answers to.
 
-For one: who actually counts as a Node member? With two organisations involved, the boundaries are less obvious than they used to be. Then there were the practical questions around formalities like is there anything a new member is expected to sign, and if so, what? Access rights raised a similar set of questions: which systems and resources should a new member get access to, and at what point in the onboarding process? And around all of that, the governance questions of who can request access on someone's behalf, who actually grants it, and who signs it off?
+One example of these question is: 'who actually counts as a Node member?' With two organisations involved, the boundaries are less obvious than they used to be. Then there were the practical questions around formalities like 'is there anything a new member is expected to sign, and if so, what?' Access rights raised a similar set of questions: 'which systems and resources should a new member get access to, and at what point in the onboarding process?' And around all of that, the governance questions of 'who can request access on someone's behalf, who actually grants it, and who signs it off?'
 
 The onboarding document begins to answer some of the questions above by defining the membership criteria, integration expectations, required accounts and access to resources, and newcomer's responsibilities.
 
-To become a member, a newcomer must be employed at one of the organisations comprising the Node and/or be involved in at least one ELIXIR Platform, Community, Focus Group, service/tool, or associated project. A newcomer should then be assigned a senior mentor for the first 3 months, who introduces the newcomer, adds them to the membership list, and arranges a welcome presentation covering ELIXIR structure, ongoing projects, contribution guidance, Code of Conduct, and the Handbook of Operation.
+To become a member, a newcomer must be employed at one of the organisations comprising the Node and/or be involved in at least one ELIXIR Platform, Community, Focus Group, service/tool, or associated project. A newcomer should then be assigned a senior mentor for the first three months, who introduces the newcomer, adds them to the membership list, and arranges a welcome presentation covering ELIXIR structure, ongoing projects, contribution guidance, Code of Conduct and the Handbook of Operation.
 
-New members are then added to the ELIXIR Luxembourg mailing list, have their account created and are given access to relevant workspaces. In turn, he or she is expected to attend and actively participate in relevant meetings, contribute to collaborative tasks and engage in line with the ELIXIR Code of Conduct and Community Handbook.
+New members are then added to the ELIXIR Luxembourg mailing list, have their account created and are given access to relevant workspaces. In turn, they are expected to attend and actively participate in relevant meetings, contribute to collaborative tasks and engage in line with the ELIXIR Code of Conduct and Community Handbook.
 
 A Node strategy, with the governance and roles part properly worked out, would have given us something to anchor the onboarding document to rather than building the document and discovering the gaps along the way. For now, the work done on the document can also highlight the remaining gaps and questions that the strategy could help answer.
 
@@ -141,13 +146,13 @@ We then used the draft during discussions with the Head of Node and a data exper
 
 {% include callout.html type="warning" content="What looks like a gap may be a visibility or coordination issue. Before defining new priorities or actions, check what already exists across the network, who is involved and where connections or responsibilities are unclear." %}
 
-As part of exploring a possible Node data management strategy for ELIXIR Netherlands, we started mapping activities, roles and services across the network. We used the RDA GORC model together with the new ELIXIR Netherlands strategy to help structure our notes and discussions. The goal was not to cover the full model, but to understand where coordination was missing and where ELIXIR Netherlands could help most.
+As part of exploring a possible Node data management strategy for ELIXIR Netherlands, we started mapping activities, roles and services across the network. We used the RDA GORC model together with the new ELIXIR Netherlands strategy to help structure our notes and discussions. The goal was not to cover the full model, but to identify gaps in coordination and areas where ELIXIR Netherlands could help connect activities across the network.
 
 What we noticed is that many things already existed somewhere in the network. ELIXIR Netherlands already had strong expertise in interoperability, FAIRification, training and tools. At the same time, activities were spread across projects and organisations, and coordination was not always clear. This made it difficult to understand what should happen at Node level and what should stay local to institutes or projects.
 
 The discussions quickly became practical. We kept coming back to one simple question: how does this help researchers? This helped us focus on topics such as data access and governance, metadata standards, and training around standards and tools. One important lesson so far is that ELIXIR Netherlands probably does not need to build many completely new things itself. In many cases, the bigger challenge is helping people find existing expertise, tools and examples across the network.
 
-## ELIXIR Norway: making existing work visible
+## ELIXIR Norway: turning compliance into cultural change
 
 **Node**: ELIXIR Norway  
 **Authors**: Federico Bianchini, data steward and deputy training coordinator  
@@ -157,11 +162,11 @@ The discussions quickly became practical. We kept coming back to one simple ques
 
 It is oftentimes extremely challenging to push for cultural changes in the way research is conducted, especially when the research community does not see an immediate value in using the services offered. One way to address this is to offer a service as a direct solution to one of the obligations researchers have to fulfil as part of their job.
 
-We present here the case of ELIXIR Norway and the Data Stewardship Wizard as an example. The Research Council of Norway (RCN) requires Data Management Plans for all projects that have been granted. Such a document is to be submitted shortly after acceptance and has to be compliant with the Common Standard endorsed by the Research Data Alliance (RDA).
+We present here the example of ELIXIR Norway and the Data Stewardship Wizard (DSW). The Research Council of Norway (RCN) requires Data Management Plans for all projects that have been granted. Such a document is to be submitted shortly after acceptance and has to be compliant with the Common Standard endorsed by the Research Data Alliance (RDA).
 
-Shortly after these requirements were introduced, ELIXIR Norway started advertising for practical workshops to create DMPs that conform to the aforementioned standard. These workshops were very successful among life scientists and contributed to spreading the usage of the Data Stewardship Wizard (DSW) across the country. Our national instance now has more than 750 active users and over 1000 projects (DMPs).
+Shortly after these requirements were introduced, ELIXIR Norway started advertising practical workshops to create DMPs that conform to this common standard. These workshops were very successful among life scientists and contributed to spreading the usage of the DSW across the country. Our national instance now has more than 750 active users and over 1000 projects (DMPs).
 
-The workshop also helped to push more generally various crucial concepts of data management, including the usage of standards and controlled terminology, and the importance of data submission to relevant domain repositories.
+The workshop also helped to push more generally various crucial concepts of data management, including the usage of standards and controlled terminologies, and the importance of data submission to relevant domain repositories.
 
 ## ELIXIR Norway: bringing infrastructures together
 
@@ -171,15 +176,15 @@ The workshop also helped to push more generally various crucial concepts of data
 
 {% include callout.html type="warning" content="Without coordination, infrastructures may duplicate work or miss useful services developed elsewhere. Shared frameworks can help connect expertise across communities." %}
 
-Research infrastructures are oftentimes operating in isolation and not benefitting from tools and services that are developed outside of the research community they typically serve. This oftentimes leads to duplication of work and slower overall advancement.
+Research infrastructures commonly operate in isolation and don’t benefit from tools and services that are developed outside of the research community they typically serve. This often leads to duplication of work and slower overall advancement.
 
 In this example, we describe how ELIXIR Norway led a project that brought together several Research Infrastructures to develop a common framework. The BioMedData project was established in 2020 and ran for a total duration of 5 years. This project was executed within the context of ELIXIR Norway and involved the active collaboration of ten data-generating infrastructures covering diverse fields such as genomics, proteomics, medical imaging, high-throughput screening, nuclear magnetic resonance, biodiversity, and crystallography.
 
-We build a network of data management experts between ELIXIR Norway and the collaborating infrastructures capable of offering research projects integrated and well-coordinated support for data management, thus enabling projects to manage and share the data generated within the project.
+We build a network of data management experts between ELIXIR Norway and the collaborating infrastructures capable of offering research projects integrated and well-coordinated support for data management. This enabled projects to manage and share the data they generated.
 
-The group produced templates for Data Management Plans (DMPs) highlighting both general best practices, including standards and controlled terminology, and the available services and instrumentation at the actual partner facilities.
+The group produced templates for Data Management Plans (DMPs), highlighting both general best practices, including standards and controlled terminologies, and the available services and instrumentation at the actual partner facilities.
 
-Moreover, this activity established the basis for monitoring activities on submission to domain-specific databases, which is now part of the current work of ELIXIR Norway. At the end of the project, the partners signed a joint strategic statement for collaboration on data management. Unfortunately, not all partners managed to follow up on that due to inconsistent funding in the following periods.
+Moreover, this activity established the basis for monitoring activities on submission to domain-specific databases, which is now part of the ongoing work of ELIXIR Norway. At the end of the project, the partners signed a joint strategic statement for collaboration on data management. Unfortunately, not all partners managed to follow up on that due to inconsistent funding in the following periods.
 
 ## ELIXIR Spain: Open Science resources in national policies
 
@@ -189,9 +194,9 @@ Moreover, this activity established the basis for monitoring activities on submi
 
 {% include callout.html type="important" content="Mapping policy references can make the Node’s contribution more visible and show where ELIXIR resources are already embedded in national Open Science and Data Management priorities." %}
 
-An overview of references to ELIXIR and ELIXIR digital assets in National Open Science and Data Management policies and resources was conducted by different Nodes in 2025 under the ELIXIR Node Support Commissioned Service. The main objective was to better identify, understand and define the Open Science and Data Management landscape across ELIXIR. In the ELIXIR Spanish Node, we performed an extensive review of the national landscape to identify policies and ELIXIR-related recommendations regarding Open Science and Data Management resources.
+An overview of references to ELIXIR and ELIXIR digital assets in National Open Science and Data Management policies and resources was conducted by different Nodes in 2025 under the ELIXIR Node Support Commissioned Service. The main objective was to better identify, understand and define the Open Science and Data Management landscape across ELIXIR. In the ELIXIR Spain Node, we performed an extensive review of the national landscape to identify policies and ELIXIR-related recommendations regarding Open Science and Data Management resources.
 
-Results showed that ELIXIR is frequently referenced in Spanish national and regional policies and guidelines, particularly through services such as the Data Stewardship Wizard (DSW) and the ELIXIR Core Data Resources (CDRs). It also showed a cascading adoption of requirements established by the Instituto de Salud Carlos III (ISCIII), Spain’s main public funder of biomedical research. For example, funded projects in relevant domains must deposit their data at the European Genome-Phenome Archive (EGA), which is part of the Node portfolio. EGA holds the "ELIXIR Core Data Resource" badge and are encouraged to use appropriate ELIXIR Core Data Resources and Deposition Databases for different data types. In addition, the exercise helped identify opportunities for further development, including increasing the visibility and recognition of ELIXIR within key national policy frameworks, such as the Spanish National Open Science Strategy (ENCA).
+Results showed that ELIXIR is frequently referenced in Spanish national and regional policies and guidelines, particularly through services such as the Data Stewardship Wizard (DSW) and the ELIXIR Core Data Resources (CDRs). It also showed a cascading adoption of requirements established by the Instituto de Salud Carlos III (ISCIII), Spain’s main public funder of biomedical research. For example, funded projects in relevant domains must deposit their data at the European Genome-Phenome Archive (EGA), which is part of the Node portfolio and is recognised as an ELIXIR Core Data Resource. Researchers are encouraged to use appropriate ELIXIR Core Data Resources and Deposition Databases for different data types. In addition, the exercise helped identify opportunities for further development, including increasing the visibility and recognition of ELIXIR within key national policy frameworks, such as the Spanish National Open Science Strategy (ENCA).
 
 The analysis of existing Open Science and Data Management resources and recommendations provided valuable insights concerning these topics within the Spanish Node. It also positions ELIXIR well in these domains at national, regional and institutional level. The outputs of this exercise also provided the basis for an impact story factsheet, highlighting Spain as a strong example of good practice in Open Science and Research Data Management policies and resources in ELIXIR.
 
@@ -231,13 +236,13 @@ Training is an activity that a Node can develop with a two-fold purpose: buildin
 
 {% include callout.html type="important" content="Vision and mission statements can help clarify what a team works on, why it matters and who the work is for." %}
 
-During 2020 the Data management staff of the Swedish Node went from two to five persons; from a pair of persons having unspoken and not well defined remits and roles, to a team that needed more clarity on what to work with and why. Our approach to bring more clarity was to organise a workshop around Vision and Mission statements for the team, where Vision is a desired future position and Missions are overall objectives to work towards the Vision, as well as approaches to reach the objectives. 
+During 2020 the Data management staff of the Swedish Node went from two to five persons; from a pair of persons having unspoken and not well-defined remits and roles, to a team that needed more clarity on what to work with and why. Our approach to bring more clarity was to organise a workshop around Vision and Mission statements for the team, where Vision is a desired future position and Missions are overall objectives to work towards the Vision, as well as approaches to reach the objectives. 
 
-We ended up with a Vision that focused on a desired state that lay outside of the team itself, but rather focused on the recipients of the outputs of the team. So rather “A group of people can do something because reasons” than “The team will be world-class at something”. This way of formulating the vision defined our will to create impact, for whom, and for what reasons. 
+We ended up with a Vision that did not focus on a desired state that lay outside of the team itself, but rather focused on the recipients of the outputs of the team. So “A group of people can do something because reasons” rather than “The team will be world-class at something”. This way of formulating the vision defined our will to create impact, for whom, and for what reasons. 
 
 > Our vision statement ended up being: *“Swedish Life Science researchers apply good data management practices so that the research outputs produced are available to the global research community and to society at large, according to the principles of Open Science, Reproducible Research, and FAIR.”*
 
-Given the vision, we then worked on what our Mission should be taking our organisational environment, resources and competences into account. Which areas should the focus of our activities be on; what are overarching objectives to work towards for these areas? This resulted in us defining three core areas: Support, Training and Collaboration. For each of these, we formulated high level objectives, as well as functional statements about what we should focus our activities on to work towards the objectives.
+Given the Vision, we then worked on what our Mission should be, taking our organisational environment, resources and competences into account. Which areas should the focus of our activities be on? What are overarching objectives to work towards for these areas? This resulted in us defining three core areas: Support, Training and Collaboration. For each of these, we formulated high level objectives, as well as functional statements about what we should focus our activities on to work towards the objectives.
 
 > Here is an example mission statement:
 >

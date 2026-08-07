@@ -40,7 +40,7 @@ ELIXIR Nodes bring together many institutions, services and communities. Each gr
 Funders and national partners often expect this kind of clarity. Changes in requirements, services or research practices can also create a practical reason to improve coordination.
 
 **Related examples**  
-[ELIXIR Luxembourg on scaling up from one organisation]({{ site.baseurl }}/examples-01-dm#elixir-luxembourg-scaling-up-from-one-organisation) and [ELIXIR Sweden on clarifying the Node remit]({{ site.baseurl }}/examples-01-dm#elixir-sweden-clarifying-the-node-remit).
+[ELIXIR Luxembourg on the why of a written data management strategy]({{ site.baseurl }}/examples-01-dm#elixir-luxembourg-why-a-written-data-management-strategy) and [ELIXIR Sweden on clarifying the Node remit]({{ site.baseurl }}/examples-01-dm#elixir-sweden-clarifying-the-node-remit).
 
 **Related perspective**  
 [How funders can drive FAIRification strategies]({{ site.baseurl }}/funders-dm).
@@ -119,7 +119,7 @@ You do not have to begin by drafting a complete strategy. A practical activity, 
    What would help your group make the next discussion more concrete?
 
 **Related examples**  
-[ELIXIR Netherlands on identifying where the Node can add value]({{ site.baseurl }}/examples-01-dm#elixir-netherlands-identifying-where-the-node-can-add-value) and [ELIXIR Italy on inclusion in the SDP]({{ site.baseurl }}/examples-01-dm#elixir-italy-inclusion-in-the-sdp).
+[ELIXIR Netherlands on identifying where the Node can add value]({{ site.baseurl }}/examples-01-dm#elixir-netherlands-identifying-where-the-node-can-add-value) and [ELIXIR Italy on inclusion in the Service Delivery Plan]({{ site.baseurl }}/examples-01-dm#elixir-italy-inclusion-in-the-service-delivery-plan).
 
 {% include callout.html type="tip" content="Keep this lightweight. The goal is not to create a complete strategy, but to take a first step." %}
 
