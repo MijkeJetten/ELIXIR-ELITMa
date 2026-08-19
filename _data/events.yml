@@ -1,3 +1,12 @@
+- name: RDM Community Hybrid Event and ELITMa Node Data Management Strategy Event 2026
+  startDate: 2026-09-28
+  endDate: 2026-09-30
+  description: >
+    This hybrid event combines the ELIXIR RDM Community meeting with a co-located ELITMa Node Data Management Strategy event. Participants will exchange practices and work together on research data management, FAIR practices and further development of Node data management strategies.
+    [Find out more](https://elixir-europe.org/events/rdm-meeting-2026)
+  location: Barcelona, Spain
+  related_pages:
+    - mod_dm
 - name: Node data management strategy workshop
   startDate: 2025-05-19
   endDate: 2025-05-22
