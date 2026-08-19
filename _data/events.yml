@@ -1,17 +1,17 @@
-- name: RDM Community Hybrid Event and ELITMa Node Data Management Strategy Event 2026
+- name: RDM Community & ELITMa Node Data Management Strategy event 2026
   startDate: 2026-09-28
   endDate: 2026-09-30
   description: >
-    This hybrid event combines the ELIXIR RDM Community meeting with a co-located ELITMa Node Data Management Strategy event. Participants will exchange practices and work together on research data management, FAIR practices and further development of Node data management strategies.
+    This hybrid event combines the ELIXIR RDM Community meeting with a co-located ELITMa Node Data Management Strategy event. Participants will exchange practices and work together on research data management, FAIR practices and further development of their data management strategies.
     [Find out more](https://elixir-europe.org/events/rdm-meeting-2026)
   location: Barcelona, Spain
   related_pages:
     - mod_dm
-- name: Node data management strategy workshop
+- name: Node Data Management Strategy workshop
   startDate: 2025-05-19
   endDate: 2025-05-22
   description: >
-    This Hybrid edition focused on the RDM Maturity Model and the Data Stewardship Handbook. Participants reflected on their Node’s current situation and contributed examples and feedback that helped improve the guidance, practical examples and ELITMa training materials.
+    This hybrid edition focused on the RDM Maturity Model and the Data Stewardship Handbook. Participants reflected on their Node’s current situation and contributed examples and feedback that helped improve the guidance, practical examples and ELITMa training materials.
     [Find out more](https://elixir-europe.org/events/elitma-module2-eip-meeting)
   location: Tartu, Estonia
   related_pages:
@@ -38,16 +38,16 @@
   related_pages:
     - mod_impact
     - mod_cf
-- name: Node data management strategy workshop
+- name: Node Data Management Strategy workshop
   startDate: 2023-06-28
   endDate: 2023-06-29
   description: > 
-    This Hybrid edition introduced key RDM concepts, tools and examples, including funder and Node perspectives. Participants used a structured template to develop their own Node strategy, and the strong engagement helped shape later course editions. 
+    This hybrid edition introduced key Research Data Management concepts, tools and examples, including funder and Node perspectives. Participants used a structured template to develop their own Node strategy, and the strong engagement helped shape later course editions. 
     [Find out more](https://doi.org/10.5281/zenodo.10895080)
   location: Espoo, Finland
   related_pages:
     - mod_dm
-- name: "OATEN-ELITma: Show and tell demos from Nodes sustainability"
+- name: "OATEN-ELITMa: Show and tell demos from Nodes sustainability"
   startDate: 2023-05-16
   startTime: 10:00 CET
   endDate: 2023-05-16
@@ -56,7 +56,7 @@
   related_pages:
     - mod_sm
     - mod_fm
-- name: "OATEN-ELITma: Financial and project management"
+- name: "OATEN-ELITMa: Financial and Project management"
   startDate: 2023-03-29
   startTime: 10:30 CET
   endDate: 2023-03-30
