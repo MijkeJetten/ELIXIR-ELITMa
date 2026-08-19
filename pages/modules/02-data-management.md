@@ -9,7 +9,7 @@ permalink: /modules/data-management/
 
 
 ## Module chapters
-{% include module-tiles.html type="Data Management" custom="mod_dm_1, mod_dm_2, mod_dm_3, mod_dm_4, mod_dm_5" sort=false col=3 %}
+{% include module-tiles.html type="Data Management" custom="mod_dm_1, mod_dm_2, mod_dm_3, mod_dm_4, mod_dm_5, mod_dm_6, mod_dm_7" sort=false col=3 %}
 
 ## Related events
 ### Upcoming events
