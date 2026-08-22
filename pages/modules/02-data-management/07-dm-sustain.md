@@ -37,9 +37,9 @@ Keep it simple. You only need enough information to see whether you are making p
 
 Add a simple review point to the actions and priorities in your plan.
 
-| Priority | What will you check? | Who checks? | When? |
+| Priority or action | What will you check? | Who checks? | When? |
 | --- | --- | --- | --- |
-| Add a priority | Note what would show progress or signal a need to adjust | Add the person or group checking progress | Add a useful moment to look again |
+| Add a priority or action | Note what would show progress or signal a need to adjust | Add the person or group checking progress | Add a useful moment to look again |
 
 You do not need the same rhythm for everything. A new activity may need attention after a few months, while a stable area may only need checking once a year.
 
