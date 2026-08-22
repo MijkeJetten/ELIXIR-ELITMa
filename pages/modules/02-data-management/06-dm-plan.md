@@ -45,9 +45,9 @@ Use existing structures where you can. A current working group, meeting, service
 
 ## Check what the action depends on
 
-Some actions can begin straight away. Others depend on staff time, funding, expertise, agreement from another organisation or an earlier decision.
+Some actions can begin straight away. Others depend on staff time, expertise, funding, agreement from another organisation or an earlier decision. Be realistic about what is actually available and make these dependencies visible in your plan.
 
-Make these dependencies visible. If something needs to happen first, add that to your plan rather than setting an unrealistic deadline.
+If something needs to happen first, add that to your plan rather than setting an unrealistic deadline.
 
 For example, creating a shared overview of data stewardship expertise may first require contacts in each partner institution who can provide the information.
 
@@ -73,7 +73,7 @@ The next action can follow from what you learn. You do not need to plan every st
 
 Before moving on, check whether the plan is realistic.
 
-Can the actions start with the people and resources available? Are important dependencies visible? Is someone clearly taking each action forward?
+Can the actions start with the people, expertise and resources available? Is the necessary funding or decision making in place? Are important dependencies visible? Is someone clearly taking each action forward?
 
 Adjust the plan if an action is too large or depends on something that has not yet been agreed.
 
