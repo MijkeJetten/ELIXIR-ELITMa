@@ -72,7 +72,7 @@ If the decision route is unclear, record that too. You may need to resolve this 
 
 You may now have several useful directions. Choose a small number to take forward.
 
-Focus on areas where there is a clear need, where the Node can add value and where there is enough mandate and capacity to make progress.
+Focus on areas where there is a clear need, where the Node can add value and where there is enough mandate, people, expertise and resources to make progress.
 
 | Priority | Desired direction | Node role | Why now? |
 | --- | --- | --- | --- |
