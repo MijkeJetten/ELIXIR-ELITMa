@@ -39,6 +39,14 @@ Each chapter tackles a different question and gives you something concrete to ta
 
 {% include callout.html type="tip" content="You can work through the full module or return to individual chapters when your Node needs to revisit a particular question." %}
 
+## What makes this challenging in practice
+
+Developing a Node data management strategy is rarely just about writing a document.
+
+Nodes often need to work through questions about mandate, what belongs at Node level and what sits with institutions or other organisations, differences between partners, coordination, available expertise and staff time, funding and realistic expectations.
+
+You do not need to solve all of these questions before you start. They are part of the strategy process, and the chapters in this module will help you work through them.
+
 ## Bring what you already have
 
 You will get more from the exercises if you can draw on existing information about your Node.
