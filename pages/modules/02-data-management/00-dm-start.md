@@ -32,10 +32,10 @@ Each chapter tackles a different question and gives you something concrete to ta
 | **1. Why a Node data management strategy** | Why do we need one? | A clear reason and starting point for the strategy |
 | **2. Understanding your Node context** | What situation are we working in? | An overview of your Node context, connections and responsibilities |
 | **3. What to include** | What should our strategy cover? | A first structure for the strategy |
-| **4. Assessing where you are** | Where are we now? | A view of current strengths and areas that could develop |
+| **4. Assessing where you are** | Where are we now? | A clearer picture of current strengths, differences and possible improvements |
 | **5. Deciding where you want to go** | What should we develop further? | A desired direction, clearer Node role and selected priorities |
-| **6. Turning direction into a plan** | What will we do next? | A practical plan for moving priorities forward |
-| **7. Keeping the strategy alive** | How will we keep it useful? | A simple approach for review, continuity and change |
+| **6. Turning direction into a plan** | What will we do next? | A practical plan with actions, leads, resources and dependencies |
+| **7. Keeping the strategy alive** | How will we keep it useful? | A simple approach for reviewing, updating and sustaining the strategy |
 
 {% include callout.html type="tip" content="You can work through the full module or return to individual chapters when your Node needs to revisit a particular question." %}
 
@@ -49,9 +49,7 @@ You do not need to solve all of these questions before you start. They are part 
 
 ## Bring what you already have
 
-You will get more from the exercises if you can draw on existing information about your Node.
-
-This might include strategy or policy documents, service overviews, organisational information, funding or project plans, previous assessments or notes from discussions with partners.
+You will get more from the exercises if you can draw on existing information about your Node. This might include strategies, Service Delivery Plans, policies, service descriptions, maturity assessments, survey results, training plans or notes from earlier discussions.
 
 Do not wait until everything is complete. Missing information, unclear responsibilities and different views between partners are useful input too.
 
