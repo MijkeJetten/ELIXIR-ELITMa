@@ -37,9 +37,9 @@ Start with an action that is useful and manageable. You can build from there.
 
 Take the priorities you selected in Chapter 5 and turn them into practical actions.
 
-| Priority | Action | Lead | What is needed? | Timing |
+| Priority | Action | Lead | Resources and dependencies | Timing |
 | --- | --- | --- | --- | --- |
-| Add a priority | Describe what needs to happen | Add the person or group taking the lead | Note relevant people, resources, information or decisions | Add a realistic timeframe |
+| Add a priority | Describe what needs to happen | Add the person or group taking the lead | Note relevant people, resources, information, decisions or other dependencies | Add a realistic timeframe |
 
 Use existing structures where you can. A current working group, meeting, service or document may already provide a good place to start.
 
@@ -57,13 +57,15 @@ For example, creating a shared overview of data stewardship expertise may first 
 
 Someone needs to keep each action moving, but that person does not need to do everything.
 
+The action lead is not necessarily the same as the decision owner you identified in Chapter 5. The decision owner can agree the direction, while the lead keeps the practical work moving.
+
 The lead can bring together contributions from different institutions, follow up on decisions and make sure the next step does not disappear between meetings.
 
 If no one has the time or mandate to lead an action, revisit the plan. The priority may need to wait, become smaller or be taken forward elsewhere.
 
 ## What your result could look like
 
-| Priority | Action | Lead | What is needed? | Timing |
+| Priority | Action | Lead | Resources and dependencies | Timing |
 | --- | --- | --- | --- | --- |
 | Make data stewardship expertise easier to find | Create a first overview of existing roles and expertise | Node coordination | Input from partner institutions and existing role information | First overview within three months |
 
