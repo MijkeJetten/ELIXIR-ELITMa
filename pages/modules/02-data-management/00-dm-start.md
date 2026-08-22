@@ -7,7 +7,7 @@ type: Data Management
 audience:
   - Node Coordinators
   - Data Stewards
-time: 5 minutes
+time: 10 minutes
 status: ready
 sidebar: module-data-management
 summary: Get an overview of the module journey, the outputs from each chapter and the information that will help you work through the exercises.
@@ -54,6 +54,17 @@ A Node data management strategy will usually touch more than one role, instituti
 Where possible, involve colleagues who bring different perspectives on the Node. You do not need everyone in every exercise, but strategic choices are easier to make when the relevant people are part of the discussion.
 
 {% include callout.html type="note" content="You can start individually, but use the exercises as material for discussion with the people who need to shape, support or approve the strategy." %}
+
+## Quick check before you start
+
+Before moving on, take a minute to think about your starting point.
+
+* Do you already have a Node data management strategy or related documents?
+* Who else should be involved in developing or reviewing it?
+* Which data management responsibilities currently sit with the Node, and which sit with institutions, projects or other organisations?
+* Is there a current challenge, change or opportunity that makes this work timely?
+
+You do not need complete answers yet. Keep these questions in mind as you work through the module.
 
 ## Ready?
 
