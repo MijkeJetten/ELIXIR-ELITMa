@@ -56,7 +56,7 @@ For example, partner institutions may already provide RDM training. The Node cou
 
 {% include callout.html type="note" content="Room for improvement does not automatically mean that the Node should take on a new responsibility. Check who is best placed to act." %}
 
-## Clarify responsibility and decision making
+## ## Clarify the Node role and decision making
 
 Connect each direction to the governance and responsibilities you mapped in Chapter 2.
 
