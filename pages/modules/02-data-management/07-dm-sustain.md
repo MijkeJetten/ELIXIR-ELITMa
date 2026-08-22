@@ -14,7 +14,7 @@ summary: Define how your Node will monitor progress, review the strategy and kee
 learning_outcomes:
   - Define how progress on the strategy will be monitored
   - Identify when and how the strategy should be reviewed
-  - Consider how responsibility and continuity can be sustained over time
+  - Consider how ownership, continuity and review can be sustained over time
 ---
 
 {% include module-metadata.html %}
@@ -35,7 +35,7 @@ Keep it simple. You only need enough information to see whether you are making p
 
 ## Exercise: add a review point
 
-Add a simple review point to the priorities in your plan.
+Add a simple review point to the actions and priorities in your plan.
 
 | Priority | What will you check? | Who checks? | When? |
 | --- | --- | --- | --- |
@@ -61,7 +61,7 @@ Changes around the Node can also affect who can make decisions and who has the c
 
 When you revisit the strategy, check whether the right people are still involved, whether ownership is clear and whether activities still sit at the right level. A project ending, a new funding arrangement or a change in partner organisations may shift responsibilities even when the overall priority stays the same.
 
-If ownership has become unclear, agree where it should sit before work continues.
+If ownership or decision making has become unclear, agree where it should sit before work continues.
 
 ## Make sure it survives a handover
 
