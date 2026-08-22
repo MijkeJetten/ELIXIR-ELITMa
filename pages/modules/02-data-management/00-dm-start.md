@@ -1,7 +1,7 @@
 ---
 title: Before you start
 description: See how the module works, what you will build and what will help you get started.
-page_id: mod_dm_start
+page_id: mod_dm_0
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
 audience:
@@ -21,13 +21,13 @@ learning_outcomes:
 
 This module takes you through the main steps for developing or refining a Node data management strategy.
 
-You do not need to have a strategy already. You can use the module to start from scratch, improve what you already have or return to selected chapters when a particular question needs attention.
+You do not need to have a strategy already. You can use the module to start from scratch, refine what you already have or return to selected chapters when a particular question needs attention.
 
 Each chapter tackles a different question and gives you something concrete to take into the next step.
 
 ## What to expect
 
-| Chapter | Question | What you will have afterwards |
+| Chapter | Question | What you will have |
 | --- | --- | --- |
 | **1. Why a Node data management strategy** | Why do we need one? | A clear reason and starting point for the strategy |
 | **2. Understanding your Node context** | What situation are we working in? | An overview of your Node context, connections and responsibilities |
@@ -59,4 +59,4 @@ Where possible, involve colleagues who bring different perspectives on the Node.
 
 Start with the reason for developing the strategy.
 
-In Chapter 1, you will look at why a Node data management strategy can be useful and what you want it to help your Node achieve.
+In Chapter 1, you will look at why a Node data management strategy can be useful and what you want the strategy to help your Node achieve.
