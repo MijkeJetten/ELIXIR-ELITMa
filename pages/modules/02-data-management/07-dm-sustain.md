@@ -87,6 +87,20 @@ Ask one question:
 
 If the answer is yes, carry on. If not, update the part that no longer fits.
 
+## What you have built
+
+By working through the module, you now have:
+
+* a reason and starting point for your strategy
+* an overview of your Node context
+* a structure for what the strategy should cover
+* an assessment of where you are now
+* a desired direction and selected priorities
+* a practical plan for moving forward
+* an approach for reviewing and updating the strategy
+
+These pieces do not need to become one long document. Together, they give you a practical basis for developing and maintaining your Node data management strategy.
+
 ## What’s next
 
 Congrats. You have now worked through the main steps for developing and maintaining a Node data management strategy.
