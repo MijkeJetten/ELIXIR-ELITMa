@@ -13,7 +13,7 @@ sidebar: module-data-management
 summary: Use the Data Stewardship Handbook maturity model to assess how well selected areas of your Node data management strategy are developed and identify possible areas for improvement.
 learning_outcomes:
   - Explain how the Data Stewardship Handbook maturity model can support strategy development
-  - Assess the current level of development of selected areas of the strategy
+  - Assess the current situation and level of development of selected areas of the strategy
   - Identify strengths, gaps and possible areas for improvement
 ---
 
@@ -83,7 +83,7 @@ Choose one or two areas that you want to understand better.
 
 You might select an area because:
 
-* it is important to your Node
+* it is relevant to your strategy
 * several institutions or teams contribute to it
 * the current situation is unclear
 * practices differ across the Node
@@ -104,7 +104,7 @@ Now use the maturity model descriptions to assess the indicators you selected.
 For each indicator:
 
 1. **Read the maturity descriptions**  
-   Which description comes closest to the situation in your Node?
+   Which description comes closest to the situation in your Node? If no single description fits, record that rather than forcing the situation into one level.
 
 2. **Check the evidence**  
    What makes you choose this description? Think about existing documents, services, roles, practices, feedback or examples.
@@ -150,7 +150,7 @@ This can reveal useful questions about coordination without assuming that every 
 
 ## What your assessment could look like
 
-Imagine that your strategy outline includes **human capacity** as an important area.
+Imagine that your strategy outline includes **human capacity** as one of the areas you selected.
 
 You might select two maturity model indicators:
 
