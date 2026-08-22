@@ -8,7 +8,7 @@ audience: [Node Coordinators, Data Stewards]
 time: 45 minutes 
 status: ready
 sidebar: module-data-management
-summary: This section helps you build a shared understanding of your Node context by mapping governance, services, expertise, connections and gaps. It also guides you in forming an initial team and agreeing on a practical way to begin developing your data management strategy.
+summary: This chapter helps you build a shared understanding of your Node context by mapping governance, services, expertise, connections and gaps. It also guides you in forming an initial team and agreeing on a practical way to begin developing your data management strategy.
 related_pages:
   Real_world_example: 
   - examples-02-dm
@@ -19,7 +19,7 @@ learning_outcomes:
 ---
 {% include module-metadata.html %}
 
-In the previous section, you reflected on why a Node data management strategy matters and what already exists in your Node. The next step is to take a closer look at your context and organise this information.
+In the previous chapter, you reflected on why a Node data management strategy matters and what already exists in your Node. The next step is to take a closer look at your context and organise this information.
 
 {% capture examples_callout %}
 You can use the <a href="{{ site.baseurl }}/examples-02-dm">Node examples page</a> for inspiration while working through this chapter. The examples show how different Nodes explored their context and organised their first steps in practice.
@@ -29,7 +29,7 @@ You can use the <a href="{{ site.baseurl }}/examples-02-dm">Node examples page</
 
 ## Why the Node context matters
 
-A data management strategy must reflect the real situation of the Node. Each Node brings together different institutions, services, research communities, projects and national initiatives. These may have their own priorities, responsibilities, resources and ways of working. Without a basic understanding of this landscape, it becomes difficult to set priorities, define a realistic scope or identify where coordination at Node level can add value.
+A data management strategy must reflect the real situation of the Node. Each Node brings together different institutions, services, research communities, projects and national initiatives. These may have their own priorities, responsibilities, resources and ways of working. Without a basic understanding of this landscape, it becomes difficult to define a realistic scope, understand responsibilities or identify where coordination at Node level can add value.
 
 Much of the relevant work may already exist, but it can be spread across organisations, projects or teams and may not be visible to everyone. Understanding the Node context helps identify existing expertise, services and connections before deciding that something new is needed.
 
@@ -87,7 +87,7 @@ Before describing something as a gap, check whether the activity or expertise ma
 
 Once you have a basic understanding of your Node context, bring together a small group to take the work forward. Use your context overview to identify which perspectives are needed at the start.
 
-Begin with two or three people. They do not need to represent the whole Node or form the final working group. They should be able to compare different views of the Node, identify initial priorities and recognise who else needs to be involved.
+Begin with two or three people. They do not need to represent the whole Node or form the final working group. They should be able to compare different views of the Node, identify important questions or areas to explore and recognise who else needs to be involved.
 
 Depending on your context, useful perspectives may include:
 
@@ -119,18 +119,18 @@ Then agree on a practical way to begin.
 
 1. **Plan the initial meeting**  
    Draft a simple agenda and choose two or three questions to discuss. For example:
-   - What are our main priorities?
-   - Where can coordination at Node level add value?
-   - What should our first practical step be?
+   - What stands out from our Node context?
+   - Where might coordination at Node level add value?
+   - What do we still need to understand or discuss?
 
 2. **Choose a realistic first output**  
-   This could be a short summary, an action plan, a first context overview or a list of questions that need further input. The initial meeting does not need to produce a complete strategy.
+   This could be a short summary, a first context overview or a list of questions that need further input. The initial meeting does not need to produce a complete strategy.
 
 3. **Agree how you will continue**  
    Decide:
    - who will document the discussion and take the next step
    - how decisions will be made
-   - where documents and actions will be recorded
+   - where documents and notes will be recorded
    - when the group will meet or review progress again
 
 4. **Offer different ways to contribute**  
@@ -139,12 +139,12 @@ Then agree on a practical way to begin.
 **Related examples**  
 [ELIXIR Netherlands on using an initial meeting to identify priorities]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-using-an-initial-meeting-to-identify-priorities) and [ELIXIR Netherlands on finding practical ways to keep people involved]({{ site.baseurl }}/examples-02-dm#elixir-netherlands-finding-practical-ways-to-keep-people-involved).
 
-{% include callout.html type="tip" content="Keep the first step manageable. Use existing meetings, documents and working tools where possible, and agree who will turn the discussion into a practical next action." %}
+{% include callout.html type="tip" content="Keep the first step manageable. Use existing meetings, documents and working tools where possible, and agree who will capture the discussion and keep the work moving." %}
 
 ## What’s next
 
-You now have a first overview of your Node context, the main connections and gaps, and the people who can help take the work forward. These provide a practical foundation for deciding what the Node data management strategy should cover.
+You now have a first overview of your Node context, the main connections and gaps, and the people who can help shape the strategy.
 
-In the next section, you will identify the main areas to include in the strategy and begin structuring its content.
+In the next chapter, you will use this overview to decide what the strategy should cover and begin structuring its content.
 
 {% include callout.html type="important" content="Keep your context overview and first working arrangements available for the next chapter. They are working documents that can be refined as you make choices about the strategy and involve more people." %}
