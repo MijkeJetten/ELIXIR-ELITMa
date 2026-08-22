@@ -1,6 +1,6 @@
 ---
 title: Before you start
-description: See how the module works, what you will build and what will help you get started.
+description: See how the module is structured, what you will produce and what information will help you get started.
 page_id: mod_dm_0
 page_img: /icons/icon-module-data-management.svg
 type: Data Management
