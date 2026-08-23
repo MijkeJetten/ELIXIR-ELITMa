@@ -17,6 +17,8 @@ subitems:
       url: /examples-02-dm
     - title: From distributed support to coordinated RDM services
       url: /distributed-support-dm
+    - title: Roles, competences and your Node team
+      url: /roles-competences-dm
   - title: 03 What to include
     url: /03-dm-content
     subitems:
@@ -28,6 +30,9 @@ subitems:
     url: /04-dm-assess
   - title: 05 Deciding where you want to go
     url: /05-dm-direction
+    subitems:
+    - title: Roles, competences and your Node team
+      url: /roles-competences-dm
   - title: 06 Turning direction into a plan
     url: /06-dm-plan
   - title: 07 Keeping the strategy alive
