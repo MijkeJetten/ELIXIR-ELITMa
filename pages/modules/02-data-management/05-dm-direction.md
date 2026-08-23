@@ -11,6 +11,9 @@ time: 45 minutes
 status: in development
 sidebar: module-data-management
 summary: Use the results of your assessment to define a desired direction, clarify the Node role and identify priorities for further development.
+related_pages:
+  Real_world_example: 
+  - roles-competences-dm
 learning_outcomes:
   - Interpret the results of your assessment
   - Define a desired direction for selected areas of the strategy
