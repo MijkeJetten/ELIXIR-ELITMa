@@ -21,59 +21,72 @@ learning_outcomes:
 
 This module takes you through the main steps for developing or refining a Node data management strategy.
 
-You do not need to have a strategy already. You can use the module to start from scratch, refine what you already have or return to selected chapters when a particular question needs attention.
-
-Each chapter tackles a different question and gives you something concrete to take into the next step.
+You can start from scratch, build on what you already have or return to individual chapters when a particular question needs attention.
 
 ## What to expect
 
 | Chapter | Question | What you will have |
 | --- | --- | --- |
-| **1. Why a Node data management strategy** | Why do we need one? | A clear reason and starting point for the strategy |
+| **1. Why a Node data management strategy** | Why do we need one? | A clear reason and starting point |
 | **2. Understanding your Node context** | What situation are we working in? | An overview of your Node context, connections and responsibilities |
 | **3. What to include** | What should our strategy cover? | A first structure for the strategy |
 | **4. Assessing where you are** | Where are we now? | A clearer picture of current strengths, differences and possible improvements |
 | **5. Deciding where you want to go** | What should we develop further? | A desired direction, clearer Node role and selected priorities |
 | **6. Turning direction into a plan** | What will we do next? | A practical plan with actions, leads, resources and dependencies |
-| **7. Keeping the strategy alive** | How will we keep it useful? | A simple approach for reviewing, updating and sustaining the strategy |
+| **7. Keeping the strategy alive** | How will we keep it useful? | An approach for reviewing, updating and sustaining the strategy |
+
+{% include callout.html type="note" content="The module moves from understanding to action. You define what the strategy should cover, assess the current situation, decide the desired direction and priorities, turn these into actions and agree how progress will be reviewed." %}
 
 {% include callout.html type="tip" content="You can work through the full module or return to individual chapters when your Node needs to revisit a particular question." %}
+
+## Key terms used in this module
+
+A few terms are used in a specific way throughout the module:
+
+* **Mandate**: whether the Node has the remit or authority to act.
+* **Node role**: what contribution the Node should make.
+* **Decision owner**: who can agree the direction.
+* **Priority**: an area or direction selected to take forward.
+* **Action**: a concrete step to move a priority forward.
+* **Action lead**: the person or group keeping an action moving.
+* **Capacity and resources**: the people, expertise, time and funding available to make progress.
+* **Maturity**: a description of the current situation, not a target or ranking.
 
 ## What makes this challenging in practice
 
 Developing a Node data management strategy is rarely just about writing a document.
 
-Nodes often need to work through questions about mandate, what belongs at Node level and what sits with institutions or other organisations, differences between partners, coordination, available expertise and staff time, funding and realistic expectations.
+Questions may arise about mandate, what belongs at Node level and what sits with institutions or other organisations, differences between partners, coordination, expertise, staff time, funding and realistic expectations.
 
-You do not need to solve all of these questions before you start. They are part of the strategy process, and the chapters in this module will help you work through them.
+You do not need to solve these before you start. The chapters will help you work through them.
 
 ## Bring what you already have
 
-You will get more from the exercises if you can draw on existing information about your Node. This might include strategies, Service Delivery Plans, policies, service descriptions, maturity assessments, survey results, training plans or notes from earlier discussions.
+Use existing information where you can. This might include strategies, Service Delivery Plans, policies, service descriptions, maturity assessments, surveys, training plans or notes from earlier discussions.
 
 Do not wait until everything is complete. Missing information, unclear responsibilities and different views between partners are useful input too.
 
 ## Do not do it alone
 
-A Node data management strategy will usually touch more than one role, institution or service.
+A Node data management strategy usually touches more than one role, institution or service.
 
-Where possible, involve colleagues who bring different perspectives on the Node. You do not need everyone in every exercise, but strategic choices are easier to make when the relevant people are part of the discussion.
+Involve colleagues who bring different perspectives when useful. You do not need everyone in every exercise.
 
 {% include callout.html type="note" content="You can start individually, but use the exercises as material for discussion with the people who need to shape, support or approve the strategy." %}
 
 ## Quick check before you start
 
-Before moving on, take a minute to think about your starting point.
+Take a minute to think about your starting point.
 
-* Do you already have a Node data management strategy or related documents?
-* Who else should be involved in developing or reviewing it?
-* Which data management responsibilities currently sit with the Node, and which sit with institutions, projects or other organisations?
+* Do you already have a strategy or related documents?
+* Who else should be involved?
+* Which responsibilities sit with the Node, and which sit elsewhere?
 * Is there a current challenge, change or opportunity that makes this work timely?
 
-You do not need complete answers yet. Keep these questions in mind as you work through the module.
+You do not need complete answers yet.
 
 ## Ready?
 
 Start with the reason for developing the strategy.
 
-In Chapter 1, you will look at why a Node data management strategy can be useful and what you want the strategy to help your Node achieve.
+In Chapter 1, you will look at why a Node data management strategy can be useful and what you want it to help your Node achieve.
