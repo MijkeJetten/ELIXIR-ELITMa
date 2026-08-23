@@ -13,6 +13,7 @@ related_pages:
   Real_world_example:
   - gorc-framework-dm
   - gorc-elixir-dm
+  - rdm-portfolio-dm
 learning_outcomes:
     - Identify the main elements to include in a Node data management strategy
     - Use the Global Open Research Commons model to structure the content of your strategy
