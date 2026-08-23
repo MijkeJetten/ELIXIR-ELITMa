@@ -2,7 +2,7 @@
   startDate: 2026-09-28
   endDate: 2026-09-30
   description: >
-    This hybrid event combines the ELIXIR RDM Community meeting with a co-located ELITMa Node Data Management Strategy event. Participants will exchange practices and work together on research data management, FAIR practices and further development of their data management strategies.
+    This hybrid event combines the ELIXIR RDM Community meeting with a co-located ELITMa Node Data Management Strategy event. Participants will exchange practices, work further on their Node data management strategies and contribute experiences and examples that can help refine and expand the module further.
     [Find out more](https://elixir-europe.org/events/rdm-meeting-2026)
   location: Barcelona, Spain
   related_pages:
@@ -11,7 +11,7 @@
   startDate: 2025-05-19
   endDate: 2025-05-22
   description: >
-    This hybrid edition focused on the RDM Maturity Model and the Data Stewardship Handbook. Participants reflected on their Node’s current situation and contributed examples and feedback that helped improve the guidance, practical examples and ELITMa training materials.
+    This hybrid edition focused on the RDM Maturity Model and the Data Stewardship Handbook. Participants assessed their Node’s current situation, discussed practical Node examples and contributed feedback and examples that helped refine the guidance and online ELITMa training materials.
     [Find out more](https://elixir-europe.org/events/elitma-module2-eip-meeting)
   location: Tartu, Estonia
   related_pages:
@@ -41,8 +41,8 @@
 - name: Node Data Management Strategy workshop
   startDate: 2023-06-28
   endDate: 2023-06-29
-  description: > 
-    This hybrid edition introduced key Research Data Management concepts, tools and examples, including funder and Node perspectives. Participants used a structured template to develop their own Node strategy, and the strong engagement helped shape later course editions. 
+  description: >
+    This hybrid edition introduced key Research Data Management concepts, tools and Node examples, including funder perspectives, roles and competences and approaches to assessing Node services. Participants used a structured portfolio template to reflect on their own Node context, services, gaps and next steps. The presentations, shared notes and Node portfolios became an important basis for later editions and for the current self-paced module.
     [Find out more](https://doi.org/10.5281/zenodo.10895080)
   location: Espoo, Finland
   related_pages:
