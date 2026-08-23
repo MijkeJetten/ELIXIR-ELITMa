@@ -11,6 +11,9 @@ time: 45 minutes
 status: ready
 sidebar: module-data-management
 summary: Use the Data Stewardship Handbook maturity model to assess how well selected areas of your Node data management strategy are developed and identify possible areas for improvement.
+related_pages:
+  Real_world_example:
+  - self-assessment-dm
 learning_outcomes:
   - Explain how the Data Stewardship Handbook maturity model can support strategy development
   - Assess the current situation and level of development of selected areas of the strategy
