@@ -1,34 +1,41 @@
 ---
 title: Funders as drivers for FAIRification strategies
-description: How FAIRification changes support and coordination
+description: How funder requirements can influence FAIR support and coordination
 type_img: /images/icons/icon-module-data-management.svg
 sidebar: module-data-management
 page_id: funders-dm
 type: Real_world_example
 ---
 
-This case study is based on a presentation by Margreet Bloemers [ZonMw](https://www.zonmw.nl/en/everything-about-fair-data-management) during the Finland edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials and shared notes are available through the [ELITMa Finland workshop materials](https://doi.org/10.5281/zenodo.10895079).
+This case study is based on a presentation by Margreet Bloemers from [ZonMw](https://www.zonmw.nl/en/everything-about-fair-data-management) during the Finland edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials and shared notes are available through the [ELITMa Finland workshop materials](https://doi.org/10.5281/zenodo.10895079).
 
-The presentation explored how funders increasingly move from project based RDM requirements towards organising research communities and domain specific FAIR implementation approaches. For Nodes developing a data management strategy, this shift is relevant because FAIRification requires coordination beyond individual projects.
+The presentation explored how funder requirements can influence the way research data management and FAIRification are organised. For Nodes developing a data management strategy, such external developments can provide an important reason to review existing support and consider where broader coordination is needed.
 
 ## Why is this relevant?
 
-Many Nodes already support researchers with DMP guidance, repositories, consultations, FAIR support and training. However, FAIRification often requires additional coordination around metadata standards, vocabularies, community agreements, FAIR expertise and support structures.
+Many Nodes already support researchers with DMP guidance, repositories, consultations, FAIR support and training. Funder requirements can influence which kinds of support researchers need and how these activities are organised.
 
-The presentation illustrates that FAIRification is not only technical. Different research domains use different metadata approaches and standards. FAIRification therefore depends on collaboration between researchers, domain experts, data stewards, infrastructures and funders.
+The ZonMw example showed a shift beyond project-level data management towards greater attention to reusable data and FAIRification. This can require coordination around metadata standards, vocabularies, community agreements, FAIR expertise and support structures.
 
-This means that FAIRification cannot always be organised project by project. Nodes may need to coordinate approaches across institutes, projects and communities.
+FAIRification is also community specific. Different research domains use different standards, terminology and approaches. Supporting FAIR data therefore often requires collaboration between researchers, domain experts, data stewards, infrastructures and funders.
 
 ## What can Nodes learn from this?
 
-* **FAIRification requires coordination.** FAIRification often depends on shared metadata approaches, community standards, collaboration between expertise areas and reusable support and guidance. Nodes can play a role in connecting these activities.
+* **External requirements can be a reason to review your strategy.** Changes in funder expectations may reveal new support needs or increase the importance of activities that are already developing within the Node.
 
-* **FAIRification is community specific.** Different research communities use different standards, vocabularies and FAIR approaches. Generic support alone is often not sufficient. Nodes may therefore need community engagement, domain expertise and collaboration with researchers and data stewards.
+* **FAIRification requires coordination.** Reusable data often depends on shared metadata approaches, community standards, expertise and guidance that cannot be organised project by project.
 
-* **FAIR support goes beyond compliance.** The presentation distinguishes research data management from FAIRification. FAIRification is presented as a process rather than a single compliance step. This may influence training, support services, infrastructure choices and FAIR expertise within the Node.
+* **FAIRification is community specific.** Generic guidance is useful, but different research communities may need different standards, vocabularies and implementation approaches.
 
-* **Funders increasingly expect reusable data.** From a funder perspective, FAIR data increases the value and reuse of research investments. This may affect priorities for FAIR support, collaboration with research communities, investments in metadata and standards and alignment between local and national initiatives.
+* **FAIR support goes beyond compliance.** FAIRification is a process rather than a single requirement to meet. This can affect training, support services, infrastructure choices and the expertise a Node needs access to.
 
 ## What can you do?
 
-Nodes may reflect on whether current support focuses mainly on project level RDM or already includes broader FAIRification approaches. They may also assess which FAIRification activities already exist, which metadata standards are used by communities, where coordination is currently fragmented, which expertise is missing and which collaborations are needed to support FAIRification.
+Consider which external developments currently influence data management in your Node. These might include requirements from funders, national policies, institutional policies or community standards.
+
+Ask:
+
+* Which requirements are already affecting researchers in our Node?
+* What support is already available?
+* Where do new requirements create a need for coordination?
+* Are there activities that would benefit from a more strategic Node-level approach?
