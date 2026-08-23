@@ -12,6 +12,7 @@ summary: This chapter helps you build a shared understanding of your Node contex
 related_pages:
   Real_world_example: 
   - examples-02-dm
+  - distributed-support-dm
 learning_outcomes:
     - Describe the key elements that shape your Node context for data management
     - Identify the perspectives needed to begin developing a Node data management strategy
