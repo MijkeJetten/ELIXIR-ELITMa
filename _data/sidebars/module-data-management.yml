@@ -48,7 +48,5 @@ subitems:
   - title: 07 Keeping the strategy alive
     url: /07-dm-sustain
     subitems:
-      - title: Approaches to sustaining RDM support
+    - title: Approaches to sustaining RDM support
       url: /sustain-models-dm
-
-      
