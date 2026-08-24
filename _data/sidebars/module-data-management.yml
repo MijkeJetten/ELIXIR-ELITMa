@@ -38,6 +38,8 @@ subitems:
     subitems:
     - title: Roles, competences and your Node team
       url: /roles-competences-dm
+    - title: From mandate to service scope
+      url: /service-scope-dm
   - title: 06 Turning direction into a plan
     url: /06-dm-plan
   - title: 07 Keeping the strategy alive
