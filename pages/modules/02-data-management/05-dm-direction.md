@@ -14,6 +14,7 @@ summary: Use the results of your assessment to define a desired direction, clari
 related_pages:
   Real_world_example: 
   - roles-competences-dm
+  - service-scope-dm
 learning_outcomes:
   - Interpret the results of your assessment
   - Define a desired direction for selected areas of the strategy
