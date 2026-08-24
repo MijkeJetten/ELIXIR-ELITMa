@@ -11,6 +11,9 @@ time: 45 minutes
 status: in development
 sidebar: module-data-management
 summary: Turn your selected priorities into a practical plan by defining actions, responsibilities, resources and dependencies.
+related_pages:
+  Real_world_example: 
+  - implementation-dm
 learning_outcomes:
   - Translate selected priorities into concrete actions
   - Identify responsibilities, resources and dependencies
