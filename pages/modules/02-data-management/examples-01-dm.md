@@ -160,13 +160,13 @@ The discussions quickly became practical. We kept coming back to one simple ques
 
 {% include callout.html type="tip" content="Link services to needs that researchers already recognise. This can make data management support easier to understand and use." %}
 
-It is oftentimes extremely challenging to push for cultural changes in the way research is conducted, especially when the research community does not see an immediate value in using the services offered. One way to address this is to offer a service as a direct solution to one of the obligations researchers have to fulfil as part of their job.
+It is oftentimes extremely challenging to push for cultural changes in the way research is conducted, especially when the research community does not see an immediate value in using the services offered. One way to address this is to offer a service as a direct solution to one of the obligations researchers have to fulfil as part of their job. 
 
-We present here the example of ELIXIR Norway and the Data Stewardship Wizard (DSW). The Research Council of Norway (RCN) requires Data Management Plans for all projects that have been granted. Such a document is to be submitted shortly after acceptance and has to be compliant with the Common Standard endorsed by the Research Data Alliance (RDA).
+We present here the case of ELIXIR Norway and the Data Stewardship Wizard as an example. The Research Council of Norway (RCN) requires Data Management Plans for all projects that have been granted. Such a document is to be submitted shortly after acceptance and has to be compliant with the [Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard) endorsed by the Research Data Alliance (RDA). 
 
-Shortly after these requirements were introduced, ELIXIR Norway started advertising practical workshops to create DMPs that conform to this common standard. These workshops were very successful among life scientists and contributed to spreading the usage of the DSW across the country. Our national instance now has more than 750 active users and over 1000 projects (DMPs).
+Shortly after these requirements were introduced, ELIXIR Norway started advertising for practical workshops to create DMPs that conform to the aforementioned standard. These workshops were very successful among life scientists and contributed to spreading the usage of the Data Stewardship Wizard (DSW) across the country. Our national instance now has more than 750 active users and over 1000 projects (DMPs). 
 
-The workshop also helped to push more generally various crucial concepts of data management, including the usage of standards and controlled terminologies, and the importance of data submission to relevant domain repositories.
+The workshop also helped to push more generally various crucial concepts of data management, including the usage of standards and controlled terminology, and the importance of data submission to relevant domain repositories.
 
 ## ELIXIR Norway: bringing infrastructures together
 
@@ -176,15 +176,11 @@ The workshop also helped to push more generally various crucial concepts of data
 
 {% include callout.html type="warning" content="Without coordination, infrastructures may duplicate work or miss useful services developed elsewhere. Shared frameworks can help connect expertise across communities." %}
 
-Research infrastructures commonly operate in isolation and don’t benefit from tools and services that are developed outside of the research community they typically serve. This often leads to duplication of work and slower overall advancement.
+Research infrastructures are oftentimes operating in isolation and not benefitting from tools and services that are developed outside of the research community they typically serve. This oftentimes leads to duplication of work and slower overall advancement. In this example, we describe how ELIXIR Norway led a project that brought together several Research Infrastructures to develop a common framework. 
 
-In this example, we describe how ELIXIR Norway led a project that brought together several Research Infrastructures to develop a common framework. The BioMedData project was established in 2020 and ran for a total duration of 5 years. This project was executed within the context of ELIXIR Norway and involved the active collaboration of ten data-generating infrastructures covering diverse fields such as genomics, proteomics, medical imaging, high-throughput screening, nuclear magnetic resonance, biodiversity, and crystallography.
+The [BioMedData project](https://prosjektbanken.forskningsradet.no/en/project/FORISS/295932) was established in 2020 and ran for a total duration of 5 years. This project was executed within the context of ELIXIR Norway and involved the active collaboration of ten data-generating infrastructures covering diverse fields such as genomics, proteomics, medical imaging, high-throughput screening, nuclear magnetic resonance, biodiversity, and crystallography. We build a network of data management experts between ELIXIR Norway and the collaborating infrastructures capable of offering research projects integrated and well-coordinated support for data management, thus enabling projects to manage and share the data generated within the project. 
 
-We build a network of data management experts between ELIXIR Norway and the collaborating infrastructures capable of offering research projects integrated and well-coordinated support for data management. This enabled projects to manage and share the data they generated.
-
-The group produced templates for Data Management Plans (DMPs), highlighting both general best practices, including standards and controlled terminologies, and the available services and instrumentation at the actual partner facilities.
-
-Moreover, this activity established the basis for monitoring activities on submission to domain-specific databases, which is now part of the ongoing work of ELIXIR Norway. At the end of the project, the partners signed a joint strategic statement for collaboration on data management. Unfortunately, not all partners managed to follow up on that due to inconsistent funding in the following periods.
+The group produced templates for Data Management Plans (DMPs) highlighting both general best practices, including standards and controlled terminology, and the available services and instrumentation at the actual partner facilities. Moreover, this activity established the basis for monitoring activities on submission to domain-specific databases, which is now part of the current work of ELIXIR Norway. At the end of the project, the partners signed a joint [strategic statement](https://doi.org/10.5281/zenodo.10090789) for collaboration on data management. Unfortunately, not all partners managed to follow up on that due to inconsistent funding in the following periods. 
 
 ## ELIXIR Spain: Open Science resources in national policies
 
