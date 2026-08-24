@@ -42,5 +42,8 @@ subitems:
       url: /service-scope-dm
   - title: 06 Turning direction into a plan
     url: /06-dm-plan
+    subitems:
+    - title: From service idea to implementation
+      url: /implementation-dm
   - title: 07 Keeping the strategy alive
     url: /07-dm-sustain
