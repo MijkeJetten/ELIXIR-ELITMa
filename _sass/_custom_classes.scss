@@ -6,7 +6,8 @@
 
 .navbar-nav .nav-item > a {
     &.active {
-        color: $white;
+        // Dark text on the light-blue chip: white would be 1.75:1 on $primary-light.
+        color: $dark !important;
         background-color: $primary-light;
         border-radius: $border-radius;
     }
@@ -38,12 +39,18 @@ footer {
 }
 
 /*------Navbar default -----*/
+// Dark navy to match the footer, bookending the page. Also restores the edge
+// between the navbar and the grey sidebar band, which were both $light-background.
 header .navbar {
   box-shadow: none !important;
-  background: $light-background !important;
+  background: $dark !important;
 
   .navbar-brand, .nav-link {
-    color: $primary!important;
+    color: $white!important;
+  }
+
+  .navbar-toggler {
+    color: $white !important;
   }
 }
 /* -----Homepage----- */
@@ -52,10 +59,10 @@ header .navbar {
   header .navbar {
     margin-bottom: 0!important;
     box-shadow: none !important;
-    background: $light-background !important;
+    background: $dark !important;
 
     .navbar-brand, .nav-link {
-      color: $primary!important;
+      color: $white!important;
     }
   }
 }
@@ -344,4 +351,182 @@ ul.task-list {
 // Remove huge table margin
 .mb-5 {
   margin-bottom: 0.5rem !important;
+}
+
+/*-----Sidebar pages: full-bleed left column, full-width container-----*/
+// Scoped to pages that actually have a sidebar. The homepage, the module
+// landing pages and plain pages have no #layout, so they keep the theme's
+// centred 1440px container.
+@include media-breakpoint-up(lg) {
+  body:has(#layout) {
+    // Paints the left half of the viewport; main covers everything from the
+    // content column rightwards, leaving a grey band that runs edge to edge
+    // and top to bottom behind the navigation.
+    background: linear-gradient(to right, $light-background 0 50%, $body-bg 50% 100%);
+
+    .container {
+      max-width: none;
+    }
+
+    // Let the band start directly under the navbar.
+    header nav.navbar {
+      margin-bottom: 0 !important;
+    }
+
+    // The gap becomes padding so the colour boundary has a clean edge.
+    // 0.9rem + 2.1rem preserves the original 3rem separation.
+    #layout {
+      gap: 0 !important;
+    }
+
+    aside#sidebar {
+      padding-top: $spacer * 3;
+      padding-right: 0.9rem;
+    }
+
+    main#main {
+      padding-top: $spacer * 3;
+      padding-left: 2.1rem;
+      padding-bottom: $spacer * 2.5;
+      background-color: $body-bg;
+    }
+
+    // The theme's 40px footer margin would expose the grey band below main.
+    // Move that breathing room inside main, so its white background covers it.
+    #footer {
+      margin-top: 0;
+    }
+
+    // The theme's sticky section title sits on white; match the band.
+    #sidebar > nav .sidebar-title-wrapper {
+      background: $light-background;
+    }
+  }
+}
+
+/*-----Reading measure-----*/
+// With a full-width container the prose was running ~230 characters per line,
+// roughly three times the comfortable maximum. Cap the text elements only, so
+// tables, tiles, figures and the resource lists still use the full column.
+// A fixed measure rather than `ch`, so the right edge lines up across elements
+// that are set at different font sizes (summary, callouts, body copy).
+// ~113 characters at the content font size. Above the classic 45-75 band, but
+// the full-width layout makes a strict measure look stranded. Tune here.
+$reading-measure: 56rem;
+
+#content {
+  // 16px/1.5 is Bootstrap's UI default; long-form reading wants more of both.
+  font-size: 1.0625rem;
+  line-height: 1.7;
+
+  h2, h3, h4, h5, h6 {
+    line-height: 1.3;
+  }
+
+  // Proximity: a heading belongs to the text *below* it, so the space above
+  // must clearly beat the space below. The theme's 2rem/0.5rem read as evenly
+  // spaced once body leading went to 1.7, so headings grouped with the wrong
+  // block. Roughly a 5:1 ratio reads unambiguously.
+  h2 {
+    margin-top: 3.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  h3 {
+    margin-top: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  h4 {
+    margin-top: 2rem;
+    margin-bottom: 0.35rem;
+  }
+
+  // Stacked headings belong together, so don't push them apart.
+  h2 + h3,
+  h3 + h4 {
+    margin-top: 0.75rem;
+  }
+
+  > :first-child {
+    margin-top: 0;
+  }
+
+  // Tighter leading inside list items, with a small gap between them, so a
+  // list reads as one block instead of loose free-standing lines.
+  li {
+    line-height: 1.5;
+  }
+
+  ul, ol {
+    > li + li {
+      margin-top: 0.35rem;
+    }
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  // Cap everything, then let the genuinely wide things back out. An allow-list
+  // misses callouts, the metadata box and anything added later.
+  #content > * {
+    max-width: $reading-measure;
+  }
+
+  #content > table,
+  #content > .table-responsive,
+  #content > .row {
+    max-width: none;
+  }
+
+  // The page summary sits in #intro, outside #content.
+  #intro .summary {
+    max-width: $reading-measure;
+  }
+}
+
+// The theme sizes the sidebar and the TOC in `fr` units, so with a full-width
+// container they grow with the viewport (on a 2560px screen: 448px and 576px).
+// Pin them above the xxl breakpoint so the extra width goes to the text.
+@include media-breakpoint-up(xxl) {
+  #layout {
+    grid-template-columns: minmax(0, 18rem) minmax(0, 1fr);
+  }
+
+  main.add-grid {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 16rem);
+    column-gap: 5rem;
+
+    // Spacing now comes from column-gap, so the TOC keeps its full width.
+    #toc {
+      margin-left: 0;
+    }
+  }
+}
+
+/*-----Event cards-----*/
+.event-card {
+  // #content sets 1.0625rem for prose, which the card inherits; too heavy next
+  // to the .9rem date. Title (1.2rem) and date are rem-based, so unaffected.
+  font-size: 0.95rem;
+
+  // The description and the toggle are siblings of .event-card-header, so they
+  // start at the card padding edge — under the icon instead of under the title.
+  // Indent by the icon width (2.5rem) plus the header's gap-3 (1rem).
+  @include media-breakpoint-up(sm) {
+    .card-body > *:not(.event-card-header) {
+      padding-left: 3.5rem;
+    }
+  }
+}
+
+/*-----Table of contents: quieter-----*/
+// The theme renders the module icon here at up to 9em (144px) at full
+// saturation, which made the right column compete with the text.
+#toc {
+  font-size: 0.9rem;
+
+  .page-img-lg {
+    max-height: 4.5em;
+    opacity: 0.7;
+  }
 }
