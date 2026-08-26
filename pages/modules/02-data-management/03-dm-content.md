@@ -8,16 +8,18 @@ audience: [Node Coordinators, Data Stewards]
 time: 45 minutes
 status: ready
 sidebar: module-data-management
-summary: Data management activities often develop separately across governance, services and support structures. The Global Open Research Commons (GORC) model helps bring these elements together, identify priorities and draft a simple strategy outline.
+summary: Data management activities often develop separately across governance, services and support structures. The Global Open Research Commons (GORC) model helps bring these elements together, identify relevant areas and draft a simple strategy outline.
 related_pages:
   Real_world_example:
   - gorc-framework-dm
   - gorc-elixir-dm
+  - rdm-portfolio-dm
 learning_outcomes:
     - Identify the main elements to include in a Node data management strategy
     - Use the Global Open Research Commons model to structure the content of your strategy
-    - Select priority areas and draft a simple outline for your strategy
+    - Select relevant areas and draft a simple outline for your strategy
 ---
+
 {% include module-metadata.html %}
 
 In the previous chapters, you clarified why your Node needs a data management strategy and identified a starting point. You then developed a first overview of your Node context and identified the people who can help take the work forward.
@@ -33,7 +35,7 @@ This module uses two complementary frameworks:
 
 The GORC model supports the question: *what should the strategy cover, and how do these areas relate to each other?*
 
-In this chapter, you will use the GORC model to structure the content of your strategy and identify priority areas. In the next chapter, you will use the maturity model to assess how well selected areas are developed and identify possible improvements.
+In this chapter, you will use the GORC model to structure the content of your strategy and identify the areas that are most relevant to your Node. In the next chapter, you will use the maturity model to assess how well selected areas are developed and identify possible improvements.
 
 You can read more about the two frameworks here:
 
@@ -42,11 +44,11 @@ You can read more about the two frameworks here:
 
 ## Why defining the content matters
 
-A Node data management strategy works best when it focuses on the areas that matter most. It does not need to cover everything, but it should make clear what your Node wants to achieve and where it will focus its efforts.
+A Node data management strategy works best when it focuses on the areas that are relevant to the Node. It does not need to cover everything, but it should make clear what belongs in the strategy and how the different areas connect.
 
-Defining the content means deciding which topics belong in the strategy, how they relate to each other and which of them need attention first. This helps turn a broad overview of services, roles and activities into a manageable set of strategic areas.
+Defining the content means deciding which topics belong in the strategy and how they relate to each other. This helps turn a broad overview of services, roles and activities into a manageable set of strategic areas.
 
-Without a clear scope, important areas may be overlooked or too many topics may be addressed at once. A defined scope helps you set priorities, connect existing work and decide where further coordination or development is needed.
+Without a clear scope, important areas may be overlooked or too many topics may be addressed at once. A defined scope helps you connect existing work and identify where greater clarity or coordination may be needed.
 
 It also makes the strategy easier to discuss with the people involved. They can see which areas are included, why they matter and where their input is needed.
 
@@ -71,7 +73,6 @@ Using the framework helps you:
 * group related activities and responsibilities
 * see connections between different areas
 * identify which areas are relevant to your strategy
-* select where to focus first
 
 {% include callout.html type="important" content="The GORC model is not prescriptive. Focus on the elements that are most relevant to your Node and strategy." %}
 
@@ -96,7 +97,7 @@ Record your initial observations. You will use them in the next exercise.
 
 ## Exercise: map selected GORC elements
 
-Select two or three GORC elements that are most relevant to your Node.
+Select two or three GORC elements that seem relevant to your strategy.
 
 For each element, describe what is already in place and how it connects to other parts of your Node context.
 
@@ -136,7 +137,7 @@ For each selected area, record why it matters, what the strategy should address 
 
 Use the completed table as a first outline for your strategy. You can add more detail as the strategy develops.
 
-{% include callout.html type="note" content="Aim for a focused outline rather than a complete strategy. Select the areas that are most relevant to your Node and realistic to address." %}
+{% include callout.html type="note" content="Aim for a focused outline rather than a complete strategy. Include the areas that are relevant to your Node and useful to address in the strategy." %}
 
 ## What’s next
 
