@@ -234,7 +234,7 @@ Training is an activity that a Node can develop with a two-fold purpose: buildin
 
 During 2020 the Data management staff of the Swedish Node went from two to five persons; from a pair of persons having unspoken and not well-defined remits and roles, to a team that needed more clarity on what to work with and why. Our approach to bring more clarity was to organise a workshop around Vision and Mission statements for the team. The Vision statement defined a desired future position and Mission defined overall objectives to work towards the Vision, and approaches to reaching them. 
 
-We ended up with a Vision that did not focus on a desired state that lay outside of the team itself, but instead focused on the recipients of the outputs of the team. So “A group of people can do something because of reasons” rather than “The team will be world-class at something”. This way of formulating the vision defined our will to create impact, for whom, and for what reasons. 
+We ended up with a Vision that did not focus on a desired state that lay within the team itself, but instead focused on the recipients of the outputs of the team. So “A group of people can do something because of reasons” rather than “The team will be world-class at something”. This way of formulating the vision defined our will to create impact, for whom, and for what reasons. 
 
 > Our vision statement ended up being: *“Swedish Life Science researchers apply good data management practices so that the research outputs produced are available to the global research community and to society at large, according to the principles of Open Science, Reproducible Research, and FAIR.”*
 
