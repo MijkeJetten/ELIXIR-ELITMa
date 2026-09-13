@@ -32,7 +32,7 @@ You can use the <a href="{{ site.baseurl }}/examples-01-dm">Node examples page</
 
 ELIXIR Nodes bring together many institutions, services and communities. Each group works with data in different ways. Without a shared direction, coordination becomes difficult. A strategy helps create this direction and provides clarity.
 
-- **Direction and clarity**: A strategy shows what the Node wants to achieve in data management. It shows how services fit together and where support is still needed.
+- **Direction and priorities**: A strategy shows what the Node wants to achieve in data management and where it wants to focus its efforts.
 - **Efficiency and shared understanding**: It reduces duplication, improves communication and helps staff understand their roles.
 - **Planning and sustainability**: A strategy supports long-term planning. It helps the Node decide which services to maintain, where to invest effort and how to respond to new demands or opportunities.
 - **Scope and responsibilities**: A strategy helps clarify what should be coordinated at Node level and what remains with individual institutions, projects, services or teams. It does not require every partner to work in the same way.
@@ -50,6 +50,8 @@ Funders and national partners often expect this kind of clarity. Changes in requ
 ## What a data management strategy is and does
 
 {% include callout.html type="note" content="A strategy is not a complex policy document. It is a simple way to bring clarity to how data is managed across the Node or institution." %}
+
+The exact format can differ between Nodes. A strategy may be a short standalone document of around 1–3 pages, or a clearly identifiable part of a broader Node plan. See the [Node examples page]({{ site.baseurl }}/examples-01-dm) for examples of how Nodes have approached this.
 
 A strategy has a few key characteristics:
 - **A short, practical document**: A strategy outlines the main goals of the Node, the data landscape it serves and the principles that guide its work.
@@ -104,12 +106,14 @@ Now look at what you can already build on. A strategy links existing work. Nodes
 Before moving on, write this down. It will help you make the next steps more concrete.
 
 1. **Think about what already exists**  
-   Write down three to five items related to data management in your Node. These may include policies, services, tools, training, roles, expertise, partnerships or existing working arrangements.
+   Write down three to five concrete examples from your Node; things people already use, rely on or refer to when managing data. For example: What guidance exists? What services or tools are available? Who provides expertise or support? What training is offered? Which partnerships or working arrangements already help coordinate data management?
 
-2. **Group and connect them**  
+   **Example:** Your Node may already have a data stewardship contact point, a training programme, institutional data policies and an established collaboration with a national repository.
+   
+3. **Group and connect them**  
    Which items belong together? Who is responsible for them? Are there overlaps, unclear connections or areas that are difficult to find?
 
-3. **Reflect**  
+4. **Reflect**  
    What feels clear and well connected? What feels fragmented, difficult to find or unclear in ownership? Before identifying a gap, check whether the activity or expertise may already exist elsewhere in the Node.
 
 The aim is not to create a complete inventory. It is to identify where existing work can be connected and where greater clarity or coordination may be needed.
