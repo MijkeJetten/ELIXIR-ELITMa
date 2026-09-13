@@ -110,10 +110,10 @@ Before moving on, write this down. It will help you make the next steps more con
 
    **Example:** Your Node may already have a data stewardship contact point, a training programme, institutional data policies and an established collaboration with a national repository.
    
-3. **Group and connect them**  
+2. **Group and connect them**  
    Which items belong together? Who is responsible for them? Are there overlaps, unclear connections or areas that are difficult to find?
 
-4. **Reflect**  
+3. **Reflect**  
    What feels clear and well connected? What feels fragmented, difficult to find or unclear in ownership? Before identifying a gap, check whether the activity or expertise may already exist elsewhere in the Node.
 
 The aim is not to create a complete inventory. It is to identify where existing work can be connected and where greater clarity or coordination may be needed.
@@ -139,7 +139,11 @@ You do not need everyone involved from the beginning. Start with the perspective
 **Related examples**  
 [ELIXIR Norway on bringing infrastructures together]({{ site.baseurl }}/examples-01-dm#elixir-norway-bringing-infrastructures-together) and [ELIXIR Spain on Research Data Management training to boost capacity building and community engagement]({{ site.baseurl }}/examples-01-dm#elixir-spain-research-data-management-training-to-boost-capacity-building-and-community-engagement).
 
-{% include callout.html type="warning" content="If only one or two perspectives are represented, important aspects of the data landscape may be missed. If some perspectives are not available within your Node, consider involving relevant partners or checking your emerging strategy with them later. See [Roles, competences and your Node team]({{ site.baseurl }}/roles-competences-dm) for examples of how relevant expertise may sit across different people and organisations." %}
+{% capture perspectives_warning %}
+If only one or two perspectives are represented, important aspects of the data landscape may be missed. If some perspectives are not available within your Node, consider involving relevant partners or checking your emerging strategy with them later. See <a href="{{ site.baseurl }}/roles-competences-dm">Roles, competences and your Node team</a> for examples of how relevant expertise may sit across different people and organisations.
+{% endcapture %}
+
+{% include callout.html type="warning" content=perspectives_warning %}
 
 ## What’s next
 
