@@ -19,11 +19,15 @@ learning_outcomes:
 
 {% include module-metadata.html %}
 
-This module takes you through the main steps for developing or refining a Node data management strategy. You can start from scratch, build on what you already have or return to individual chapters when a particular question needs attention.
+This module takes you through the main steps for developing or refining a Node data management strategy.
+
+A Node data management strategy describes how a Node wants to organise, support and develop data management across its activities and partnerships. It is broader than a Data Management Plan (DMP), which usually focuses on how data will be managed within a specific research project. A Node strategy looks across projects and institutions and considers priorities, responsibilities, services, expertise, resources and longer term development.
+
+As you work through the module, you will build the main elements of such a strategy. You can start from scratch, build on what you already have or return to individual chapters when a particular question needs attention.
 
 ## What to expect
 
-| Chapter | Question | What you will have |
+| Chapter | Question | What you will produce |
 | --- | --- | --- |
 | **1. Why a Node data management strategy** | Why do you need one? | A clear reason and starting point |
 | **2. Understanding your Node context** | What situation are you working in? | An overview of your Node context, connections and responsibilities |
@@ -33,7 +37,7 @@ This module takes you through the main steps for developing or refining a Node d
 | **6. Turning direction into a plan** | What will you do next? | A practical plan with actions, leads, resources and dependencies |
 | **7. Keeping the strategy alive** | How will you keep it useful? | An approach for reviewing, updating and sustaining the strategy |
 
-{% include callout.html type="note" content="The module moves from understanding to action. You define what the strategy should cover, assess the current situation, decide the desired direction and priorities, turn these into actions and agree how progress will be reviewed." %}
+Together, these chapters take you from defining the scope of the strategy to putting it into action and keeping it up to date.
 
 {% include callout.html type="tip" content="You can work through the full module or return to individual chapters when your Node needs to revisit a particular question." %}
 
