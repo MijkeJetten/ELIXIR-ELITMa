@@ -8,7 +8,7 @@ audience: [Node Coordinators, Data Stewards]
 time: 45 minutes
 status: ready
 sidebar: module-data-management
-summary: Data management activities often develop separately across governance, services and support structures. The Global Open Research Commons (GORC) model helps bring these elements together, identify relevant areas and draft a simple strategy outline.
+summary: Data management activities often develop separately across governance, services and support structures. This chapter helps you bring these elements together, identify the areas most relevant to your Node and draft a simple strategy outline, using a shared framework called the Global Open Research Commons (GORC) model.
 related_pages:
   Real_world_example:
   - gorc-framework-dm
@@ -22,25 +22,16 @@ learning_outcomes:
 
 {% include module-metadata.html %}
 
-In the previous chapters, you clarified why your Node needs a data management strategy and identified a starting point. You then developed a first overview of your Node context and identified the people who can help take the work forward.
-
-In this chapter, you will use that overview to identify and organise the main areas to include in your strategy.
+In Chapter 1, you set out why your Node needs a data management strategy and identified a starting point. In Chapter 2, you developed a first overview of your Node context and identified the people who can help move the work forward. In this chapter, you will use that overview to identify and organise the main areas to include in your strategy.
 
 ## Two complementary frameworks
 
 This module uses two complementary frameworks:
 
-* **Structuring the content of your strategy** using the Global Open Research Commons (GORC) model
-* **Assessing selected areas** using the Data Stewardship Handbook maturity model
+* **Structuring the content of your strategy** using the [Global Open Research Commons (GORC) International Model](https://datascience.codata.org/articles/10.5334/dsj-2024-056), developed through a Research Data Alliance (RDA) working group. The GORC model describes *what areas the strategy should cover, and how they relate to each other?*
+* **Assessing selected areas** using the [Data Stewardship Handbook Maturity Model](https://elixir-europe.github.io/ds-handbook/maturity-model). The Maturity Model describes *how well is each area currently developed, and where is there room for improvement?*
 
-The GORC model supports the question: *what should the strategy cover, and how do these areas relate to each other?*
-
-In this chapter, you will use the GORC model to structure the content of your strategy and identify the areas that are most relevant to your Node. In the next chapter, you will use the maturity model to assess how well selected areas are developed and identify possible improvements.
-
-You can read more about the two frameworks here:
-
-* [Global Open Research Commons model](https://datascience.codata.org/articles/10.5334/dsj-2024-056)
-* [Data Stewardship Handbook maturity model](https://elixir-europe.github.io/ds-handbook/maturity-model)
+In this chapter, you will use the GORC model to structure the content of your strategy and identify the areas that are most relevant to your Node. In the next chapter, you will use the Maturity Model to assess how well selected areas are developed and identify possible improvements.
 
 ## Why defining the content matters
 
@@ -143,4 +134,4 @@ Use the completed table as a first outline for your strategy. You can add more d
 
 You have identified the main areas to include in your strategy and created a first outline.
 
-In the next chapter, you will use the Data Stewardship Handbook maturity model to assess how well selected areas are developed and identify possible improvements.
+In the next chapter, you will use the Data Stewardship Handbook Maturity Model to assess how well selected areas are developed and identify possible improvements.
