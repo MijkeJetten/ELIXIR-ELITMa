@@ -17,7 +17,7 @@ RDM services may be supported in different ways, and the model can change over t
 
 Some activities may depend on time-limited projects. Others may receive institutional or structural funding. In practice, several sources can also be combined.
 
-During the Finland workshop, ELIXIR France and ELIXIR Luxembourg provided examples of these different situations. France described RDM activities supported through projects and institutional contributions, while Luxembourg described structural public funding as part of its context. In both examples, questions about longer-term sustainability were still being developed.
+During the Espoo workshop, ELIXIR France and ELIXIR Luxembourg provided examples of these different situations. France described RDM activities supported through projects and institutional contributions, while Luxembourg described structural public funding as part of its context. In both examples, questions about longer-term sustainability were still being developed.
 
 ## What can Nodes learn from this?
 
