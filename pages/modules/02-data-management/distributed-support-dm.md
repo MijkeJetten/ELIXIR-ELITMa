@@ -7,7 +7,7 @@ page_id: distributed-support-dm
 type: Real_world_example
 ---
 
-This case study draws on presentations, discussions and Node portfolios from the Espoo edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials, shared notes and Node portfolios are available through the [ELITMa Finland workshop materials](https://doi.org/10.5281/zenodo.10895079).
+This case study draws on presentations, discussions and Node portfolios from the Espoo edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials, shared notes and Node portfolios are available through the [ELITMa Espoo workshop materials](https://doi.org/10.5281/zenodo.10895079).
 
 Several Nodes described RDM support that was already spread across universities, infrastructures, projects and support teams. The issue was therefore not simply whether support existed, but how visible and connected it was, who was responsible for what and which activities depended on others.
 
@@ -27,6 +27,11 @@ This means that understanding your RDM landscape involves more than listing serv
 
 ## What can you do?
 
-Use your overview of the current Node context to look at how the different parts of the RDM landscape connect. Where support already works well across organisations, this may be something to build on. Where responsibilities, dependencies or routes to support are unclear, stronger coordination may be useful.
+Use your overview of the current Node context to look at how the different parts of the RDM landscape connect.
+
+Ask:
+
+* Where does support already work well across organisations, and could the Node build on it?
+* Where are responsibilities, dependencies or routes to support currently unclear?
 
 At this stage, the aim is not yet to decide which activities the Node should take on. First make visible how the current support landscape works in practice.
