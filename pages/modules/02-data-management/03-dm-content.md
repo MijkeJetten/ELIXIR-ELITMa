@@ -35,13 +35,13 @@ In this chapter, you will use the GORC model to structure the content of your st
 
 ## Why defining the content matters
 
-A Node data management strategy works best when it focuses on the areas that are relevant to the Node. It does not need to cover everything, but it should make clear what belongs in the strategy and how the different areas connect.
+- A Node data management strategy works best when it focuses on the areas that are relevant to the Node. It does not need to cover everything, but it should make clear what belongs in the strategy and how the different areas connect.
 
-Defining the content means deciding which topics belong in the strategy and how they relate to each other. This helps turn a broad overview of services, roles and activities into a manageable set of strategic areas.
+- Defining the content means deciding which topics belong in the strategy and how they relate to each other. This helps turn a broad overview of services, roles and activities into a manageable set of strategic areas.
 
-Without a clear scope, important areas may be overlooked or too many topics may be addressed at once. A defined scope helps you connect existing work and identify where greater clarity or coordination may be needed.
+- Without a clear scope, important areas may be overlooked or too many topics may be addressed at once. A defined scope helps you connect existing work and identify where greater clarity or coordination may be needed.
 
-It also makes the strategy easier to discuss with the people involved. They can see which areas are included, why they matter and where their input is needed.
+- It also makes the strategy easier to discuss with the people involved. They can see which areas are included, why they matter and where their input is needed.
 
 {% include callout.html type="note" content="You do not need to cover everything. A focused strategy that reflects your Node context is more useful than a complete but unrealistic overview." %}
 
@@ -132,6 +132,4 @@ Use the completed table as a first outline for your strategy. You can add more d
 
 ## What’s next
 
-You have identified the main areas to include in your strategy and created a first outline.
-
-In the next chapter, you will use the Data Stewardship Handbook Maturity Model to assess how well selected areas are developed and identify possible improvements.
+You have identified the main areas to include in your strategy and created a first outline. In the next chapter, you will use the Data Stewardship Handbook Maturity Model to assess how well selected areas are developed and identify possible improvements.
