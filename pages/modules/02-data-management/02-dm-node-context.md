@@ -14,6 +14,7 @@ related_pages:
   - examples-02-dm
   - distributed-support-dm
   - roles-competences-dm
+  - funders-dm
 learning_outcomes:
     - Describe the key elements that shape your Node context for data management
     - Identify the perspectives needed to begin developing a Node data management strategy
@@ -27,11 +28,11 @@ In the previous chapter, you reflected on why a Node data management strategy ma
 You can use the <a href="{{ site.baseurl }}/examples-02-dm">Node examples page</a> for inspiration while working through this chapter. The examples show how different Nodes explored their context and organised their first steps in practice.
 {% endcapture %}
 
-{% include callout.html type="important" content=examples_callout %}
+{% include callout.html type="tip" content=examples_callout %}
 
 ## Why the Node context matters
 
-A data management strategy must reflect the real situation of the Node. Each Node brings together different institutions, services, research communities, projects and national initiatives. These may have their own priorities, responsibilities, resources and ways of working. Without a basic understanding of this landscape, it becomes difficult to define a realistic scope, understand responsibilities or identify where coordination at Node level can add value.
+A data management strategy must reflect the real situation of the Node. Each Node brings together different institutions, services, research communities, projects and national initiatives. These may have their own priorities, responsibilities, resources, ways of working and users that they serve. Without a basic understanding of this landscape, it becomes difficult to define a realistic scope, understand responsibilities or identify where coordination at Node level can add value.
 
 Much of the relevant work may already exist, but it can be spread across organisations, projects or teams and may not be visible to everyone. Understanding the Node context helps identify existing expertise, services and connections before deciding that something new is needed.
 
@@ -50,18 +51,23 @@ Start by building a simple overview of your Node context. You do not need great 
 
 Use these questions to guide your first overview.
 
+{% include callout.html type="note" content="This chapter is designed to take about 45 minutes to read through and get started. Building a complete context overview and setting up your initial team may take longer, treat these exercises as something to pick up, share with colleagues and return to, rather than finish in one sitting." %}
+
 | Area | Questions to guide you | Example |
 | --- | --- | --- |
+| **Policies, standards and wider initiatives** | Which institutional, national, funder or ELIXIR policies, standards, strategies and initiatives are relevant? | FAIR principles, national guidelines and the Node Service Delivery Plan |
 | **Governance and responsibilities** | Who makes decisions about data management? Where are these discussed or approved? Which responsibilities sit at Node, institutional, project or service level? | Decisions made by the Node coordinator and steering group, with services managed by partner institutions |
 | **Data and research landscape** | Which research domains, communities, data types and workflows are present? Are there important differences between institutions or groups? | Life sciences and clinical data managed through different institutional workflows |
 | **Services, tools and expertise** | Which services, tools, training activities and areas of expertise already exist or are being developed? Who provides, uses and maintains them? | Repository, helpdesk, training programme and expertise in Data Management Plans |
 | **Connections and dependencies** | How do services, teams and activities relate to each other? Where do they depend on one another or contribute to shared goals? | Two teams with different remits jointly supporting parts of the research data lifecycle |
-| **Policies, standards and wider initiatives** | Which institutional, national, funder or ELIXIR policies, standards, strategies and initiatives are relevant? | FAIR principles, national guidelines and the Node Service Delivery Plan |
 | **Needs and gaps** | Which questions, support needs or training needs occur across the Node? Where is awareness limited or support difficult to find? | Different levels of awareness and demand for basic and advanced RDM training |
 | **Sustainability** | How are activities funded, staffed and maintained? What is stable, changing or uncertain? | Project funding, limited staff continuity or unclear long-term ownership |
 
 **Related examples**  
 [ELIXIR Spain on understanding the Node RDM landscape and needs]({{ site.baseurl }}/examples-02-dm#elixir-spain-understanding-the-node-rdm-landscape-and-needs) and [ELIXIR Sweden on mapping the data service landscape]({{ site.baseurl }}/examples-02-dm#elixir-sweden-mapping-the-data-service-landscape).
+
+**Related perspective**  
+[Funders as drivers for FAIRification strategies]({{ site.baseurl }}/funders-dm).
 
 {% include callout.html type="tip" content="Use what already exists. Strategies, Service Delivery Plans, surveys, service lists, maturity assessments and earlier mappings can all provide a starting point. The overview does not need to be created from scratch." %}
 
@@ -87,7 +93,7 @@ Before describing something as a gap, check whether the activity or expertise ma
 
 ## Building the initial team
 
-Once you have a basic understanding of your Node context, bring together a small group to take the work forward. Use your context overview to identify which perspectives are needed at the start.
+Once you have a basic understanding of your Node context, bring together a small group to take the work forward. Use the context overview you built earlier in this chapter to identify which perspectives are needed at the start.
 
 Begin with two or three people. They do not need to represent the whole Node or form the final working group. They should be able to compare different views of the Node, identify important questions or areas to explore and recognise who else needs to be involved.
 
@@ -145,8 +151,6 @@ Then agree on a practical way to begin.
 
 ## What’s next
 
-You now have a first overview of your Node context, the main connections and gaps, and the people who can help shape the strategy.
-
-In the next chapter, you will use this overview to decide what the strategy should cover and begin structuring its content.
+You now have a first overview of your Node context, the main connections and gaps, and the people who can help shape the strategy. In the next chapter, you will use this overview to decide what the strategy should cover and begin structuring its content.
 
 {% include callout.html type="important" content="Keep your context overview and first working arrangements available for the next chapter. They are working documents that can be refined as you make choices about the strategy and involve more people." %}
