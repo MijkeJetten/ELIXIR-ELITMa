@@ -28,7 +28,7 @@ In Chapter 1, you set out why your Node needs a data management strategy and ide
 
 This module uses two complementary frameworks:
 
-* **Structuring the content of your strategy** using the [Global Open Research Commons (GORC) International Model](https://datascience.codata.org/articles/10.5334/dsj-2024-056), developed through a Research Data Alliance (RDA) working group. The GORC model describes *what areas the strategy should cover, and how they relate to each other?*
+* **Structuring the content of your strategy** using the [Global Open Research Commons (GORC) International Model]({{ site.baseurl }}/gorc-framework-dm), developed through a Research Data Alliance (RDA) working group. The GORC model describes *what areas the strategy should cover, and how they relate to each other?*
 * **Assessing selected areas** using the [Data Stewardship Handbook Maturity Model](https://elixir-europe.github.io/ds-handbook/maturity-model). The Maturity Model describes *how well is each area currently developed, and where is there room for improvement?*
 
 In this chapter, you will use the GORC model to structure the content of your strategy and identify the areas that are most relevant to your Node. In the next chapter, you will use the Maturity Model to assess how well selected areas are developed and identify possible improvements.
@@ -53,9 +53,11 @@ You will use its essential elements to review your Node context overview, identi
 
 The essential elements can be grouped as follows:
 
-* **Technical elements:** Compute, storage, network and authentication and authorisation infrastructure (AAI); services and tools; research objects
-* **Interoperability and standards:** Interoperability and standards
-* **Organisational and human elements:** Governance structures; rules of participation and access; engagement; human capacity; sustainability
+| Category | Elements | Example |
+| --- | --- | --- |
+| Technical elements | Compute, storage, network and authentication and authorisation infrastructure (AAI); services and tools; research objects | A national compute cluster, a metadata catalogue, a shared data platform |
+| Interoperability and standards | Interoperability and standards | Common metadata schemas, persistent identifiers, shared vocabularies |
+| Organisational and human elements | Governance structures; rules of participation and access; engagement; human capacity; sustainability | A Node Coordinator role, a data access policy, training for researchers |
 
 The elements are connected. Services depend on infrastructure, standards support interoperability and governance and human capacity shape how the commons works in practice.
 
@@ -65,11 +67,27 @@ Using the framework helps you:
 * see connections between different areas
 * identify which areas are relevant to your strategy
 
-{% include callout.html type="important" content="The GORC model is not prescriptive. Focus on the elements that are most relevant to your Node and strategy." %}
+{% include callout.html type="important" content="The GORC model is not prescriptive, focus on the elements that are most relevant to your Node and strategy. Read the Understanding the GORC framework page in detail before starting the exercises below, it explains the essential elements you will need." %}
 
-For more background, see the <a href="{{ site.baseurl }}/gorc-framework-dm">Understanding the GORC framework</a> page.
+See <a href="{{ site.baseurl }}/gorc-framework-dm">Understanding the GORC framework</a> for the full explanation, and <a href="{{ site.baseurl }}/gorc-elixir-dm">Why use GORC in ELIXIR?</a> to see how the framework relates to ELIXIR Nodes and distributed infrastructure.
 
-To explore how the framework relates to ELIXIR Nodes and distributed infrastructure, see <a href="{{ site.baseurl }}/gorc-elixir-dm">Why use GORC in ELIXIR?</a>.
+## Example: mapping GORC elements
+
+The example below shows how the GORC elements could be mapped. It is illustrative and is not based on a specific ELIXIR Node.
+
+| GORC element | Current situation | Connections |
+| --- | --- | --- |
+| Governance structures | Defined roles such as Node Coordinator, Training Coordinator and Technical Coordinator, with coordination embedded in national initiatives and European collaborations | Governance connects roles and responsibilities with decisions about services, priorities and resources |
+| Rules of participation and access | National and European policies, FAIR principles and data access frameworks, with alignment to initiatives such as EOSC and national infrastructures | Rules and access connect policy requirements with governance, services, research objects and daily practice |
+| Services and tools | Data platforms, workflow tools, FAIR support services and training registries such as TeSS, with contributions to shared service ecosystems | Services depend on infrastructure, standards, expertise and governance, and support researchers in managing and reusing data |
+| Compute, storage, network and AAI | Compute, storage and data infrastructure distributed across institutions and connected to national infrastructures | Infrastructure supports services, research objects and data processing, and depends on coordination and sustainable resources |
+| Research objects | Diverse datasets, metadata schemas and research outputs across domains, supported by FAIRification workflows and data stewardship practices | Research objects connect to services, standards, infrastructure and the communities that create and use them |
+| Interoperability and standards | Interoperability tools, FAIR workflows, metadata standards and identifier systems, with contributions to shared standards and platforms | Standards connect research objects, services and infrastructure and support reuse across projects and domains |
+| Human capacity | Training programmes, data stewardship support and community networks | Human capacity supports the development, delivery and use of services and connects technical work with research communities |
+| Engagement | Collaboration with research communities, participation in ELIXIR Platforms and other European networks, and community driven initiatives | Engagement connects community needs and feedback with services, training, governance and strategic priorities |
+| Sustainability | Institutional, national and project based funding, with activities embedded in national and European infrastructures | Sustainability supports the continuity of services, infrastructure, expertise and coordination |
+
+{% include callout.html type="note" content="This is an illustrative example. You do not need to map every element. Select the elements that are most relevant to your Node and strategy." %}
 
 ## Reflection: recognise the GORC elements
 
@@ -84,7 +102,7 @@ Consider the following questions:
 
 Record your initial observations. You will use them in the next exercise.
 
-{% include callout.html type="tip" content="Focus on how the different parts of your Node connect. You do not need to describe every activity in detail." %}
+{% include callout.html type="tip" content="Not sure what counts as a GORC element? Use the examples in the table above as a starting point. Focus on how the different parts of your Node connect, you do not need to describe every activity in detail." %}
 
 ## Exercise: map selected GORC elements
 
@@ -97,24 +115,6 @@ For each element, describe what is already in place and how it connects to other
 | Select an element | Add relevant roles, services, activities or resources | Note links with other GORC elements |
 
 {% include callout.html type="tip" content="Keep your descriptions short and focused. The purpose is to understand the structure, not to assess how well each area is developed." %}
-
-### What your result could look like
-
-The example below shows how the GORC elements could be mapped. It is illustrative and is not based on a specific ELIXIR Node.
-
-| GORC element | Current situation | Connections |
-| --- | --- | --- |
-| Governance structures | Defined roles such as Node Coordinator, Training Coordinator and Technical Coordinator, with coordination embedded in national initiatives and European collaborations | Governance connects roles and responsibilities with decisions about services, priorities and resources |
-| Rules of participation and access | National and European policies, FAIR principles and data access frameworks, with alignment to initiatives such as EOSC and national infrastructures | Rules and access connect policy requirements with governance, services, research objects and daily practice |
-| Services and tools | Data platforms, workflow tools and FAIR support services, with contributions to shared service ecosystems and ELIXIR Platforms | Services depend on infrastructure, standards, expertise and governance, and support researchers in managing and reusing data |
-| Compute, storage, network and AAI | Compute, storage and data infrastructure distributed across institutions and connected to national infrastructures | Infrastructure supports services, research objects and data processing, and depends on coordination and sustainable resources |
-| Research objects | Diverse datasets, metadata schemas and research outputs across domains, supported by FAIRification workflows and data stewardship practices | Research objects connect to services, standards, infrastructure and the communities that create and use them |
-| Interoperability and standards | Interoperability tools, FAIR workflows, metadata standards and identifier systems, with contributions to shared standards and platforms | Standards connect research objects, services and infrastructure and support reuse across projects and domains |
-| Human capacity | Training programmes, data stewardship support, community networks and participation in European training platforms such as TeSS | Human capacity supports the development, delivery and use of services and connects technical work with research communities |
-| Engagement | Collaboration with research communities, participation in European networks and community driven initiatives | Engagement connects community needs and feedback with services, training, governance and strategic priorities |
-| Sustainability | Institutional, national and project based funding, with activities embedded in national and European infrastructures | Sustainability supports the continuity of services, infrastructure, expertise and coordination |
-
-{% include callout.html type="note" content="This is an illustrative example. You do not need to map every element. Select the elements that are most relevant to your Node and strategy." %}
 
 ## Exercise: draft your strategy outline
 
