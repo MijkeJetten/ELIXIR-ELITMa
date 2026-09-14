@@ -26,7 +26,7 @@ Developing a shared approach to data management is not always straightforward in
 You can use the <a href="{{ site.baseurl }}/examples-01-dm">Node examples page</a> for inspiration while working through this chapter. The examples show how different Nodes used practical activities, existing resources and early discussions to begin developing a more coordinated approach.
 {% endcapture %}
 
-{% include callout.html type="important" content=examples_callout %}
+{% include callout.html type="tip" content=examples_callout %}
 
 ## Why a data management strategy matters
 
