@@ -7,7 +7,7 @@ page_id: sustain-models-dm
 type: Real_world_example
 ---
 
-This page draws on presentations and portfolio discussions from the Finland edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials are available through the [ELITMa Finland workshop materials](https://doi.org/10.5281/zenodo.10895079).
+This page draws on presentations and portfolio discussions from the Espoo edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials are available through the [ELITMa Espoo workshop materials](https://doi.org/10.5281/zenodo.10895079).
 
 The workshop showed that Nodes can be in quite different situations when considering how Research Data Management (RDM) services are supported over time. Examples discussed included project funding, institutional contributions and structural public funding. Longer-term arrangements were not always fully defined.
 
