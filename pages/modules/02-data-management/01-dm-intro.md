@@ -43,7 +43,7 @@ Funders and national partners often expect this kind of clarity. Changes in requ
 [ELIXIR Luxembourg on the why of a written data management strategy]({{ site.baseurl }}/examples-01-dm#elixir-luxembourg-why-a-written-data-management-strategy) and [ELIXIR Sweden on clarifying the Node remit]({{ site.baseurl }}/examples-01-dm#elixir-sweden-clarifying-the-node-remit).
 
 **Related perspective**  
-[How funders can drive FAIRification strategies]({{ site.baseurl }}/funders-dm).
+[Funders as drivers for FAIRification strategies]({{ site.baseurl }}/funders-dm).
 
 {% include callout.html type="note" content="Developing a strategy is not the responsibility of a single role. It requires input from coordination, data stewardship, technical teams and user-facing support to reflect the full data landscape." %}
 
