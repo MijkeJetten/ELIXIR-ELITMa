@@ -7,7 +7,7 @@ page_id: roles-competences-dm
 type: Real_world_example
 ---
 
-This case study draws on presentations, exercises and discussions from the Espoo edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials and shared notes are available through the [ELITMa Finland workshop materials](https://doi.org/10.5281/zenodo.10895079).
+This case study draws on presentations, exercises and discussions from the Espoo edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials and shared notes are available through the [ELITMa Espoo workshop materials](https://doi.org/10.5281/zenodo.10895079).
 
 One of the workshop exercises asked participants to look at the competences available in their current Node team and those they might need in future. The discussion showed that this is not only about defining job roles. Relevant expertise may already be spread across partner institutions, infrastructures and support teams.
 
