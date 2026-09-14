@@ -51,7 +51,7 @@ Start by building a simple overview of your Node context. You do not need great 
 
 Use these questions to guide your first overview.
 
-{% include callout.html type="note" content="This chapter is designed to take about 45 minutes to read through and get started. Building a complete context overview and setting up your initial team may take longer, treat these exercises as something to pick up, share with colleagues and return to, rather than finish in one sitting." %}
+{% include callout.html type="note" content="This chapter takes about 45 minutes to read and get started. Finishing the full exercise usually takes longer. That's fine, pick it back up later." %}
 
 | Area | Questions to guide you | Example |
 | --- | --- | --- |
