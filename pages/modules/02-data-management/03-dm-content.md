@@ -29,7 +29,7 @@ In Chapter 1, you set out why your Node needs a data management strategy and ide
 This module uses two complementary frameworks:
 
 * **Structuring the content of your strategy** using the [Global Open Research Commons (GORC) International Model]({{ site.baseurl }}/gorc-framework-dm), developed through a Research Data Alliance (RDA) working group. The GORC model describes *what areas the strategy should cover, and how they relate to each other?*
-* **Assessing selected areas** using the [Data Stewardship Handbook Maturity Model](https://elixir-europe.github.io/ds-handbook/maturity-model). The Maturity Model describes *how well is each area currently developed, and where is there room for improvement?*
+* **Assessing selected areas** using the [Maturity Model](https://elixir-europe.github.io/ds-handbook/maturity-model) from the Data Stewardship Handbook. The Maturity Model describes *how well is each area currently developed, and where is there room for improvement?*
 
 In this chapter, you will use the GORC model to structure the content of your strategy and identify the areas that are most relevant to your Node. In the next chapter, you will use the Maturity Model to assess how well selected areas are developed and identify possible improvements.
 
@@ -51,12 +51,14 @@ The Global Open Research Commons (GORC) model provides a common language and str
 
 You will use its essential elements to review your Node context overview, identify relevant areas and organise them within your strategy.
 
+{% include callout.html type="note" content="GORC's model itself has one top-level building block, the Essential Element — ten in total: Governance & Leadership, Rules of Participation & Access, Sustainability, Engagement, Human Capacity, ICT Infrastructure, Interoperability, Standards & Conventions, Services & Tools, and Research Objects. Version 1.1 of the model separated Interoperability from Standards & Conventions, which were previously combined as a single element. Each element is broken down further into Categories, Subcategories, Attributes and Features. Below, we group these ten elements into three broader clusters to make them easier to work with in this module; these clusters are our own simplification, not official GORC terminology." %}
+
 The essential elements can be grouped as follows:
 
-| Category | Elements | Example |
+| Cluster | Elements | Example |
 | --- | --- | --- |
 | Technical elements | Compute, storage, network and authentication and authorisation infrastructure (AAI); services and tools; research objects | A national compute cluster, a metadata catalogue, a shared data platform |
-| Interoperability and standards | Interoperability and standards | Common metadata schemas, persistent identifiers, shared vocabularies |
+| Interoperability and standards | Interoperability; Standards & Conventions | Common metadata schemas, persistent identifiers, shared vocabularies |
 | Organisational and human elements | Governance structures; rules of participation and access; engagement; human capacity; sustainability | A Node Coordinator role, a data access policy, training for researchers |
 
 The elements are connected. Services depend on infrastructure, standards support interoperability and governance and human capacity shape how the commons works in practice.
@@ -82,7 +84,8 @@ The example below shows how the GORC elements could be mapped. It is illustrativ
 | Services and tools | Data platforms, workflow tools, FAIR support services and training registries such as TeSS, with contributions to shared service ecosystems | Services depend on infrastructure, standards, expertise and governance, and support researchers in managing and reusing data |
 | Compute, storage, network and AAI | Compute, storage and data infrastructure distributed across institutions and connected to national infrastructures | Infrastructure supports services, research objects and data processing, and depends on coordination and sustainable resources |
 | Research objects | Diverse datasets, metadata schemas and research outputs across domains, supported by FAIRification workflows and data stewardship practices | Research objects connect to services, standards, infrastructure and the communities that create and use them |
-| Interoperability and standards | Interoperability tools, FAIR workflows, metadata standards and identifier systems, with contributions to shared standards and platforms | Standards connect research objects, services and infrastructure and support reuse across projects and domains |
+| Interoperability | Interoperability tools and FAIR workflows that support connections between systems, platforms and communities | Interoperability connects services, infrastructure and standards, and depends on shared standards being in place |
+| Standards & Conventions | Metadata standards and identifier systems, with contributions to shared standards and platforms | Standards and conventions connect research objects, services and infrastructure and support reuse across projects and domains |
 | Human capacity | Training programmes, data stewardship support and community networks | Human capacity supports the development, delivery and use of services and connects technical work with research communities |
 | Engagement | Collaboration with research communities, participation in ELIXIR Platforms and other European networks, and community driven initiatives | Engagement connects community needs and feedback with services, training, governance and strategic priorities |
 | Sustainability | Institutional, national and project based funding, with activities embedded in national and European infrastructures | Sustainability supports the continuity of services, infrastructure, expertise and coordination |
@@ -132,4 +135,4 @@ Use the completed table as a first outline for your strategy. You can add more d
 
 ## What’s next
 
-You have identified the main areas to include in your strategy and created a first outline. In the next chapter, you will use the Data Stewardship Handbook Maturity Model to assess how well selected areas are developed and identify possible improvements.
+You have identified the main areas to include in your strategy and created a first outline. In the next chapter, you will use the Maturity Model from the Data Stewardship Handbook to assess how well selected areas are developed and identify possible improvements.
