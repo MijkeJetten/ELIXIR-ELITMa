@@ -150,8 +150,6 @@ For example:
 
 This can reveal useful questions about coordination without assuming that every activity needs to be provided at Node level.
 
-{% include callout.html type="warning" content="A lower maturity level does not automatically mean that the Node should create a new service or take on a new responsibility. First understand who currently provides the activity and where responsibility belongs." %}
-
 ## What your assessment could look like
 
 Imagine that your strategy outline includes **human capacity** as one of the areas you selected.
@@ -183,7 +181,7 @@ Keep these observations with your strategy outline.
 
 You will use them in the next chapter to decide which areas should be developed further and what a realistic future direction could look like.
 
-{% include callout.html type="note" content="You do not need to assess the complete Maturity Model. Return to it when other areas become relevant or when you review your strategy later." %}
+{% include callout.html type="note" content="Return to other areas of the Maturity Model when they become relevant." %}
 
 ## What’s next
 
