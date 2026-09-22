@@ -32,12 +32,15 @@ You can use the <a href="{{ site.baseurl }}/examples-01-dm">Node examples page</
 
 ELIXIR Nodes bring together many institutions, services and communities. Each group works with data in different ways. Without a shared direction, coordination becomes difficult. A strategy helps create this direction and provides clarity.
 
+Strategy development is often triggered by external drivers such as funder requirements, national open science policies, infrastructure evaluations or new opportunities for collaboration.
+
 - **Direction and priorities**: A strategy shows what the Node wants to achieve in data management and where it wants to focus its efforts.
 - **Efficiency and shared understanding**: It reduces duplication, improves communication and helps staff understand their roles.
 - **Planning and sustainability**: A strategy supports long-term planning. It helps the Node decide which services to maintain, where to invest effort and how to respond to new demands or opportunities.
 - **Scope and responsibilities**: A strategy helps clarify what should be coordinated at Node level and what remains with individual institutions, projects, services or teams. It does not require every partner to work in the same way.
+- **Mandate and legitimacy**: A strategy helps explain why certain activities belong at Node level. It gives a transparent basis for decisions about priorities, investments and coordination.
 
-Funders and national partners often expect this kind of clarity. Changes in requirements, services or research practices can also create a practical reason to improve coordination.
+Changes in requirements, services or research practices can also create a practical reason to improve coordination.
 
 **Related examples**  
 [ELIXIR Luxembourg on the why of a written data management strategy]({{ site.baseurl }}/examples-01-dm#elixir-luxembourg-why-a-written-data-management-strategy) and [ELIXIR Sweden on clarifying the Node remit]({{ site.baseurl }}/examples-01-dm#elixir-sweden-clarifying-the-node-remit).
