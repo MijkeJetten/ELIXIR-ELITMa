@@ -23,7 +23,9 @@ This module takes you through the main steps for developing or refining a Node d
 
 A Node data management strategy describes how a Node wants to organise, support and develop data management across its activities and partnerships. It is broader than a Data Management Plan (DMP), which usually focuses on how data will be managed within a specific research project. A Node strategy looks across projects and institutions and considers priorities, responsibilities, services, expertise, resources and longer term development.
 
-As you work through the module, you will build the main elements of such a strategy. You can start from scratch, build on what you already have or return to individual chapters when a particular question needs attention.
+It is also different from a data management policy, which typically sets out formal rules or commitments, for example those required by a funder or hosting institution. A Node may already have one or more such policies in place through its hosting institution or partner organisations. A strategy works alongside these policies rather than replacing them, helping to coordinate priorities, activities and responsibilities for data management across the Node.
+
+As you work through the module, you will build the main elements of such a strategy. You can start from scratch, build on existing strategies, policies or plans, or return to individual chapters when a particular question needs attention.
 
 ## What to expect
 
@@ -37,7 +39,7 @@ As you work through the module, you will build the main elements of such a strat
 | **6. Turning direction into a plan** | What will you do next? | A practical plan with actions, leads, resources and dependencies |
 | **7. Keeping the strategy alive** | How will you keep it useful? | An approach for reviewing, updating and sustaining the strategy |
 
-Together, these chapters take you from defining the scope of the strategy to putting it into action and keeping it up to date.
+Together, these chapters take you from defining the scope of the strategy to putting it into action and keeping it alive as a living document, revisited and updated as your Node's situation changes.
 
 {% include callout.html type="tip" content="You can work through the full module or return to individual chapters when your Node needs to revisit a particular question." %}
 
