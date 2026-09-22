@@ -51,7 +51,7 @@ The Global Open Research Commons (GORC) model provides a common language and str
 
 You will use its essential elements to review your Node context overview, identify relevant areas and organise them within your strategy.
 
-{% include callout.html type="note" content="GORC's model itself has one top-level building block, the Essential Element — ten in total: Governance & Leadership, Rules of Participation & Access, Sustainability, Engagement, Human Capacity, ICT Infrastructure, Interoperability, Standards & Conventions, Services & Tools, and Research Objects. Version 1.1 of the model separated Interoperability from Standards & Conventions, which were previously combined as a single element. Each element is broken down further into Categories, Subcategories, Attributes and Features. Below, we group these ten elements into three broader clusters to make them easier to work with in this module; these clusters are our own simplification, not official GORC terminology." %}
+{% include callout.html type="note" content="GORC's own top-level building block is the essential element, ten in total since version 1.1 split Interoperability and Standards & Conventions into two separate elements. Each element is broken down further into (sub)categories, attributes and features. Below, we group the ten elements into three broader clusters for this module; these clusters are our own simplification, not official GORC terminology." %}
 
 The essential elements can be grouped as follows:
 
