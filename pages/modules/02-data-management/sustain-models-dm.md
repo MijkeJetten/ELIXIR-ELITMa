@@ -7,7 +7,7 @@ page_id: sustain-models-dm
 type: Real_world_example
 ---
 
-This page draws on presentations and portfolio discussions from the Finland edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials are available through the [ELITMa Finland workshop materials](https://doi.org/10.5281/zenodo.10895079).
+This page draws on presentations and portfolio discussions from the Espoo edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials are available through the [ELITMa Espoo workshop materials](https://doi.org/10.5281/zenodo.10895079).
 
 The workshop showed that Nodes can be in quite different situations when considering how Research Data Management (RDM) services are supported over time. Examples discussed included project funding, institutional contributions and structural public funding. Longer-term arrangements were not always fully defined.
 
@@ -17,7 +17,7 @@ RDM services may be supported in different ways, and the model can change over t
 
 Some activities may depend on time-limited projects. Others may receive institutional or structural funding. In practice, several sources can also be combined.
 
-During the Finland workshop, ELIXIR France and ELIXIR Luxembourg provided examples of these different situations. France described RDM activities supported through projects and institutional contributions, while Luxembourg described structural public funding as part of its context. In both examples, questions about longer-term sustainability were still being developed.
+During the Espoo workshop, ELIXIR France and ELIXIR Luxembourg provided examples of these different situations. France described RDM activities supported through projects and institutional contributions, while Luxembourg described structural public funding as part of its context. In both examples, questions about longer-term sustainability were still being developed.
 
 ## What can Nodes learn from this?
 

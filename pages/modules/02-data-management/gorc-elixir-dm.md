@@ -17,6 +17,8 @@ ELIXIR activities are distributed across Nodes, Platforms, Communities and the H
 
 For example, a service may depend on technical infrastructure, common standards, specialist expertise, governance arrangements and long term resources. Looking only at the service itself may therefore overlook important dependencies.
 
+ELIXIR also recognises some resources at a pan-European level. Core Data Resources (CDRs) and Recommended Interoperability Resources (RIRs), a scheme currently transitioning to FAIR-Enabling Resources (FERs), are reviewed and endorsed across ELIXIR rather than by a single Node. Infrastructure Services such as the ELIXIR AAI (Authentication and Authorisation Infrastructure) provide shared technical capability that individual services can build on rather than duplicate. Recognising a resource in this way depends on the same technical, organisational and human elements that GORC describes.
+
 GORC provides a shared structure for discussing these connections. It can help a Node bring together technical, organisational and human perspectives when developing its strategy.
 
 ## What can Nodes learn from this?
@@ -45,6 +47,8 @@ A Node can use the GORC elements to:
 * select priorities for further assessment and development
 
 The framework can also help distinguish between what the Node delivers directly, what it coordinates and what depends on collaboration with other organisations or ELIXIR structures.
+
+A Node's Service Delivery Plan (SDP) and its data management strategy are closely related. Both are built on the Node's established points of strength rather than a complete account of every possible activity. Making the connection between the two explicit can help ensure that priorities identified through GORC are also reflected in what the Node plans to deliver.
 
 ## What can you do?
 

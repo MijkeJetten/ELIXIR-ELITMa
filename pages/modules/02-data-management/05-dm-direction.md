@@ -60,11 +60,19 @@ For example, partner institutions may already provide RDM training. The Node cou
 
 {% include callout.html type="note" content="Room for improvement does not automatically mean that the Node should take on a new responsibility. Check who is best placed to act." %}
 
-## ## Clarify the Node role and decision making
+## Clarify the Node role and decision making
 
 Connect each direction to the governance and responsibilities you mapped in Chapter 2.
 
-Make clear what the Node should contribute, who can agree the direction and who needs to be involved.
+Make clear what the Node should contribute, who can agree the direction (the decision owner) and who needs to be involved.
+
+The level shows where responsibility for this direction currently sits or should sit:
+
+* **Node**: the Node takes the lead
+* **Institutional**: responsibility stays with individual institutions
+* **Shared**: the Node and institutions or other partners share responsibility
+* **External**: another organisation, such as a national infrastructure or ELIXIR Platform, is responsible
+* **Out of scope**: not something the Node needs to address right now
 
 | Strategy area | Desired direction | Level | Node role | Decision owner |
 | --- | --- | --- | --- | --- |
@@ -98,6 +106,4 @@ This does not require a new data stewardship service. The Node can add value by 
 
 ## What’s next
 
-You have defined a desired direction, clarified the Node role and chosen the priorities you want to take forward.
-
-In the next chapter, you will turn these priorities into a practical plan.
+You have defined a desired direction, clarified the Node role and chosen the priorities you want to take forward. In the next chapter, you will turn these priorities into a practical plan.

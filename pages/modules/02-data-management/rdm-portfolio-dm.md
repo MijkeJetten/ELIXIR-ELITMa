@@ -7,7 +7,7 @@ page_id: rdm-portfolio-dm
 type: Real_world_example
 ---
 
-This case study draws on the portfolio exercise, presentations and shared notes from the Finland edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials and Node portfolios are available through the [ELITMa Finland workshop materials](https://doi.org/10.5281/zenodo.10895079).
+This case study draws on the portfolio exercise, presentations and shared notes from the Espoo edition of the ELIXIR Node Data Management Strategy (NDMS) module in 2023. The original training materials and Node portfolios are available through the [ELITMa Espoo workshop materials](https://doi.org/10.5281/zenodo.10895079).
 
 During the workshop, participants used a working portfolio to bring together information about data management in their own Node. The portfolio was a structured overview in which they could note relevant activities, services, responsibilities, existing strengths and areas that still needed attention.
 

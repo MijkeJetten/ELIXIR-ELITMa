@@ -23,19 +23,19 @@ For a Node data management strategy, this broader view is useful. It helps you l
 
 ## What can Nodes learn from this?
 
-<img src="{{ '/images/data-management/GORC-model-essential-elements.png' | relative_url }}" alt="Diagram showing the nine GORC essential elements as connected technical, organisational and human components." class="img-fluid my-3">
-
-*Figure: GORC essential elements. Source: [GORC IG Typology and Definitions Diagram](https://www.rd-alliance.org/groups/global-open-research-commons-ig/outputs/), licensed under CC BY 4.0.*
-
 * **A research commons is more than infrastructure.** It brings together research objects, technical infrastructure, services, people and agreements. Its effectiveness depends on how these parts support each other.
 
 * **The essential elements form one connected system.** The original GORC typology presents nine broad elements covering technical, organisational and human aspects.
 
 * **The nine elements provide a practical structure.** These are compute, storage, network and authentication and authorisation infrastructure (AAI), services and tools, research objects, interoperability and standards, governance structures, rules of participation and access, engagement, human capacity and sustainability.
 
-* **Technical and organisational elements are interdependent.** Services depend on infrastructure, standards, expertise and sustainable resources. Research objects depend on standards, tools and clear access arrangements. Governance influences priorities and responsibilities, while engagement helps ensure that services respond to community needs.
+<img src="{{ '/images/data-management/GORC-model-essential-elements.png' | relative_url }}" alt="Diagram showing the nine GORC essential elements as connected technical, organisational and human components." class="img-fluid my-3">
+
+*Figure: GORC essential elements. Source: [GORC IG Typology and Definitions Diagram](https://www.rd-alliance.org/groups/global-open-research-commons-ig/outputs/), licensed under CC BY 4.0.*
 
 * **The visual provides a practical starting point.** It helps you review your Node context without working through the full model. It also makes connections between activities, roles and resources more visible.
+
+* **Technical and organisational elements are interdependent.** Services depend on infrastructure, standards, expertise and sustainable resources. Research objects depend on standards, tools and clear access arrangements. Governance influences priorities and responsibilities, while engagement helps ensure that services respond to community needs.
 
 * **The detailed International Model goes further.** Version 1.1 separates interoperability from standards and conventions, resulting in ten main sections. It also adds detailed categories, attributes, features and possible indicators.
 

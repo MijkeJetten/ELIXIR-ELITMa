@@ -8,7 +8,7 @@ audience: [Node Coordinators, Data Stewards]
 time: 60 minutes 
 status: ready
 sidebar: module-data-management
-summary: Data management activities already exist across roles, services, institutions and projects. The question is whether they form a coherent approach. This section explores why a coordinated strategy matters, how it can connect existing work, clarify scope and responsibilities, and support practical first steps.
+summary: Data management activities already exist across roles, services, institutions and projects. A Node data management strategy can help create a coherent and consistent approach across these activities. This section explores why a coordinated strategy matters, how it can connect existing work, clarify scope and responsibilities and support practical first steps.
 related_pages:
   Real_world_example: 
   - examples-01-dm
@@ -26,30 +26,35 @@ Developing a shared approach to data management is not always straightforward in
 You can use the <a href="{{ site.baseurl }}/examples-01-dm">Node examples page</a> for inspiration while working through this chapter. The examples show how different Nodes used practical activities, existing resources and early discussions to begin developing a more coordinated approach.
 {% endcapture %}
 
-{% include callout.html type="important" content=examples_callout %}
+{% include callout.html type="tip" content=examples_callout %}
 
 ## Why a data management strategy matters
 
 ELIXIR Nodes bring together many institutions, services and communities. Each group works with data in different ways. Without a shared direction, coordination becomes difficult. A strategy helps create this direction and provides clarity.
 
-- **Direction and clarity**: A strategy shows what the Node wants to achieve in data management. It shows how services fit together and where support is still needed.
+Strategy development is often triggered by external drivers such as funder requirements, national open science policies, infrastructure evaluations or new opportunities for collaboration.
+
+- **Direction and priorities**: A strategy shows what the Node wants to achieve in data management and where it wants to focus its efforts.
 - **Efficiency and shared understanding**: It reduces duplication, improves communication and helps staff understand their roles.
 - **Planning and sustainability**: A strategy supports long-term planning. It helps the Node decide which services to maintain, where to invest effort and how to respond to new demands or opportunities.
 - **Scope and responsibilities**: A strategy helps clarify what should be coordinated at Node level and what remains with individual institutions, projects, services or teams. It does not require every partner to work in the same way.
+- **Mandate and legitimacy**: A strategy helps explain why certain activities belong at Node level. It gives a transparent basis for decisions about priorities, investments and coordination.
 
-Funders and national partners often expect this kind of clarity. Changes in requirements, services or research practices can also create a practical reason to improve coordination.
+Changes in requirements, services or research practices can also create a practical reason to improve coordination.
 
 **Related examples**  
 [ELIXIR Luxembourg on the why of a written data management strategy]({{ site.baseurl }}/examples-01-dm#elixir-luxembourg-why-a-written-data-management-strategy) and [ELIXIR Sweden on clarifying the Node remit]({{ site.baseurl }}/examples-01-dm#elixir-sweden-clarifying-the-node-remit).
 
 **Related perspective**  
-[How funders can drive FAIRification strategies]({{ site.baseurl }}/funders-dm).
+[Funders as drivers for FAIRification strategies]({{ site.baseurl }}/funders-dm).
 
 {% include callout.html type="note" content="Developing a strategy is not the responsibility of a single role. It requires input from coordination, data stewardship, technical teams and user-facing support to reflect the full data landscape." %}
 
 ## What a data management strategy is and does
 
 {% include callout.html type="note" content="A strategy is not a complex policy document. It is a simple way to bring clarity to how data is managed across the Node or institution." %}
+
+The exact format can differ between Nodes. A strategy may be a short standalone document of around 1–3 pages, or a clearly identifiable part of a broader Node plan. See the [Node examples page]({{ site.baseurl }}/examples-01-dm) for examples of how Nodes have approached this.
 
 A strategy has a few key characteristics:
 - **A short, practical document**: A strategy outlines the main goals of the Node, the data landscape it serves and the principles that guide its work.
@@ -59,40 +64,18 @@ A strategy has a few key characteristics:
 - **A shared reference point**: It gives staff a common view of the current situation and future direction.
 - **A living document**: The strategy is light and easy to update. It can begin as a rough outline, a collection of existing materials or another simple working format and develop as the Node grows, new roles appear or priorities shift.
 
-Developing the strategy can already be useful before the document is complete. The process can make existing work more visible, connect people who do not usually work together and clarify where responsibilities or decisions are still unclear.
+Developing the strategy can already be useful before the document is complete. Having the conversations, mapping existing data management activities and discussing the direction the Node wants to take can make existing work more visible, connect people who do not usually work together and clarify where responsibilities or decisions are still unclear.
 
 **Related examples**  
 [ELIXIR Germany on connecting with national initiatives]({{ site.baseurl }}/examples-01-dm#elixir-germany-connecting-with-national-initiatives) and [ELIXIR Luxembourg on website as a collaboration platform]({{ site.baseurl }}/examples-01-dm#elixir-luxembourg-website-as-a-collaboration-platform).
-
-## Quick exercise: mapping your strategy starting point
-
-A strategy links existing work. Nodes often have policies, maturity assessments, training plans and service descriptions. The strategy brings these together and shows how each element contributes to the wider picture.
-
-Before moving on, write this down. It will help you make the next steps more concrete.
-
-1. **Think about what already exists**  
-   Write down three to five items related to data management in your Node. These may include policies, services, tools, training, roles, expertise, partnerships or existing working arrangements.
-
-2. **Group and connect them**  
-   Which items belong together? Who is responsible for them? Are there overlaps, unclear connections or areas that are difficult to find?
-
-3. **Reflect**  
-   What feels clear and well connected? What feels fragmented, difficult to find or unclear in ownership? Before identifying a gap, check whether the activity or expertise may already exist elsewhere in the Node.
-
-The aim is not to create a complete inventory. It is to identify where existing work can be connected and where greater clarity or coordination may be needed.
-
-**Related examples**  
-[ELIXIR Spain on RDM practices and challenges]({{ site.baseurl }}/examples-01-dm#elixir-spain-rdm-practices-and-challenges) and [ELIXIR Germany on differences between institutes]({{ site.baseurl }}/examples-01-dm#elixir-germany-differences-between-institutes).
-
-{% include callout.html type="tip" content="Compare your notes with a colleague. Do you see the same picture, or are there differences in perspective?" %}
 
 ## Quick reflection: risks without a data management strategy
 
 Consider your current situation:
 
 - Which decisions are currently made case by case because there is no shared direction?
-- Where could responsibilities, ownership or decision-making remain unclear?
-- Where could services, expertise or support be duplicated, overlooked or difficult to find?
+- Where do responsibilities, ownership or decision-making remain unclear?
+- Where are services, expertise or support duplicated, overlooked or difficult to find?
 - Are priorities mainly shaped by urgent requests rather than deliberate choices?
 - Which activities depend heavily on individual people, projects or temporary funding?
 - What might remain unclear for staff, partners or users?
@@ -112,15 +95,36 @@ Bring your observations together in a few sentences.
 2. **What should the strategy help clarify or improve?**  
    This might be coordination, responsibilities, visibility of existing support, sustainability or another issue that matters in your Node.
 
-3. **What can you already build on?**  
-   Note the existing documents, activities, expertise or discussions that give you a starting point.
-
-You do not need to solve these issues yet. The aim is to be clear about why you are starting and what you want the strategy process to help with.
+You do not need to solve these issues yet. The aim is to be clear about why you are starting and what you want the strategy process to help with. You will build on these observations in [Chapter 3: What to include]({{ site.baseurl }}/03-dm-content)
 
 **Related examples**  
 [ELIXIR Netherlands on identifying where the Node can add value]({{ site.baseurl }}/examples-01-dm#elixir-netherlands-identifying-where-the-node-can-add-value) and [ELIXIR Italy on inclusion in the Service Delivery Plan]({{ site.baseurl }}/examples-01-dm#elixir-italy-inclusion-in-the-service-delivery-plan).
 
-{% include callout.html type="tip" content="Keep this lightweight. A clear reason and starting point are enough for now." %}
+{% include callout.html type="tip" content="Keep this lightweight. A clear reason for starting is enough for now." %}
+
+## Quick exercise: starting your strategy
+
+Now look at what you can already build on. A strategy links existing work. Nodes often have policies, maturity assessments, training plans and service descriptions. The strategy brings these together and shows how each element contributes to the wider picture.
+
+Before moving on, write this down. It will help you make the next steps more concrete.
+
+1. **Think about what already exists**  
+   Write down three to five concrete examples from your Node; things people already use, rely on or refer to when managing data. For example: What guidance exists? What services or tools are available? Who provides expertise or support? What training is offered? Which partnerships or working arrangements already help coordinate data management?
+
+   **Example:** Your Node may already have a data stewardship contact point, a training programme, institutional data policies and an established collaboration with a national repository.
+   
+2. **Group and connect them**  
+   Which items belong together? Who is responsible for them? Are there overlaps, unclear connections or areas that are difficult to find?
+
+3. **Reflect**  
+   What feels clear and well connected? What feels fragmented, difficult to find or unclear in ownership? Before identifying a gap, check whether the activity or expertise may already exist elsewhere in the Node.
+
+The aim is not to create a complete inventory. It is to identify where existing work can be connected and where greater clarity or coordination may be needed.
+
+**Related examples**  
+[ELIXIR Spain on RDM practices and challenges]({{ site.baseurl }}/examples-01-dm#elixir-spain-rdm-practices-and-challenges) and [ELIXIR Germany on differences between institutes]({{ site.baseurl }}/examples-01-dm#elixir-germany-differences-between-institutes).
+
+{% include callout.html type="tip" content="Compare your notes with a colleague. Do you see the same picture, or are there differences in perspective?" %}
 
 ## Who to involve
 
@@ -138,13 +142,15 @@ You do not need everyone involved from the beginning. Start with the perspective
 **Related examples**  
 [ELIXIR Norway on bringing infrastructures together]({{ site.baseurl }}/examples-01-dm#elixir-norway-bringing-infrastructures-together) and [ELIXIR Spain on Research Data Management training to boost capacity building and community engagement]({{ site.baseurl }}/examples-01-dm#elixir-spain-research-data-management-training-to-boost-capacity-building-and-community-engagement).
 
-{% include callout.html type="warning" content="If only one or two perspectives are represented, important aspects of the data landscape may be missed." %}
+{% capture perspectives_warning %}
+If only one or two perspectives are represented, important aspects of the data landscape may be missed. If some perspectives are not available within your Node, consider involving relevant partners or checking your emerging strategy with them later. See <a href="{{ site.baseurl }}/roles-competences-dm">Roles, competences and your Node team</a> for examples of how relevant expertise may sit across different people and organisations.
+{% endcapture %}
+
+{% include callout.html type="warning" content=perspectives_warning %}
 
 ## What’s next
 
-You now have a clearer reason for developing or refining your Node data management strategy and a practical starting point.
-
-In Chapter 2, you will look more closely at the context in which the strategy needs to work.
+You now have a clearer reason for developing or refining your Node data management strategy and a practical starting point. In Chapter 2, you will look more closely at the context in which the strategy needs to work.
 
 <script>
   document.addEventListener('DOMContentLoaded', function () {
